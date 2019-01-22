@@ -63,8 +63,8 @@
 * Continuous learning about
   * Python software development
   * Project management with GitHub
-  * Continuous Integration with Travis
-  * Foundations of Software Engineering
+  * Continuous integration with Travis
+  * Foundations of software engineering
 * Understanding and avoiding red flags
 * Understanding and adopting best practices
 
