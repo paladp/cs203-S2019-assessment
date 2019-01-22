@@ -82,10 +82,10 @@
 
 ### Interactions
 
-* Interaction with the teaching assistants
 * Interaction with the customer
 * Interaction with the team leaders
 * Interaction with the course instructor
+* Interaction with the teaching assistants
 
 ### Revision of Guides
 
