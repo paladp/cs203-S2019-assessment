@@ -7,7 +7,23 @@ the software engineering team is completing an assignment. The instructor
 invites each student in the course to master the technical and professional
 skills listed on this assignment sheet.
 
-## Accessing the Assignments
+## Improving the Assessment
+
+Please use the GitHub flow model to collaboratively improve the assessment
+sheet. First, you should finalize the list of technical and professional skills
+on which you want to be assessed during the Spring 2019 semester. Then, you
+should describe the student behaviors that would lead to an assessment at one of
+the following levels:
+
+* I = Inadequate
+* A = Adequate
+* G = Good
+* E = Excellent
+
+Finally, you should explain how the assessment for each of the technical and
+professional skills will result in an overall assessment for a software project.
+
+## Problems with the Assessment
 
 If you have any problems with this assessment sheet, then please create an
 issue in this repository using the "Issues" link at the top of this site.
