@@ -104,7 +104,7 @@
   * A = Sometimes breaks the team rules.
   * G = Rarely breaks the team rules.
   * E = Never breaks the team rules.
-  
+
 ### Interactions
 
 * Interaction with the customer
