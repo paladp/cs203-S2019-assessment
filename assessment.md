@@ -17,9 +17,29 @@
 * Linting Python programs with `pylint` and `flake8`
 * Formatting Python programs with `black`
 * Basic testing of Python programs with `pytest`
+  * N = Did not utilize `pytest`
+  * I = Found many errors that were not resolved
+  * A = Found errors that were not resolved
+  * G = Found few errors that were not resolved
+  * E = Found minimal errors and resolved most errors
 * Advanced testing of Python programs with `pytest`
+  * N = Did not utilize `pytest`
+  * I = Found many errors that were not resolved
+  * A = Found errors that were not resolved
+  * G = Found few errors that were not resolved
+  * E = Found minimal errors and resolved most errors
 * Calculating code coverage of a `pytest` test suite
+  * N = Did not utilize `pytest` for code coverage
+  * I = Test suite has low percent of coverage (30 and Below)
+  * A = Test suite has moderate percent of coverage (30 - 50)
+  * G = Test suite has an acceptable percent of coverage (50 - 80)
+  * E = Test suite has a high percent of coverage (80 - 100)
 * Reporting code coverage through an online provider
+  * N = Did not utilize online provider for code coverage
+  * I = Test suite has low percent of coverage (30 and Below)
+  * A = Test suite has moderate percent of coverage (30 - 50)
+  * G = Test suite has an acceptable percent of coverage (50 - 80)
+  * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
 * Adopting and applying appropriate naming conventions
 * Using exception handling to create a robust Python program
