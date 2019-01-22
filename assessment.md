@@ -2,6 +2,7 @@
 
 ## Assessment Key
 
+* N = None
 * I = Inadequate
 * A = Adequate
 * G = Good
