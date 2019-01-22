@@ -13,6 +13,7 @@
 ### Software Development with Python
 
 * Configuring a development environment for Python
+  * N = Unable to setup development environment
 * Running Python programs with `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
 * Formatting Python programs with `black`
