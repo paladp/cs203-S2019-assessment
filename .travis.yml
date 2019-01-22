@@ -1,17 +1,8 @@
-# Use NodeJS
-language: node_js
-
-# Use the latest stable version of NodeJS
-node_js:
-  - "node"
-
-# Use VM-based Travis infrastructure
+# use Java and root
+dist: trusty
 sudo: true
-
-# Only build on the master branch
-branches:
-  only:
-    - master
+language: Java
+jdk: oraclejdk8
 
 # install mdl for checking Markdown
 before_install:
@@ -20,10 +11,6 @@ before_install:
   - pyenv global 3.6.7
   - pip install --upgrade pip
   - pip install proselint
-
-# Make sure that npm is installed
-install:
-  - npm install
 
 # Send emails when there is a change or failure
 notifications:
