@@ -75,11 +75,11 @@
 * Communication
 * Participation
 * Conduct-Manner of acting and how you control yourself in a team environment
-   * N = Never respectful and inclusive of teammates.
-   * I = Sometimes respectful and inclusive of teammates.
-   * A = Regularly respectful and inclusive of teammates.
-   * G = Usually respectful and inclusive of teammates.
-   * E = Always respectful and inclusive of teammates.
+  * N = Never respectful and inclusive of teammates.
+  * I = Sometimes respectful and inclusive of teammates.
+  * A = Regularly respectful and inclusive of teammates.
+  * G = Usually respectful and inclusive of teammates.
+  * E = Always respectful and inclusive of teammates.
 
 * Decisions-positions or opinions or judgments in a team environment 
   * N = Never participate in the decision making process and share your opinion.
