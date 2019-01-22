@@ -87,10 +87,13 @@
     * N = Don't respect the customer and revolking all their ideas
     * I = Respect customer but revolks most of their ideas
     * A = Respect customer but fails to build a system around their needs
-    * G = Respect customer and builds a system around their needs but fails to clearly present your system to your customer
-    * E = Respect customer and builds a system around their needs while being able to clearly present your system to them
+    * G = Respect customer and builds a system around their needs but fails
+      to clearly present your system to your customer
+    * E = Respect customer and builds a system around their needs while being
+      able to clearly present your system to them
 * Interaction with the team leaders
-  * Ask team leaders for scheduling and distribution/collaboration of work type of questions.  
+  * Ask team leaders for scheduling and distribution/collaboration of work
+    type of questions
     * N = Impolite and impatient
     * I = Polite but impatient
     * A = Polite and patient but doesn't have clear requests
