@@ -85,19 +85,31 @@
 * Interaction with the customer
 * Interaction with the team leaders
 * Interaction with the course instructor
-  * Communicate with the instructor, follow the project and course requirements. This include reply email, answer questions..etc.
-    * N = Communicated with the instructor badly, didn't follow the project and course requirements
-    * I = Communicated with the instructor poorly, followed part of the project and course requirements
-    * A = Communicated with the instructor well, followed most of the project and course requirements
-    * G = Communicated with the instructor well, followed all project and course requirements
-    * E = Communicated with the instructor excellently, followed all project and course requirements
+  * Communicate with the instructor, follow the project and course requirements.
+    This include reply email, answer questions..etc.
+    * N = Communicated with the instructor badly, didn't follow
+      the project and course requirements
+    * I = Communicated with the instructor poorly, followed part
+      of the project and course requirements
+    * A = Communicated with the instructor well, followed most
+      of the project and course requirements
+    * G = Communicated with the instructor well, followed all
+      project and course requirements
+    * E = Communicated with the instructor excellently, followed
+      all project and course requirements
 * Interaction with the teaching assistants
   * Communicate with the teaching assistants, ask for their help, share own opinions.
-    * N = Communicated with the TAs badly, hate speach, ignore TAs when they are trying to help
-    * I = Communicated with the TAs poorly, didn't use them well as your resources, didn't talk to them
-    * A = Communicated with the TAs well, but relied on them too much, asked them to do most of the work
-    * G = Communicated with the TAs well, politly asked them questions and try to solve the problem with their help
-    * E = Communicated with the TAs excellently, politly sharing own opinions and work with them well
+    * N = Communicated with the TAs badly, hate speach, ignore
+      TAs when they are trying to help
+    * I = Communicated with the TAs poorly, didn't use them well as your
+      resources, didn't talk to them
+    * A = Communicated with the TAs well, but relied on them too much, asked
+      them to do most of the work
+    * G = Communicated with the TAs well, politly asked them questions and try
+      to solve the problem with their help
+    * E = Communicated with the TAs excellently, politly sharing own
+      opinions and work with them well
+
 ## Revision of Guides
 
 * Revising the assessment form
