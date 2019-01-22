@@ -9,11 +9,12 @@ skills listed on this assignment sheet.
 
 ## Improving the Assessment
 
-Please use the GitHub flow model to collaboratively improve the assessment
-sheet. First, you should finalize the list of technical and professional skills
-on which you want to be assessed during the Spring 2019 semester. Then, you
-should describe the student behaviors that would lead to an assessment at one of
-the following levels:
+Please use the [GitHub flow
+model](https://help.github.com/articles/github-flow/) to collaboratively improve
+the assessment sheet. First, you should finalize the list of technical and
+professional skills on which you want to be assessed during the Spring 2019
+semester. Then, you should describe the student behaviors that would lead to an
+assessment at one of the following levels:
 
 * I = Inadequate
 * A = Adequate
@@ -22,6 +23,8 @@ the following levels:
 
 Finally, you should explain how the assessment for each of the technical and
 professional skills will result in an overall assessment for a software project.
+Once you are finished with the assessment, please update the README as
+necessary.
 
 ## Problems with the Assessment
 
