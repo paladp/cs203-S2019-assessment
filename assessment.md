@@ -30,12 +30,34 @@
 ### Project Management with GitHub
 
 * Using the issue tracker
-* Using the GitHub flow model
+  * N = None
+  * I = Inadequate
+  * A = Adequate
+  * G = Good
+  * E = Excellent
+* Using the GitHub flow model*
+  * N = None
+  N Would indicate that someone pushed directly to the master branch instead of pushing to one of the subbranches.
+  * I = Inadequate
+  Inadequate would indicate that the branch is either Superflous or poorly named. Additionally, this would also indicate that the commit messages are poorly made.
+  * A = Adequate
+  * G = Good
+  * E = Excellent
+    An excellent branch would be a purposeful branch that has a descriptive label.
 * Creating and using a repository branch
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
 * Creating and reviewing a pull request
-* Using appropriate commit messages
+* Using appropriate commit messages*
+  * N = None
+  None would indicate that the commit message was nonsensical. An example of this would be random strings of letters 'sdhjhsdjsd'.
+  * I = Inadequate
+  Inadequate would indicate that the commit message wasn't nonsensical, but ultimately uninformative. An example of this would be "I am so angry" or "Please work".
+  * A = Adequate
+  Adequate would indicate that the commit message both made sense and was descriptive, to an extent. An example of this would be "X.py is broken."
+  * G = Good
+  Good would indicate that the commit message was both clear, and moderately descriptive.
+  * E = Excellent
 
 ### Continuous Integration with Travis
 
