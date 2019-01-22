@@ -40,18 +40,20 @@
 
 * Setup and configure Travis CI
 * Perform secure releases of project deliverables
-* Create third-party integrations with Travis CI (e.g., Codecov.io)
+* Create third-party integrations with Travis CI (e.g., codecov.io)
 * Add README badges that show status of Travis CI builds
-* Add README badges that show project characteristics (e.g., coverage)
+* Add README badges that show project characteristics (e.g., coverage and
+  language)
 
 ### Foundations of Software Engineering
 
 * Requirements engineering
 * Software architecture
 * Software design
-* Software complexity management
 * Software documentation
 * Programming styles
+* Managing software complexity
+* Mitigating software risk
 
 ## Professional Skills
 
@@ -88,4 +90,3 @@
 * Interaction with the customer
 * Interaction with the team leaders
 * Interaction with the course instructor
-
