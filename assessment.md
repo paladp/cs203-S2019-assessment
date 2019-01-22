@@ -82,14 +82,10 @@
   * E = Always respectful and inclusive of teammates.
 * Decisions-positions or opinions or judgments in a team environment.
   * N = Never participate in the decision making process and share your opinion.
-  * I = Sometimes participate in the decision making process and share your
-opinion.
-  * A = Regularly participate in the decision making process and share your
-opinion.
-  * G = Usually participate in the decision making process and share your
-opinion.
-  * E = Always participate in the decision making process and share your
-opinion.
+  * I = Sometimes participate in the decision making process and share your opinion.
+  * A = Regularly participate in the decision making process and share your opinion.
+  * G = Usually participate in the decision making process and share your opinion.
+  * E = Always participate in the decision making process and share your opinion.
 * Postmortems-the analysis or discussion of the work that was done.
   * N = Never participate the analysis or discussion after the work is done.
   * I = Sometimes participate the analysis or discussion after the work is done.
@@ -108,6 +104,7 @@ opinion.
   * A = Sometimes breaks the team rules.
   * G = Rarely breaks the team rules.
   * E = Never breaks the team rules.
+  
 ### Interactions
 
 * Interaction with the customer
