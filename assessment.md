@@ -85,6 +85,17 @@
 * Interaction with the customer
 * Interaction with the team leaders
 * Interaction with the course instructor
+  * Communicate with the instructor, follow the project and course requirements. This include reply email, answer questions..etc.
+    * N = None
+      Communicated with the instructor badly, didn't follow the project and course requirements
+    * I = Inadequate
+      Communicated with the instructor poorly, followed part of the project and course requirements
+    * A = Adequate
+      Communicated with the instructor well, followed most of the project and course requirements
+    * G = Good
+      Communicated with the instructor well, followed all project and course requirements
+    * E = Excellent
+      Communicated with the excellently, followed all project and course requirements
 * Interaction with the teaching assistants
 
 ## Revision of Guides
