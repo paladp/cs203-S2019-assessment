@@ -83,7 +83,7 @@ identifyingnecessarily# Assessment for Team-Based Project Work
   * N = working separate from a team with no communication
   * I = working with a team a small amount of the time with no communication
   * A = working well with a team half of the time with very little communication
-  * G = working well with a team a lot of the time with clear communication
+  * G = working well with a team most of the time with clear communication
   * E = working well with a team all of the time with clear and constructive communication
 * Understanding and avoiding red flags
  * N = ignoring all red flags
