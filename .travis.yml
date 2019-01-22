@@ -15,7 +15,10 @@ notifications:
     on_success: change
     on_failure: always
 
-# Lint the README file with mdl
+# Lint the README.md file with mdl
+# Lint the README.md file with proselint
+# Lint the assessment.md file with mdl
+# Lint the assessment.md file with proselint
 script:
   - mdl README.md
   - proselint README.md
