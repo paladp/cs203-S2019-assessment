@@ -83,7 +83,8 @@
 ### Interactions
 
 * Interaction with the customer
-  * Users are always right, and your goal is to build systems that work for them in a natural way
+  * Users are always right, and your goal is to build systems that
+    work for them in a natural way
     * N = Don't respect the customer and revolking all their ideas
     * I = Respect customer but revolks most of their ideas
     * A = Respect customer but fails to build a system around their needs
