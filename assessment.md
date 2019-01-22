@@ -32,8 +32,23 @@
 * Using the issue tracker
 * Using the GitHub flow model
 * Creating and using a repository branch
+  * N = Routinely committing edits to the master branch or not pushing to correct branches receives a none grade
+  * I = Creating branches with unclear names and no descriptions will receive an inadequate grade
+  * A = Branches named sensibly with unique code and descriptions that adequately describe the branch's purpose receive an adequate grade
+  * G = Well documented changes to correct, well-named and necessary branches will receive a good grade
+  * E = 
 * Creating and using a repository fork
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 * Merging a branch or a fork to another branch or fork
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 * Creating and reviewing a pull request
 * Using appropriate commit messages
 
