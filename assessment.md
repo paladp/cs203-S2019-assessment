@@ -48,43 +48,43 @@
 
 ### Foundations of Software Engineering
 
-* Requirements engineering
-  * N = No effort to document present.
-  * I = Very brief or unspecific documentation given.
+* ***Requirements engineering***
+  * N = No effort to document, define, or maintain requirements present.
+  * I = Very brief or unspecific documentation, definition, and maintenance given.
   * A = Explains what was done with enough detail to convey the most important information.
-  * G = Documentation is well written and gives other team members an informed idea of the process.
-  * E = Highly detailed and elaborate documentation on the given process.
-* Software architecture
+  * G = Documentation and definition are well written and gives other team members an informed idea of the process.
+  * E = The software engineer displayed highly detailed, elaborate, and complete documentation, definition, and maintenance in the given design process.
+* ***Software architecture***
+  * N = There is no concrete structure and the master branch is broken.
+  * I = There are small amounts of structure to the code where it may or may not run correctly, and the master branch is broken.
+  * A = There is a blueprint for the software system that lacks completion, and the master branch is not broken.
+  * G = There is a completed blueprint for the software system and a working master branch.
+  * E = The software system contains high-level structures that contain software elements in a complex and complete blueprint of the software system. Additionally, the master branch has no errors and contains completed code.
+* ***Software design***
   * N =
   * I =
   * A =
   * G =
   * E =
-* Software design
+* ***Software documentation***
   * N =
   * I =
   * A =
   * G =
   * E =
-* Software documentation
+* ***Programming styles***
   * N =
   * I =
   * A =
   * G =
   * E =
-* Programming styles
+* ***Managing software complexity***
   * N =
   * I =
   * A =
   * G =
   * E =
-* Managing software complexity
-  * N =
-  * I =
-  * A =
-  * G =
-  * E =
-* Mitigating software risk
+* ***Mitigating software risk***
   * N =
   * I =
   * A =
