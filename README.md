@@ -16,6 +16,7 @@ professional skills on which you want to be assessed during the Spring 2019
 semester. Then, you should describe the student behaviors that would lead to an
 assessment at one of the following levels:
 
+* N = None
 * I = Inadequate
 * A = Adequate
 * G = Good
