@@ -92,7 +92,7 @@
   * A = Regularly participate the analysis or discussion after the work is done.
   * G = Usually participate the analysis or discussion after the work is done.
   * E = Always participate the analysis or discussion after the work is done.
-* Conflicts-disagreements and divergences in the the teamwork.
+* Conflicts-disagreements and divergences in the teamwork.
   * N = Never handles differences with teammates in mature manner.
   * I = Sometimes handles differences with teammates in mature manner.
   * A = Regularly handles differences with teammates in mature manner.
