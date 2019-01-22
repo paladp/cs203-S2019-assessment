@@ -60,7 +60,7 @@
 
 ### Individual
 
-* Continuous learning
+* Continuous learning about
   * Python software development
   * Project management with GitHub
   * Continuous Integration with Travis
