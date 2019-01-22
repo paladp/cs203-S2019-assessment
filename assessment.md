@@ -80,11 +80,11 @@
     * G = Enabling Travis, and passing all of the Travis checks
     * E = Enabling Travis, passing all checks, and assisting others who are struggling or improving issues with Travis if found
  * Foundations of software engineering practices
-  * N = Working separate from a team with no communication
-  * I = Working with a team a small amount of the time with no communication
-  * A = Working well with a team half of the time with very little communication
-  * G = Working well with a team most of the time with clear communication
-  * E = Working well with a team all of the time with clear and constructive communication
+    * N = Working separate from a team with no communication
+    * I = Working with a team a small amount of the time with no communication
+    * A = Working well with a team half of the time with very little communication
+    * G = Working well with a team most of the time with clear communication
+    * E = Working well with a team all of the time with clear and constructive communication
 * Understanding and avoiding red flags
     * N = Ignoring all red flags
     * I = Would be identifying red flags, but not fixing them
