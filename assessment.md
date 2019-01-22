@@ -49,12 +49,47 @@
 ### Foundations of Software Engineering
 
 * Requirements engineering
+  * N = No effort to document present.
+  * I = Very brief or unspecific documentation given.
+  * A = Explains what was done with enough detail to convey the most important information.
+  * G = Documentation is well written and gives other team members an informed idea of the process.
+  * E = Highly detailed and elaborate documentation on the given process.
 * Software architecture
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 * Software design
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 * Software documentation
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 * Programming styles
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 * Managing software complexity
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 * Mitigating software risk
+  * N =
+  * I =
+  * A =
+  * G =
+  * E =
 
 ## Professional Skills
 
