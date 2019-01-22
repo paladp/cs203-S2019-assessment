@@ -1,4 +1,4 @@
-identifyingnecessarily# Assessment for Team-Based Project Work
+# Assessment for Team-Based Project Work
 
 ## Assessment Key
 
@@ -62,7 +62,7 @@ identifyingnecessarily# Assessment for Team-Based Project Work
 
 * Continuous learning about
  * Python software development
-    * N = S lack of new knowledge and/or contributions to any project
+    * N = A lack of new knowledge and/or contributions to any project
     * I = Incomplete knowledge or minuscule contributions to projects
     * A = An average amount of knowledge and contributions to each project
     * G = An above average amount of knowledge and contributions to each project
