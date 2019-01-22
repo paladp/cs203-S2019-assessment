@@ -61,30 +61,30 @@
 ### Individual
 
 * Continuous learning about
- * Python software development
-    * N = A lack of new knowledge and/or contributions to any project
-    * I = Incomplete knowledge or minuscule contributions to projects
-    * A = An average amount of knowledge and contributions to each project
-    * G = An above average amount of knowledge and contributions to each project
-    * E = Going above and beyond the expectations and contributions of others
- * Project management with GitHub, specifically the Flow Model
-    * N = A complete disregard for the model, especially multiple instances of overriding the master branch
-    * I = Occasional disregard for the model including overriding the master branch
-    * A = Almost always adhering to model, but never overriding the master branch
-    * G = Making only minor mistakes while trying to follow the model and providing a positive influence on other aspects such as issues and communication
-    * E = A lack of mistakes in addition to emerging as a leader who provides support to others who may be struggling with project management
- * Continuous integration with Travis
-    * N = Failing to enable Travis at all or not passing any requirements on any assignment
-    * I = Enabling Travis, but failing the majority of checks
-    * A = Enabling Travis, and passing a majority of Travis checks
-    * G = Enabling Travis, and passing all of the Travis checks
-    * E = Enabling Travis, passing all checks, and assisting others who are struggling or improving issues with Travis if found
- * Foundations of software engineering practices
-    * N = Working separate from a team with no communication
-    * I = Working with a team a small amount of the time with no communication
-    * A = Working well with a team half of the time with very little communication
-    * G = Working well with a team most of the time with clear communication
-    * E = Working well with a team all of the time with clear and constructive communication
+   * Python software development
+      * N = A lack of new knowledge and/or contributions to any project
+      * I = Incomplete knowledge or minuscule contributions to projects
+      * A = An average amount of knowledge and contributions to each project
+      * G = An above average amount of knowledge and contributions to each project
+      * E = Going above and beyond the expectations and contributions of others
+   * Project management with GitHub, specifically the Flow Model
+      * N = A complete disregard for the model, especially multiple instances of overriding the master branch
+      * I = Occasional disregard for the model including overriding the master branch
+      * A = Almost always adhering to model, but never overriding the master branch
+      * G = Making only minor mistakes while trying to follow the model and providing a positive influence on other aspects such as issues and communication
+      * E = A lack of mistakes in addition to emerging as a leader who provides support to others who may be struggling with project management
+   * Continuous integration with Travis
+      * N = Failing to enable Travis at all or not passing any requirements on any assignment
+      * I = Enabling Travis, but failing the majority of checks
+      * A = Enabling Travis, and passing a majority of Travis checks
+      * G = Enabling Travis, and passing all of the Travis checks
+      * E = Enabling Travis, passing all checks, and assisting others who are struggling or improving issues with Travis if found
+   * Foundations of software engineering practices
+      * N = Working separate from a team with no communication
+      * I = Working with a team a small amount of the time with no communication
+      * A = Working well with a team half of the time with very little communication
+      * G = Working well with a team most of the time with clear communication
+      * E = Working well with a team all of the time with clear and constructive communication
 * Understanding and avoiding red flags
     * N = Ignoring all red flags
     * I = Would be identifying red flags, but not fixing them
