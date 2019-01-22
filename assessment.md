@@ -80,14 +80,14 @@
 * Conflicts
 * Infractions
 
-### Revision of Guides
-
-* Revising the assessment form
-* Revising the code of conduct
-
 ### Interactions
 
 * Interaction with the teaching assistants
 * Interaction with the customer
 * Interaction with the team leaders
 * Interaction with the course instructor
+
+### Revision of Guides
+
+* Revising the assessment form
+* Revising the code of conduct
