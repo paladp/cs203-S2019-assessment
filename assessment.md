@@ -24,8 +24,24 @@
 * Adopting and applying appropriate naming conventions
 * Using exception handling to create a robust Python program
 * Refactoring a Python program to improve its characteristics
+  * N = None
+  * I = Inadequate
+  * A = Adequate
+  * G = Good
+  * E = Excellent
 * Debugging Python programs using logging and other methods
+  * N = None
+  * I = Inadequate
+  * A = Adequate
+  * G = Good
+  * E = Excellent
 * Adopting and using appropriate Python language constructs
+  * N = None
+  * I = Inadequate
+  * A = Adequate
+  * G = Good
+  * E = Excellent
+
 
 ### Project Management with GitHub
 
