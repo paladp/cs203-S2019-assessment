@@ -61,11 +61,11 @@
   * G = There is a completed blueprint for the software system and a working master branch
   * E = The software system contains high-level structures that contain software elements in a complex and complete blueprint of the software system, the master branch has no errors and contains completed code
 * ***Software design***
-  * N =
-  * I =
-  * A =
-  * G =
-  * E =
+* N = No problem solving steps taken
+* I = Initial steps are taken to conceptualize, frame, and implement systems
+* A = 
+* G = A software solution is created that includes both an algorithm design and a high-level architecture design
+* E = All goals and expectations of the design are met and Compatibility, Reliability, Reusability, and Scalability are included. A software solution is created that includes both an algorithm design and a high-level architecture design
 * ***Software documentation***
   * N =
   * I =
