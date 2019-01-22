@@ -87,7 +87,7 @@
 * Interaction with the course instructor
 * Interaction with the teaching assistants
 
-### Revision of Guides
+## Revision of Guides
 
 * Revising the assessment form
 * Revising the code of conduct
