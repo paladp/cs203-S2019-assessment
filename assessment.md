@@ -80,11 +80,19 @@ identifyingnecessarily# Assessment for Team-Based Project Work
     * G = enabling Travis, and passing all of the Travis checks
     * E = enabling Travis, passing all checks, and assisting others who are struggling or improving issues with Travis if found
  * Foundations of software engineering practices
+<<<<<<< HEAD
     * N = working separate from a team with no communication
     * I = working with a team a small amount of the time with no communication
     * A = working well with a team half of the time with very little communication
     * G = working well with a team most of the time with clear communication
     * E = working well with a team all of the time with clear and constructive communication
+=======
+  * N = working separate from a team with no communication
+  * I = working with a team a small amount of the time with no communication
+  * A = working well with a team half of the time with very little communication
+  * G = working well with a team a lot of the time with clear communication
+  * E = working well with a team all of the time with clear and constructive communication
+>>>>>>> 333b0c1878aa3a7662956de8590e8388b69c77c2
 * Understanding and avoiding red flags
     * N = ignoring all red flags
     * I = would be identifying red flags, but not fixing them
