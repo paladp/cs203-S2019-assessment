@@ -62,57 +62,62 @@
 
 * Continuous learning about
   * Python software development
-      * N = A lack of new knowledge and/or contributions 
+    * N = A lack of new knowledge and/or contributions 
         to any project
-      * I = Incomplete knowledge or minuscule contributions 
+    * I = Incomplete knowledge or minuscule contributions 
         to projects
-      * A = An average amount of knowledge and contributions 
+    * A = An average amount of knowledge and contributions 
         to each project
-      * G = An above average amount of knowledge and contributions 
+    * G = An above average amount of knowledge and contributions 
         to each project
-      * E = Going above and beyond the expectations and contributions 
+    * E = Going above and beyond the expectations and contributions 
         of others
-   * Project management with GitHub, specifically the Flow Model
-      * N = A complete disregard for the model, especially multiple 
+  * Project management with GitHub, specifically the Flow Model
+    * N = A complete disregard for the model, especially multiple 
         instances of overriding the master branch
-      * I = Occasional disregard for the model including overriding 
+    * I = Occasional disregard for the model including overriding 
         the master branch
-      * A = Almost always adhering to model, but never overriding 
+    * A = Almost always adhering to model, but never overriding 
         the master branch
-      * G = Making only minor mistakes while trying to follow the model 
-        and providing a positive influence on other aspects such as issues and communication
-      * E = A lack of mistakes in addition to emerging as a leader who 
-        provides support to others who may be struggling with project management
-   * Continuous integration with Travis
-      * N = Failing to enable Travis at all or not passing any requirements 
-        on any assignment
-      * I = Enabling Travis, but failing the majority of checks
-      * A = Enabling Travis, and passing a majority of Travis checks
-      * G = Enabling Travis, and passing all of the Travis checks
-      * E = Enabling Travis, passing all checks, and assisting others who are 
-        struggling or improving issues with Travis if found
-   * Foundations of software engineering practices
-      * N = Working separate from a team with no communication
-      * I = Working with a team a small amount of the time with no communication
-      * A = Working well with a team half of the time with very little communication
-      * G = Working well with a team most of the time with clear communication
-      * E = Working well with a team all of the time with clear and constructive communication
+    * G = Making only minor mistakes while trying to follow the model 
+        and providing a positive influence on other aspects such as issues 
+        and communication
+    * E = A lack of mistakes in addition to emerging as a leader who 
+      provides support to others who may be struggling with project 
+      management
+  * Continuous integration with Travis
+    * N = Failing to enable Travis at all or not passing any requirements 
+      on any assignment
+    * I = Enabling Travis, but failing the majority of checks
+    * A = Enabling Travis, and passing a majority of Travis checks
+    * G = Enabling Travis, and passing all of the Travis checks
+    * E = Enabling Travis, passing all checks, and assisting others who are 
+      struggling or improving issues with Travis if found
+  * Foundations of software engineering practices
+    * N = Working separate from a team with no communication
+    * I = Working with a team a small amount of the time with no communication
+    * A = Working well with a team half of the time with little communication
+    * G = Working well with a team most of the time with clear communication
+    * E = Working well with a team all of the time with clear and constructive 
+      communication
 * Understanding and avoiding red flags
-      * N = Ignoring all red flags
-      * I = Would be identifying red flags, but not fixing them
-      * A = Identifying and fixing a red flag
-      * G = Identifying, understanding and fixing a red flag to prevent future bugs
-      * E = Identifying, understanding, and fixing all red flags
- * Understanding and adopting best practices
-      * N = A severe lack of understanding and refusal to adopt best practices
-      * I = Slight understanding and occasional use and identification of the best 
+  * To avoid the errors
+    * N = Ignoring all red flags
+    * I = Would be identifying red flags, but not fixing them
+    * A = Identifying and fixing a red flag
+    * G = Identifying, understanding and fixing a red flag to prevent future bugs
+    * E = Identifying, understanding, and fixing all red flags
+* Understanding and adopting best practices
+  * Adopt group practices
+    * N = A severe lack of understanding and refusal to adopt best practices
+    * I = Slight understanding and occasional use and identification of the best 
         practices
-      * A = An average amount of understanding and general identification and use of 
+    * A = An average amount of understanding and general identification and use of 
         best practices
-      * G = Above average demonstrations of understanding and the ability to find and utilize 
-        best practices
-      * E = Full understanding of concepts, would also include the ability to determine which 
-        practices are better than others and then applying those practices
+    * G = Above average demonstrations of understanding and the ability to find and 
+      utilize best practices
+    * E = Full understanding of concepts, would also include the ability to determine 
+      which practices are better than others and then applying those practices
 
 ### Group
 
@@ -136,6 +141,7 @@
 ## Revision of Guides
 
 * Revising the assessment form
+  * [Assessment Sheet](https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-assessment)
     * N = Not reading the assessment form nor making contributions to it
     * I = Not reading the assessment form in its final state, but making minor 
       contributions thus improving the initial state
@@ -146,6 +152,7 @@
     * E = A complete understanding of the assessment form, major contributions, and 
       continuing to improve it throughout the semester as needed
 * Revising the code of conduct
+  * [Conduct Guide](https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-conduct)
     * N = Not reading the code of conduct nor making contributions to it
     * I = Not reading the code of conduct in its final state, but making minor 
       contributions thus improving the initial state
