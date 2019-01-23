@@ -55,11 +55,11 @@
   * E = a status badge for Travis CI builds is in the README and is in an appropriate location in relation to any other status badges
 * Add README badges that show project characteristics (e.g., coverage and
   language)
-   * N =
-   * I =
-   * A =
-   * G =
-   * E =
+   * N = no status badges were added besides one for the build status of Travis CI
+   * I = only some of the relevant status badges were added besides one for the build status of Travis CI
+   * A = all relevant status badges were added but are not in appropriate locations
+   * G = all relevant status badges were added and are in an appropriate location but not in relation to each other
+   * E = all relevant status badges were added and are in an appropriate location in relation to each other and a potentially present status badge for Travis CI builds
 
 ### Foundations of Software Engineering
 
