@@ -98,7 +98,7 @@
     * I = Working with a team a small amount of the time with no communication
     * A = Working well with a team half of the time with little communication
     * G = Working well with a team most of the time with clear communication
-    * E = Working well with a team all of the time with clear and constructive
+    * E = Working well with a team all time with clear and constructive
       communication
 * Understanding and avoiding red flags
   * To avoid the errors
@@ -110,8 +110,8 @@
 * Understanding and adopting best practices
   * Adopt group practices
     * N = A severe lack of understanding and refusal to adopt best practices
-    * I = Slight understanding and occasional use and identification of the best 
-        practices
+    * I = Slight understanding and occasional use and identification of the
+      best practices
     * A = An average amount of understanding and general identification and use of
         best practices
     * G = Above average demonstrations of understanding and the ability to find and
