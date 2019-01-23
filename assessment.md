@@ -74,36 +74,41 @@
 * Deadlines
 * Communication
 * Participation
-* Conduct-Manner of acting and how you control yourself in a team environment.
-  * N = Never respectful and inclusive of teammates.
-  * I = Sometimes respectful and inclusive of teammates.
-  * A = Regularly respectful and inclusive of teammates.
-  * G = Usually respectful and inclusive of teammates.
-  * E = Always respectful and inclusive of teammates.
-* Decisions-positions or opinions or judgments in a team environment.
-  * N = Never participate in the decision making process and share your opinion.
-  * I = Sometimes participate in the decision making process and share your opinion.
-  * A = Regularly participate in the decision making process and share your opinion.
-  * G = Usually participate in the decision making process and share your opinion.
-  * E = Always participate in the decision making process and share your opinion.
-* Postmortems-the analysis or discussion of the work that was done.
-  * N = Never participate the analysis or discussion after the work is done.
-  * I = Sometimes participate the analysis or discussion after the work is done.
-  * A = Regularly participate the analysis or discussion after the work is done.
-  * G = Usually participate the analysis or discussion after the work is done.
-  * E = Always participate the analysis or discussion after the work is done.
-* Conflicts-disagreements and divergences in the teamwork.
-  * N = Never handles differences with teammates in mature manner.
-  * I = Sometimes handles differences with teammates in mature manner.
-  * A = Regularly handles differences with teammates in mature manner.
-  * G = Usually handles differences with teammates in mature manner.
-  * E = Always handles differences with teammates in mature manner.
-* Infractions-the acts of breaking the team rule.
-  * N = Always breaks the team rules.
-  * I = Usually breaks the team rules.
-  * A = Sometimes breaks the team rules.
-  * G = Rarely breaks the team rules.
-  * E = Never breaks the team rules.
+* Conduct
+  * Manner of acting and how you control yourself in a team environment.
+    * N = Never respectful and inclusive of teammates.
+    * I = Sometimes respectful and inclusive of teammates.
+    * A = Regularly respectful and inclusive of teammates.
+    * G = Usually respectful and inclusive of teammates.
+    * E = Always respectful and inclusive of teammates.
+* Decisions
+  * Positions or opinions or judgments in a team environment.
+    * N = Never participate in the decision making process and share your opinion.
+    * I = Sometimes participate in the decision making process and share your opinion.
+    * A = Regularly participate in the decision making process and share your opinion.
+    * G = Usually participate in the decision making process and share your opinion.
+    * E = Always participate in the decision making process and share your opinion.
+* Postmortems
+  * The analysis or discussion of the work that was done.
+    * N = Never participate the analysis or discussion after the work is done.
+    * I = Sometimes participate the analysis or discussion after the work is done.
+    * A = Regularly participate the analysis or discussion after the work is done.
+    * G = Usually participate the analysis or discussion after the work is done.
+    * E = Always participate the analysis or discussion after the work is done.
+* Conflicts
+  * Disagreements and divergences in the teamwork.
+    * N = Never handles differences with teammates in mature manner.
+    * I = Sometimes handles differences with teammates in mature manner.
+    * A = Regularly handles differences with teammates in mature manner.
+    * G = Usually handles differences with teammates in mature manner.
+    * E = Always handles differences with teammates in mature manner.
+* Infractions
+  * The acts of breaking the team rule.
+    * N = Always breaks the team rules.
+    * I = Usually breaks the team rules.
+    * A = Sometimes breaks the team rules.
+    * G = Rarely breaks the team rules.
+    * E = Never breaks the team rules.
 
 ### Interactions
 
