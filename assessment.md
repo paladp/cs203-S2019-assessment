@@ -134,15 +134,24 @@
 * Interaction with the teaching assistants
 
 ## Revision of Guides
+
 * Revising the assessment form
     * N = Not reading the assessment form nor making contributions to it
-    * I = Not reading the assessment form in its final state, but making minor contributions thus improving the initial state
-    * A = A complete understanding of the assessment form and some contributions in order to enhance it
-    * G = A complete understanding of the assessment form and multiple contributions to improve it
-    * E = A complete understanding of the assessment form, major contributions, and continuing to improve it throughout the semester as needed
+    * I = Not reading the assessment form in its final state, but making minor 
+      contributions thus improving the initial state
+    * A = A complete understanding of the assessment form and some contributions 
+      in order to enhance it
+    * G = A complete understanding of the assessment form and multiple contributions 
+      to improve it
+    * E = A complete understanding of the assessment form, major contributions, and 
+      continuing to improve it throughout the semester as needed
 * Revising the code of conduct
     * N = Not reading the code of conduct nor making contributions to it
-    * I = Not reading the code of conduct in its final state, but making minor contributions thus improving the initial state
-    * A = A complete understanding of the code of conduct and some contributions in order to enhance it
-    * G = A complete understanding of the code of conduct and multiple contributions to improve it
-    * E = A complete understanding of the code of conduct, major contributions, and continuing to improve it throughout the semester as needed
+    * I = Not reading the code of conduct in its final state, but making minor 
+      contributions thus improving the initial state
+    * A = A complete understanding of the code of conduct and some contributions 
+      in order to enhance it
+    * G = A complete understanding of the code of conduct and multiple 
+      contributions to improve it
+    * E = A complete understanding of the code of conduct, major contributions, 
+      and continuing to improve it throughout the semester as needed
