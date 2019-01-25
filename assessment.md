@@ -200,7 +200,7 @@
 * Interaction with the customer
   * Users are always right, and your goal is to build systems that
     work for them in a natural way
-    * N = Don't respect the customer and revolking all their ideas
+    * N = Do not respect the customer and revolking all their ideas
     * I = Respect customer but revolks most of their ideas
     * A = Respect customer but fails to build a system around their needs
     * G = Respect customer and builds a system around their needs but fails
@@ -212,13 +212,13 @@
     type of questions
     * N = Impolite and impatient
     * I = Polite but impatient
-    * A = Polite and patient but doesn't have clear requests
-    * G = Polite and patient but doesn't respond to team leaders
+    * A = Polite and patient but does not have clear requests
+    * G = Polite and patient but does not respond to team leaders
     * E = Polite and patient
 * Interaction with the course instructor
   * Communicate with the instructor, follow the project and course requirements.
     This include reply email, answer questions..etc.
-    * N = Communicated with the instructor badly, didn't follow
+    * N = Communicated with the instructor badly, did not follow
       the project and course requirements
     * I = Communicated with the instructor poorly, followed part
       of the project and course requirements
@@ -230,10 +230,10 @@
       all project and course requirements
 * Interaction with the teaching assistants
   * Communicate with the teaching assistants, ask for their help, share own opinions.
-    * N = Communicated with the TAs badly, hate speach, ignore
+    * N = Communicated with the TAs badly, hate speech, ignore
       TAs when they are trying to help
-    * I = Communicated with the TAs poorly, didn't use them well as your
-      resources, didn't talk to them
+    * I = Communicated with the TAs poorly, did not use them well as your
+      resources, did not talk to them
     * A = Communicated with the TAs well, but relied on them too much, asked
       them to do most of the work
     * G = Communicated with the TAs well, politly asked them questions and try
