@@ -31,19 +31,36 @@
 
 * Using the issue tracker
   * N = None
+  None would indicate that someone did not use the issue tracker.
   * I = Inadequate
+  Inadequate would indicate that an issue is posted but it is either redundant or incomprehensible.
+  Ex. "Ajssjdjssd"(incomprehensible) or posting that a program's main method is broken when three other people have done the same thing.
   * A = Adequate
+  Adequate would indicate that the issue posted is neither redundant nor incomprehensible, but isn't  
+  descriptive or clear.
+  Ex. "Your program is broken."
   * G = Good
+  Good would indicate that the issue posted is neither redundant nor incomprehensible, and is moderately
+  descriptive and clear. Ex. "Your math function is broken."
   * E = Excellent
+  Good would indicate that the issue posted is neither redundant nor incomprehensible, and is detailed and
+  easy to understand and follow. Ex. "Your math function is broken because you forgot a semi-colon." Error
+  messages from the terminal can also be incorporated. Ex "Terminal said that the function was given too
+  many arguments."
+
 * Using the GitHub flow model*
   * N = None
-  N Would indicate that someone pushed directly to the master branch instead of pushing to one of the subbranches.
+  N Would indicate that someone pushed directly to the master branch instead of pushing to one of the
+  subbranches. Additionally, they had nonsensical commit messages, and did not create or use repository
+  branches or forks correctly, and also performed incorrect merges and pull requests.  
   * I = Inadequate
-  Inadequate would indicate that the branch is either Superflous or poorly named. Additionally, this would also indicate that the commit messages are poorly made.
+   Inadequate would indicate that forks, and repositories are made correctly. Additionally, merges and pull requests are done correctly and the commit messages can be understood, but the programmer pushed to the master branch.  Good would indicate that the issue posted is neither redundant nor incomprehensible, and is moderately
+  descriptive and clear.
   * A = Adequate
-  * G = Good
+   Adequate would indicate that the programmer correctly made subbranches and did not push to the master branch. Merge and pull requests are done correctly, commit messages can be understood. Additionally, all forks and repositories were made correctly as well.
   * E = Excellent
-    An excellent branch would be a purposeful branch that has a descriptive label.
+    An excellent branch would be a purposeful branch that has a descriptive label. Had strong commit
+    messages, in addition to using and creating repository branches, forks, and pull request correctly.
 * Creating and using a repository branch
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
@@ -54,10 +71,12 @@
   * I = Inadequate
   Inadequate would indicate that the commit message wasn't nonsensical, but ultimately uninformative. An example of this would be "I am so angry" or "Please work".
   * A = Adequate
-  Adequate would indicate that the commit message both made sense and was descriptive, to an extent. An example of this would be "X.py is broken."
+  Adequate would indicate that the commit message both made sense and was descriptive, to an extent. An example of this would be "X.py is broken." or "I added lines to the main method"
   * G = Good
-  Good would indicate that the commit message was both clear, and moderately descriptive.
+  Good would indicate that the commit message was both clear, and moderately descriptive. "The main method
+  of X.py is broken." or "created three new variables in the main method"
   * E = Excellent
+  Excellent indicates a adequately detailed and clear commit message. "The main method isn't calling correctly" or "created three ints in the main method"
 
 ### Continuous Integration with Travis
 
