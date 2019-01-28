@@ -35,20 +35,20 @@
   * N = Routinely committing edits to the master branch or not pushing to correct branches receives a none grade
   * I = Creating branches with unclear names and no descriptions will receive an inadequate grade
   * A = Branches named sensibly with unique code and descriptions that adequately describe the branch's purpose receive an adequate grade
-  * G = Well documented changes to correct, well-named and necessary branches will receive a good grade
-  * E = 
+  * G = Well documented changes to correct well-named and necessary branches will receive a good grade
+  * E = Immaculately documented changes on branches that serve extremely important purposes will receive an excellent grade
 * Creating and using a repository fork
-  * N =
-  * I =
-  * A =
-  * G =
-  * E =
+  * N = Pushing to the wrong fork or making forks that serve no purpose will receive a non grade
+  * I = Forks with unclear names and purposes will receive an inadequate grade
+  * A = Creating and pushing to forks that are necessary to our design that have detailed annotations will receive an adequate grade
+  * G = Highly detailed forks with well-kept history and well-annotated code will receive a good grade
+  * E = Immaculately detailed forks with an impeccably annotated history will receive an excellent grade
 * Merging a branch or a fork to another branch or fork
-  * N =
-  * I =
-  * A =
-  * G =
-  * E =
+  * N = Not communicating changes before merging branches and forks receives a none grade
+  * I = Merging with lackluster communication with the team or merging faulty code receives an inadequate grade
+  * A = Communicating changes with the team and reconciling differences between code receives and adequate grade
+  * G = Merging branches after extensive communication with the team receives a good grade
+  * E = Immaculately detailed code and communication with the team before merging receives an excellent grade
 * Creating and reviewing a pull request
 * Using appropriate commit messages
 
