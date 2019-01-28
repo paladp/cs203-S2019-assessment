@@ -48,9 +48,29 @@
   * G = Same requirements as level 'A' in addition to solving any problems with the installation of `black`
   * E = Same requirements as level 'G' in addition to being able to help other students troubleshoot
 * Basic testing of Python programs with `pytest`
+  * N = Did not utilize `pytest`
+  * I = Found many errors that were not resolved
+  * A = Found errors that were not resolved
+  * G = Found few errors that were not resolved
+  * E = Found minimal errors and resolved most errors
 * Advanced testing of Python programs with `pytest`
+  * N = Did not utilize `pytest`
+  * I = Found many errors that were not resolved
+  * A = Found errors that were not resolved
+  * G = Found few errors that were not resolved
+  * E = Found minimal errors and resolved most errors
 * Calculating code coverage of a `pytest` test suite
+  * N = Did not utilize `pytest` for code coverage
+  * I = Test suite has low percent of coverage (30 and Below)
+  * A = Test suite has moderate percent of coverage (30 - 50)
+  * G = Test suite has an acceptable percent of coverage (50 - 80)
+  * E = Test suite has a high percent of coverage (80 - 100)
 * Reporting code coverage through an online provider
+  * N = Did not utilize online provider for code coverage
+  * I = Test suite has low percent of coverage (30 and Below)
+  * A = Test suite has moderate percent of coverage (30 - 50)
+  * G = Test suite has an acceptable percent of coverage (50 - 80)
+  * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
  * N = Student did not use docstrings
  * I = Students incorrectly attempted docstrings unidentifiable to compiler
