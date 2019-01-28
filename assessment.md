@@ -14,9 +14,39 @@
 
 * Configuring a development environment for Python
   * N = Unable to setup development environment
+  * I = Minimal development environment for Python.
+  * A = Basic development environment configured, including proper dependencies
+  and development tools.
+  * G = Additional development tools configured, in addition to minimum required
+  dependencies and developments
+  * E = Additional development tools configured and able to provide assistance
+  and troubleshooting to other students regarding their own development
+  environment
 * Running Python programs with `pyenv` and `pipenv`
+  * N = `pyenv` and `pipenv` not installed or setup
+  * I = Unable to run programs with `pyenv` and `pipenv`
+  * A = Able to run programs with `pyenv` and `pipenv`
+  * G = Able to run programs with `pyenv` and `pipenv` using additional commands
+  and flags as necessary
+  * E = Able to run programs with `pyenv` and `pipenv` using additional commands
+  and flags to streamline workflow, while being able to provide assistance and
+  troubleshooting to other students using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
+  * N = `pylint` and `flake8` not installed or setup
+  * I = Unable to run `pylint` and `flake8` to lint Python programs
+  * A = Able to run `pylint` and `flake8` to lint Python programs and
+  successfully address output to ensure program passes `pylint` and `flake8`
+  * G = Same requirements as level 'A' in addition to understanding other
+  functionalities of `pylint` and `flake8` such as suppressing messages and
+  overrides
+  * E = Same requirements as level 'G' in addition to being able to help other
+  students trouble shoot `pylint` and `flake8`
 * Formatting Python programs with `black`
+  * N = `black` not installed or setup
+  * I = Unable to run `black` to format Python programs
+  * A = Able to run `black` to format Python programs
+  * G = Same requirements as level 'A' in addition to solving any problems with the installation of `black`
+  * E = Same requirements as level 'G' in addition to being able to help other students troubleshoot
 * Basic testing of Python programs with `pytest`
 * Advanced testing of Python programs with `pytest`
 * Calculating code coverage of a `pytest` test suite
