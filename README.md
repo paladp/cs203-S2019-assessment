@@ -37,6 +37,27 @@ team created pull requests to edit the part they were assigned to do. We then me
 team forks to a main for to make sure we all have the same format. After that, we are
 safe tomerge everything into the main repository.
 
+The Professional Skills part of the Assessment Sheet is done by Team Spencer:
+@Lancasterwu - Interactions with the course instructor and Interactions with the 
+Teaching assistant
+@mmarconi - Attendance, Deadlines, Communication, Participation
+@libailong - Conduct, Decisions, Postmortems, Conflicts, Infractions
+@huangs1 - Interactions with the customer and interactions with the team leaders
+
+This group of students finished Groups and Interactions of Professional Skills
+
+@everitt-andrew
+@ALEXANDERB82
+@leonardoz15
+@reibelj (Johnathan Reibel)
+
+This group of students were unclear on commits and they committed all their
+work through one person so I wasn't able to dissect what each of them did.But,
+they were responsible for the Individual and Revision of Guides section of
+Professional Skills
+
+(We need other teams)
+
 ## Challenges When Making Assessment Sheet
 
 If you have any problems with this assessment sheet, then please create an
