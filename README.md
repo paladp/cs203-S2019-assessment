@@ -9,23 +9,25 @@ skills listed on this assignment sheet.
 
 ## Improving the Assessment
 
-Please use the [GitHub flow
+The students from [Computer Science 203 Spring
+2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/) used [GitHub flow
 model](https://help.github.com/articles/github-flow/) to collaboratively improve
-the assessment sheet. First, you should finalize the list of technical and
-professional skills on which you want to be assessed during the Spring 2019
-semester. Then, you should describe the student behaviors that would lead to an
+the assessment sheet. Students finalized the list of technical and
+professional skills on which they want to be assessed during the Spring 2019
+semester. They also described the student behaviors that would lead to an
 assessment at one of the following levels:
 
 * N = None
-* I = Inadequate
+* I = InadequateR
 * A = Adequate
 * G = Good
 * E = Excellent
 
 Finally, you should explain how the assessment for each of the technical and
 professional skills will result in an overall assessment for a software project.
+(need more explainations here)
 Once you are finished with the assessment, please update the README as
-necessary.
+necessary.(Will delete this line after we finished updating)
 
 ## Problems with the Assessment
 
