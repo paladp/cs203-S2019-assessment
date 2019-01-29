@@ -82,8 +82,6 @@ livingstonp229 (Paul Livingston)
 ohnoanarrow (Tara Douglass)
 ```
 
-(We need other teams)
-
 ## Challenges When Making Assessment Sheet
 
 When making the Assessment Sheet, we started out rather disorganized and in
