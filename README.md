@@ -77,8 +77,7 @@ This group worked together so  there is no description of the specific person
 Project Management With GitHub and Continuous Integration With Travis CI by:
 
 * finneyj2 (Jahlia Finney) - Implemented rubric for Commit messages, Issue Tracking
-and Github flow
-
+  and Github flow
 * Alex-Yarkosky (Alex Yarkosky) - Implemented rubric for creating and pulling
   PRs, README badges for Travis CI and README badges for project characteristics
 * livingstonp229 (Paul Livingston) - Implemented rubric for creating and using repository
