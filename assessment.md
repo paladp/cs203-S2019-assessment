@@ -51,7 +51,7 @@
   students troubleshoot
 * Basic testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
-  * I = Found many errors that were not resolved
+  * I = Found many errors that were not resolved in testing
   * A = Found errors that were not resolved
   * G = Found few errors that were not resolved
   * E = Found minimal errors and resolved most errors
