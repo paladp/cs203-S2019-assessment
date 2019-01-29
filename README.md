@@ -53,13 +53,14 @@ This group of students finished Groups and Interactions of Professional Skills
 everitt-andrew
 ALEXANDERB82
 leonardoz15
-reibelj (Johnathan Reibel)
+reibelj - Understanding and adopting best practices, Assisting with Project management 
+with GitHub, specifically the Flow Model and Python Development
 ```
 
-This group of students were unclear on commits and they committed all their
-work through one person so I wasn't able to dissect what each of them did.But,
-they were responsible for the Individual and Revision of Guides section of
-Professional Skills
+This group of students handled commits a little differently. They created a single
+fork for their row and everyone commited their work to said fork. Regarless of the
+differences, they were responsible for the Individual and Revision of Guides section of
+Professional Skills.
 
 The Foundations of Software Engineering Section was Completed by:
 
