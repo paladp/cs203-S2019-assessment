@@ -21,8 +21,26 @@
 * Calculating code coverage of a `pytest` test suite
 * Reporting code coverage through an online provider
 * Using docstrings to document a Python program
+  * N = Student did not use docstrings
+  * I = Students incorrectly attempted docstrings unidentifiable to compiler
+  * A = Student added docstrings, but it does not fully prescribe the functions/methods effect as a command
+  * G = Student successfully added docstring with useful description, but is lacking some proper syntax
+  * E = Student successfully added docstring with useful description and proper syntax
+
 * Adopting and applying appropriate naming conventions
+  * N = Student used inappropriate naming styles that are neither prescriptive or descriptive
+  * I = Student used inappropriate naming styles that are either not prescriptive or descriptive
+  * A = Students used appropriate naming styles that are not entirely conventional
+  * G = Student used appropriate naming styles, but may be missing syntax used with a variable, function, method or etc.
+  * E = Student used appropriate naming styles with the correct syntax used with a variable, function, method or etc.
+
 * Using exception handling to create a robust Python program
+  * N = Student does use exception handling for the possibility of unexpected user input
+  * I = Student introduces try and except statements but does not have any clause
+  * A = Student correctly utilizes try and except statements or user defined exceptions, but clause does not function
+  * G = Student correctly codes exception handling, but clause doesn't fully execute
+  * E = Student correctly codes exception handling with clause being perfectly executed
+
 * Refactoring a Python program to improve its characteristics
 * Debugging Python programs using logging and other methods
 * Adopting and using appropriate Python language constructs
