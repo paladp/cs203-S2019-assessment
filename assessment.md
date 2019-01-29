@@ -401,6 +401,7 @@
     which practices are better than others and then applying those practices
 
 ### Group
+
 * Attendance
   * N = Missing five or more lab sessions
   * I = Missing four lab sessions
