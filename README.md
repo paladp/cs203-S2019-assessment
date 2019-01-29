@@ -32,13 +32,13 @@ necessary.(Will delete this line after we finished updating)
 ## How we design Assessment Sheet
 
 We divided the whole group into some small teams. Each team is handling some specific
-topics. We created forks by teams based on this main repository. Team members of each
-team created pull requests to edit the part they were assigned to do. We then merged
-team forks to a main for to make sure we all have the same format. After that, we are
-safe tomerge everything into the main repository.
+topics. We created forks by teams based on this main repository. Team members of
+each team created pull requests to edit the part they were assigned to do. We
+then merged team forks to a main for to make sure we all have the same format.
+After that, we are safe tomerge everything into the main repository.
 
 The Professional Skills part of the Assessment Sheet is done by Team Spencer:
-Lancasterwu - Interactions with the course instructor and Interactions with the 
+Lancasterwu - Interactions with the course instructor and Interactions with the
 Teaching assistant
 mmarconi - Attendance, Deadlines, Communication, Participation
 libailong - Conduct, Decisions, Postmortems, Conflicts, Infractions
