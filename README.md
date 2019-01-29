@@ -76,10 +76,14 @@ wattob (Benjamin Watto)
 Project Management With GitHub and Continuous Integration With Travis CI by:
 
 ```
-finneyj2 (Jahlia Finney)
-Alex-Yarkosky (Alex Yarkosky)
-livingstonp229 (Paul Livingston)
-ohnoanarrow (Tara Douglass)
+finneyj2 (Jahlia Finney) - Implemented rubric for Commit messages, Issue Tracking and Github
+flow
+Alex-Yarkosky (Alex Yarkosky) - Implemented rubric for creating and pulling PRs, README
+badges for Travis CI and README badges for project characteristics
+livingstonp229 (Paul Livingston) - Implemented rubric for creating and using repository
+branches/forks, and merging forks and branches
+ohnoanarrow (Tara Douglass) - Setup and configuring Tracis CI, performing secure releases of
+project deliverables, and third party integration with Travis CI
 ```
 
 ## Challenges When Making Assessment Sheet
