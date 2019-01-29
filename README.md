@@ -29,7 +29,15 @@ professional skills will result in an overall assessment for a software project.
 Once you are finished with the assessment, please update the README as
 necessary.(Will delete this line after we finished updating)
 
-## Problems with the Assessment
+## How we design Assessment Sheet
+
+We divided the whole group into some small teams. Each team is handling some specific
+topics. We created forks by teams based on this main repository. Team members of each
+team created pull requests to edit the part they were assigned to do. We then merged
+team forks to a main for to make sure we all have the same format. After that, we are
+safe tomerge everything into the main repository.
+
+## Challenges When Making Assessment Sheet
 
 If you have any problems with this assessment sheet, then please create an
 issue in this repository using the "Issues" link at the top of this site.
