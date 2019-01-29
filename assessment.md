@@ -93,8 +93,23 @@
  * E = Student correctly codes exception handling with clause being perfectly executed
 
 * Refactoring a Python program to improve its characteristics
+  * N = No refactoring done or changed functions completely
+  * I = Lack of documentation and clearly identifiable functions/code
+  * A = Some changes can be made but well documented
+  * G = Includes easy to understand functions and documentation
+  * E = Clean and efficient code that is well documented
 * Debugging Python programs using logging and other methods
+  * N = No debugging done
+  * I = Identified bugs in system but no fix
+  * A = Fixed some identified bugs using logging/other methods
+  * G = Fixed most identified bugs using logging/other methods
+  * E = Fixed all or most bugs using multiple methods
 * Adopting and using appropriate Python language constructs
+  * N = No written code or monolithic code
+  * I = Language constructs used inappropriate way
+  * A = Some language constructs used appropriately
+  * G = Some or many language constructs used efficiently
+  * E = Several language constructs used efficiently and reason is documented
 
 ### Project Management with GitHub
 
