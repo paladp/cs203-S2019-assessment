@@ -7,7 +7,7 @@ the software engineering team is completing an assignment. The instructor
 invites each student in the course to master the technical and professional
 skills listed on this assignment sheet.
 
-## Improving the Assessment
+## Description of Assessment
 
 The students from [Computer Science 203 Spring
 2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/) used [GitHub flow
@@ -18,7 +18,7 @@ semester. They also described the student behaviors that would lead to an
 assessment at one of the following levels:
 
 * N = None
-* I = Inadequate
+* I = InadequateR
 * A = Adequate
 * G = Good
 * E = Excellent
