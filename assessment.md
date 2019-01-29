@@ -42,7 +42,6 @@
   * G = Some or many language constructs used efficiently
   * E = Several language constructs used efficiently and reason is documented
 
-
 ### Project Management with GitHub
 
 * Using the issue tracker
