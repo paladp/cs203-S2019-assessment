@@ -90,7 +90,7 @@
   * A = Major issues are avoided and a few small complications may occur, none that
   ruin the flow of work for the team
   * G = Almost no problems occur while working with code or branches, does not slow down productivity for self or others
-  * E = All interactions with new and existing code are free from complications or other issues, everything works smoothly and free of errors
+  * E = All interactions with new and existing code are free from complications or other issues, everything works smoothly and completely free of errors
 
 ## Professional Skills
 
