@@ -78,7 +78,7 @@
   * I = Students incorrectly attempted docstrings unidentifiable to compiler
   * A = Student added docstrings, but it does not fully prescribe the functions/
   methods effect as a command
-  * G = Student successfully added docstring with useful description, but is 
+  * G = Student successfully added docstring with useful description, but is
   lacking some proper syntax
   * E = Student successfully added docstring with useful description and proper
   syntax
@@ -97,7 +97,7 @@
   * N = Student does use exception handling for the possibility of unexpected
   user input
   * I = Student introduces try and except statements but does not have any clause
-  * A = Student utilizes try and except statements or user defined exceptions, 
+  * A = Student utilizes try and except statements or user defined exceptions,
   however, clause does not function
   * G = Student correctly codes exception handling, but clause doesn't fully execute
   * E = Student correctly codes exception handling with clause being perfectly executed
