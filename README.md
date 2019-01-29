@@ -72,7 +72,7 @@ The Foundations of Software Engineering Section was Completed by:
 * thomad74 (Dillon Thoma)
 * wattob (Benjamin Watto)
 
-This group worked together so  there is no description of the specfic person
+This group worked together so  there is no description of the specific person
 
 Project Management With GitHub and Continuous Integration With Travis CI by:
 
