@@ -431,35 +431,35 @@
   * G = Regularly participate in group conversation or activity
   * E = Always participate in group conversation or activity
 * Conduct
-  * N = Never respectful and inclusive of teammates
-  * I = Sometimes respectful and inclusive of teammates
-  * A = Regularly respectful and inclusive of teammates
-  * G = Usually respectful and inclusive of teammates
+  * N = Disrespectful and excludes teammates
+  * I = Rarely respectful and inclusive of teammates
+  * A = Sometimes respectful and inclusive of teammates
+  * G = Regularly respectful and inclusive of teammates
   * E = Always respectful and inclusive of teammates
 * Decisions
   * N = Never participate in the decision making process and share your opinion.
-  * I = Sometimes participate in the decision making process and share your opinion
-  * A = Regularly participate in the decision making process and share your opinion
-  * G = Usually participate in the decision making process and share your opinion
+  * I = Rarely participate in the decision making process and share your opinion
+  * A = Sometimes participate in the decision making process and share your opinion
+  * G = Regularly participate in the decision making process and share your opinion
   * E = Always participate in the decision making process and share your opinion.
 * Postmortems
   * N = Never participate the analysis or discussion after the work is done
-  * I = Sometimes participate the analysis or discussion after the work is done
-  * A = Regularly participate the analysis or discussion after the work is done
-  * G = Usually participate the analysis or discussion after the work is done
+  * I = Rarely participate the analysis or discussion after the work is done
+  * A = Sometimes participate the analysis or discussion after the work is done
+  * G = Regularly participate the analysis or discussion after the work is done
   * E = Always participate the analysis or discussion after the work is done
 * Conflicts
   * N = Never handles differences with teammates in mature manner
-  * I = Sometimes handles differences with teammates in mature manner
-  * A = Regularly handles differences with teammates in mature manner
-  * G = Usually handles differences with teammates in mature manner
+  * I = Rarely handles differences with teammates in mature manner
+  * A = Sometimes handles differences with teammates in mature manner
+  * G = Regularly handles differences with teammates in mature manner
   * E = Always handles differences with teammates in mature manner
 * Infractions
   * N = Always breaks the team rules
-  * I = Usually breaks the team rules
+  * I = Regularly breaks the team rules
   * A = Sometimes breaks the team rules
   * G = Rarely breaks the team rules
-  * E = Never.
+  * E = Never breaks the team rules
 
 ### Interactions
 
