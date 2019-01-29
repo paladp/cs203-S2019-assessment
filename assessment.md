@@ -45,8 +45,10 @@
   * N = `black` not installed or setup
   * I = Unable to run `black` to format Python programs
   * A = Able to run `black` to format Python programs
-  * G = Same requirements as level 'A' in addition to solving any problems with the installation of `black`
-  * E = Same requirements as level 'G' in addition to being able to help other students troubleshoot
+  * G = Same requirements as level 'A' in addition to solving
+  any problems with the installation of `black`
+  * E = Same requirements as level 'G' in addition to being able to help other
+  students troubleshoot
 * Basic testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
   * I = Found many errors that were not resolved
@@ -74,19 +76,29 @@
 * Using docstrings to document a Python program
   * N = Student did not use docstrings
   * I = Students incorrectly attempted docstrings unidentifiable to compiler
-  * A = Student added docstrings, but it does not fully prescribe the functions/methods effect as a command
-  * G = Student successfully added docstring with useful description, but is lacking some proper syntax
-  * E = Student successfully added docstring with useful description and proper syntax
+  * A = Student added docstrings, but it does not fully prescribe the functions/
+  methods effect as a command
+  * G = Student successfully added docstring with useful description, but is 
+  lacking some proper syntax
+  * E = Student successfully added docstring with useful description and proper
+  syntax
 * Adopting and applying appropriate naming conventions
-  * N = Student used inappropriate naming styles that are neither prescriptive or descriptive
-  * I = Student used inappropriate naming styles that are either not prescriptive or descriptive
-  * A = Students used appropriate naming styles that are not entirely conventional
-  * G = Student used appropriate naming styles, but is missing syntax used with variables, function, and methods
-  * E = Student used appropriate naming styles with correct syntax used with variables, functions, and methods
+  * N = Student used inappropriate naming styles that are neither prescriptive
+  or descriptive
+  * I = Student used inappropriate naming styles that are either not
+  prescriptive or descriptive
+  * A = Students used appropriate naming styles that are not entirely
+  conventional
+  * G = Student used appropriate naming styles, but is missing syntax used with
+  variables, function, and methods
+  * E = Student used appropriate naming styles with correct syntax used with
+  variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * N = Student does use exception handling for the possibility of unexpected user input
+  * N = Student does use exception handling for the possibility of unexpected
+  user input
   * I = Student introduces try and except statements but does not have any clause
-  * A = Student utilizes try and except statements or user defined exceptions, but clause does not function
+  * A = Student utilizes try and except statements or user defined exceptions, 
+  however, clause does not function
   * G = Student correctly codes exception handling, but clause doesn't fully execute
   * E = Student correctly codes exception handling with clause being perfectly executed
 * Refactoring a Python program to improve its characteristics
