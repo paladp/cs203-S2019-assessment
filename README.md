@@ -18,7 +18,7 @@ semester. They also described the student behaviors that would lead to an
 assessment at one of the following levels:
 
 * N = None
-* I = InadequateR
+* I = Inadequate
 * A = Adequate
 * G = Good
 * E = Excellent
