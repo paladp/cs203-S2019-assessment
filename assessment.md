@@ -139,7 +139,6 @@
   ``Your math function is broken because you forgot a semi-colon.`` Error
   messages from the terminal can also be incorporated. Ex ``Terminal said that
   the function was given too many arguments.``
-
 * Using the GitHub flow model
   * N = None would indicate that someone pushed directly to the master branch
   instead of pushing to one of the subbranches. Additionally, they had
