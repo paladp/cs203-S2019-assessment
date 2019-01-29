@@ -74,5 +74,16 @@ wattob (Benjamin Watto)
 
 ## Challenges When Making Assessment Sheet
 
-If you have any problems with this assessment sheet, then please create an
-issue in this repository using the "Issues" link at the top of this site.
+When making the Assessment Sheet, we started out rather disorganized and in 
+a number of different groups all of whom were mostly communicating with just
+each other. As such, we encountered the issue of having differing style 
+guides and needed to coordinate over Slack and make some extra commits over
+GitHub in order to make a unified style and make sure that each of our 
+portions fit that style guide. 
+
+We also encountered a number of obstacles in applying the grading skill to 
+some technical and personal skills, chiefly that some of the levels didn't 
+seem to apply to all of the skills. "None" in particular was difficult at
+times to distinguish from "Inadequate" in some cases. But we managed
+to circumvent these issues with communication among personal teams and 
+the larger group.
