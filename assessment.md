@@ -60,8 +60,23 @@
 ### Continuous Integration with Travis
 
 * Setup and configure Travis CI
+  * N = Fails to perform any setup and configuration of Travis CI
+  * I = Setting up and configuring Travis CI which performs no checks
+  * A = Sets up and configures Travis CI without performing checks on all relevant project deliverables
+  * G = Sets up and configures Travis CI to perform most relevant checks on project deliverables
+  * E = Correctly sets up and configures Travis CI to perform all relevant checks for project deliverables
 * Perform secure releases of project deliverables
+  * N = Does not utilize Travis CI when releasing project deliverables
+  * I = Performs a release through Travis CI which is not secured
+  * A = Performs a release through Travis CI which is mostly secured
+  * G = Performs a secure release through Travis CI while failing to sign commits
+  * E = Utilizes a fully-encrypted Travis CI to perform a secure release
 * Create third-party integrations with Travis CI (e.g., codecov.io)
+  * N = No attempt to incorporate a third party integration
+  * I = Third party integrations were implemented but unsuccessful
+  * A = A minority of third party integrations were implemented with many errors
+  * G = A majority of the third party integrations  are successfully implemented with little to no error
+  * E = All necessary third party integrations are successfully created without error
 * Add README badges that show status of Travis CI builds
   * N = nothing related to badges was added to the README
   * I = an attempt was made to add a status badge for Travis CI builds but does not work or show up
