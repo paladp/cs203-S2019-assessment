@@ -88,7 +88,7 @@ Project Management With GitHub and Continuous Integration With Travis CI by:
 ## Challenges When Making Assessment Sheet
 
 When making the Assessment Sheet, we started out rather disorganized and in
-a number of different groups all of whom were mostly communicating with just
+a number of groups all of whom were mostly communicating with just
 each other. As such, we encountered the issue of having differing style
 guides and needed to coordinate over Slack and make some extra commits over
 GitHub in order to make a unified style and make sure that each of our
