@@ -42,6 +42,8 @@ baldeosinghm - Utilizing naming conventions and docstrings in python programs as
 
 The Professional Skills part of the Assessment Sheet is done by Team Spencer:
 
+This group of students finished Groups and Interactions of Professional Skills:
+
 ```
 Lancasterwu - Interactions with the course instructor and Interactions with the
 Teaching assistant
