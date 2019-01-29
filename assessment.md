@@ -30,7 +30,28 @@
 ### Project Management with GitHub
 
 * Using the issue tracker
-* Using the GitHub flow model
+  * N = None would indicate that someone did not use the issue tracker.
+  * I = Inadequate would indicate that an issue is posted but it is either redundant or incomprehensible.
+  Ex. "Ajssjdjssd"(incomprehensible) or posting that a program's main method is broken when three other people have done the same thing.
+  * A = Adequate would indicate that the issue posted is neither redundant nor incomprehensible, but isn't  
+  descriptive or clear.
+  Ex. "Your program is broken."
+  * G = Good would indicate that the issue posted is neither redundant nor incomprehensible, and is moderately
+  descriptive and clear. Ex. "Your math function is broken."
+  * E = Excellent would indicate that the issue posted is neither redundant nor incomprehensible, and is detailed and
+  easy to understand and follow. Ex. "Your math function is broken because you forgot a semi-colon." Error
+  messages from the terminal can also be incorporated. Ex "Terminal said that the function was given too
+  many arguments."
+
+* Using the GitHub flow model*
+  * N = None would indicate that someone pushed directly to the master branch instead of pushing to one of the
+  subbranches. Additionally, they had nonsensical commit messages, and did not create or use repository
+  branches or forks correctly, and also performed incorrect merges and pull requests.  
+  * I = Inadequate would indicate that forks, and repositories are made correctly. Additionally, merges and pull requests are done correctly and the commit messages can be understood, but the programmer pushed to the master branch.  Good would indicate that the issue posted is neither redundant nor incomprehensible, and is moderately
+  descriptive and clear.
+  * A = Adequate would indicate that the programmer correctly made subbranches and did not push to the master branch. Merge and pull requests are done correctly, commit messages can be understood. Additionally, all forks and repositories were made correctly as well.
+  * E = An excellent branch would be a purposeful branch that has a descriptive label. Had strong commit
+    messages, in addition to using and creating repository branches, forks, and pull request correctly.
 * Creating and using a repository branch
   * N = Routinely committing edits to the master branch or not pushing to correct branches receives a none grade
   * I = Creating branches with unclear names and no descriptions will receive an inadequate grade
@@ -55,7 +76,14 @@
   * A = a PR was made that tags any related issues it is trying to close, fully describes all of the proposed changes within the PR with no review being made by a person
   * G = a PR was made that tags any related issues it is trying to close, fully describes all of the proposed changes within the PR with a review of it that partially discusses the ramifications of the PR after successfully building with Travis CI
   * E = a PR was made that tags any related issues it is trying to close, fully describes all of the proposed changes within the PR with a review of it that fully discusses the ramifications of the PR after successfully building with Travis CI
-* Using appropriate commit messages
+* Using appropriate commit messages*
+  * N = None would indicate that the commit message was nonsensical. An example of this would be random strings of letters 'sdhjhsdjsd'.
+  * I = Inadequate would indicate that the commit message wasn't nonsensical, but ultimately uninformative. An example of this would be "I am so angry" or "Please work".
+  * A = Adequate would indicate that the commit message both made sense and was descriptive, to an extent. An example of this would be "X.py is broken." or "I added lines to the main method"
+  * G = Good would indicate that the commit message was both clear, and moderately descriptive. "The main method
+  of X.py is broken." or "created three new variables in the main method"
+  * E = Excellent indicates a adequately detailed and clear commit message. "The main method isn't calling correctly" or "created three ints in the main method"
+
 
 ### Continuous Integration with Travis
 
