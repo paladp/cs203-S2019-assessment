@@ -33,34 +33,34 @@ After that, we are safe tomerge everything into the main repository.
 
 Software Developement with Python
 
-```
-ilikerustoo - Assessment team leader, Refractoring, Debugging python programs and adopting pythonic constructs
-yeej2 - Basic/Advanced testing using Pytest; reporting code coverage with online provider
-paladp - Configuring python environment, pyenv, pipenv, linting, running, and formatting python programs
-baldeosinghm - Utilizing naming conventions and docstrings in python programs as well as using exception handling
-```
+* ilikerustoo - Assessment team leader, Refractoring, Debugging python
+programs and adopting pythonic constructs
+* yeej2 - Basic/Advanced testing using Pytest; reporting code
+coverage with online provider
+* paladp - Configuring python environment, pyenv, pipenv, linting,
+running, and formatting python programs
+* baldeosinghm - Utilizing naming conventions and docstrings in python
+programs as well as using exception handling
 
 The Professional Skills part of the Assessment Sheet is done by Team Spencer:
 
 This group of students finished Groups and Interactions of Professional Skills:
 
-```
-Lancasterwu - Interactions with the course instructor and Interactions with the
-Teaching assistant
-mmarconi - Attendance, Deadlines, Communication, Participation
-libailong - Conduct, Decisions, Postmortems, Conflicts, Infractions
-huangs1 - Interactions with the customer and interactions with the team leaders
-```
+* Lancasterwu - Interactions with the course instructor and Interactions with the
+* Teaching assistant
+* mmarconi - Attendance, Deadlines, Communication, Participation
+* libailong - Conduct, Decisions, Postmortems, Conflicts, Infractions
+* huangs1 - Interactions with the customer and interactions with the team leaders
 
 This group of students finished the Individual and Revision of Guides sections:
 
-```
-everitt-andrew - Python software development and Revising the assessment form
-ALEXANDERB82 - Continuous integration with Travis and Foundations of software engineering practices
-leonardoz15 - Understand and avoiding red flags and Revising the code of conduct
-reibelj - Understanding and adopting best practices, Assisting with Project management
+* everitt-andrew - Python software development and Revising the assessment form
+* ALEXANDERB82 - Continuous integration with Travis and Foundations of software
+engineering practices
+* leonardoz15 - Understand and avoiding red flags and Revising the code of conduct
+* reibelj - Understanding and adopting best practices, Assisting with Project management
 with GitHub, specifically the Flow Model and Python Development
-```
+
 This group of students handled commits a little differently. They created a single
 fork for their row and everyone commited their work to said fork. Regarless of the
 differences, they were responsible for the Individual and Revision of Guides section of
@@ -68,23 +68,22 @@ Professional Skills.
 
 The Foundations of Software Engineering Section was Completed by:
 
-```
-szklenskij (Jared Szlenski)
-thomad74 (Dillon Thoma)
-wattob (Benjamin Watto)
-```
+* szklenskij (Jared Szlenski)
+* thomad74 (Dillon Thoma)
+* wattob (Benjamin Watto)
+
+This group worked together so  there is no description of the specfic person
+
 Project Management With GitHub and Continuous Integration With Travis CI by:
 
-```
-finneyj2 (Jahlia Finney) - Implemented rubric for Commit messages, Issue Tracking and Github
-flow
-Alex-Yarkosky (Alex Yarkosky) - Implemented rubric for creating and pulling PRs, README
+* finneyj2 (Jahlia Finney) - Implemented rubric for Commit messages, Issue Tracking
+and Github flow
+* Alex-Yarkosky (Alex Yarkosky) - Implemented rubric for creating and pulling PRs, README
 badges for Travis CI and README badges for project characteristics
-livingstonp229 (Paul Livingston) - Implemented rubric for creating and using repository
+* livingstonp229 (Paul Livingston) - Implemented rubric for creating and using repository
 branches/forks, and merging forks and branches
-ohnoanarrow (Tara Douglass) - Setup and configuring Tracis CI, performing secure releases of
-project deliverables, and third party integration with Travis CI
-```
+* ohnoanarrow (Tara Douglass) - Setup and configuring Tracis CI, performing secure
+releases of project deliverables, and third party integration with Travis CI
 
 ## Challenges When Making Assessment Sheet
 
