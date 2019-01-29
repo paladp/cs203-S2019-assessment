@@ -401,21 +401,18 @@
     which practices are better than others and then applying those practices
 
 ### Group
-
 * Attendance
   * N = Missing five or more lab sessions
   * I = Missing four lab sessions
   * A = Missing three lab sessions
   * G = Missing two lab sessions
   * E = Missing one or less lab sessions
-
 * Deadlines
   * N = If an assignment is turned in 5 or more days past the deadline
   * I = If an assignment is turned in 1-4 days past the deadline
   * A = If an assignment is turned in on the day of, or before the deadline
   * G = If an assignment is turned in on the day of, or before the deadline
   * E = If an assignment is turned in on the day of, or before the deadline
-
 * Communication
   * N = Never check appropriate slack channels and never communicate with
    teammates
@@ -427,7 +424,6 @@
     with teammates
   * E = Always check appropriate slack channels and always communicate
     effectively with teammates
-
 * Participation
   * N = Never participate in group conversation or activity
   * I = Rarely participate in group conversation or activity
