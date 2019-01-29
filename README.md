@@ -50,20 +50,32 @@ huangs1 - Interactions with the customer and interactions with the team leaders
 This group of students finished the Individual and Revision of Guides sections:
 
 ```
-everitt-andrew - Python software development and Project managment with Github / flow model
-ALEXANDERB82 - Continuous integration with Travis and foundations of software engineering practices
-leonardoz15 - Understand and avoiding red flags and Understanding and adobting best practices
-reibelj - Revision guides
+everitt-andrew - Python software development and Revising the assessment form
+ALEXANDERB82 - Continuous integration with Travis and Foundations of software engineering practices
+leonardoz15 - Understand and avoiding red flags and Revising the code of conduct
+reibelj - Understanding and adopting best practices, Assisting with Project management 
+with GitHub, specifically the Flow Model and Python Development
 ```
 
-This group of students were unclear on commits and they committed all their
-work through one person so I wasn't able to dissect what each of them did.But,
-they were responsible for the Individual and Revision of Guides section of
-Professional Skills
+This group of students handled commits a little differently. They created a single
+fork for their row and everyone commited their work to said fork. Regarless of the
+differences, they were responsible for the Individual and Revision of Guides section of
+Professional Skills.
 
 (We need other teams)
 
 ## Challenges When Making Assessment Sheet
 
-If you have any problems with this assessment sheet, then please create an
-issue in this repository using the "Issues" link at the top of this site.
+When making the Assessment Sheet, we started out rather disorganized and in 
+a number of different groups all of whom were mostly communicating with just
+each other. As such, we encountered the issue of having differing style 
+guides and needed to coordinate over Slack and make some extra commits over
+GitHub in order to make a unified style and make sure that each of our 
+portions fit that style guide. 
+
+We also encountered a number of obstacles in applying the grading skill to 
+some technical and personal skills, chiefly that some of the levels didn't 
+seem to apply to all of the skills. "None" in particular was difficult at
+times to distinguish from "Inadequate" in some cases. But we managed
+to circumvent these issues with communication among personal teams and 
+the larger group.
