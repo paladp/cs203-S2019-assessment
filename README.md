@@ -61,6 +61,14 @@ work through one person so I wasn't able to dissect what each of them did.But,
 they were responsible for the Individual and Revision of Guides section of
 Professional Skills
 
+The Foundations of Software Engineering Section was Completed by:
+
+```
+szklenskij (Jared Szlenski)
+thomad74 (Dillon Thoma)
+wattob (Benjamin Watto)
+```
+
 (We need other teams)
 
 ## Challenges When Making Assessment Sheet
