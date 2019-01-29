@@ -47,27 +47,19 @@ libailong - Conduct, Decisions, Postmortems, Conflicts, Infractions
 huangs1 - Interactions with the customer and interactions with the team leaders
 ```
 
-This group of students finished Groups and Interactions of Professional Skills
+This group of students finished the Individual and Revision of Guides sections:
 
 ```
-everitt-andrew
-ALEXANDERB82
-leonardoz15
-reibelj (Johnathan Reibel)
+everitt-andrew - Python software development and Project managment with Github / flow model
+ALEXANDERB82 - Continuous integration with Travis and foundations of software engineering practices
+leonardoz15 - Understand and avoiding red flags and Understanding and adobting best practices
+reibelj - Revision guides
 ```
 
 This group of students were unclear on commits and they committed all their
 work through one person so I wasn't able to dissect what each of them did.But,
 they were responsible for the Individual and Revision of Guides section of
 Professional Skills
-
-The Foundations of Software Engineering Section was Completed by:
-
-```
-szklenskij (Jared Szlenski)
-thomad74 (Dillon Thoma)
-wattob (Benjamin Watto)
-```
 
 (We need other teams)
 
