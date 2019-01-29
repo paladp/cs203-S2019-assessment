@@ -35,6 +35,11 @@
 * Creating and using a repository fork
 * Merging a branch or a fork to another branch or fork
 * Creating and reviewing a pull request
+  * N = no PR was made
+  * I = a PR was made but does not tag the related issues it is trying to close, does not fully describe the proposed changes within the PR, and does not update documentation to reflect the changes within the PR
+  * A = a PR was made that tags any related issues it is trying to close, fully describes all of the proposed changes within the PR with no review being made by a person
+  * G = a PR was made that tags any related issues it is trying to close, fully describes all of the proposed changes within the PR with a review of it that partially discusses the ramifications of the PR after successfully building with Travis CI
+  * E = a PR was made that tags any related issues it is trying to close, fully describes all of the proposed changes within the PR with a review of it that fully discusses the ramifications of the PR after successfully building with Travis CI
 * Using appropriate commit messages
 
 ### Continuous Integration with Travis
@@ -43,8 +48,18 @@
 * Perform secure releases of project deliverables
 * Create third-party integrations with Travis CI (e.g., codecov.io)
 * Add README badges that show status of Travis CI builds
+  * N = nothing related to badges was added to the README
+  * I = an attempt was made to add a status badge for Travis CI builds but does not work or show up
+  * A = a status badge for Travis CI builds is in the README but is not in an appropriate location
+  * G = a status badge for Travis CI builds is in the README and is in an appropriate location but not in relation to any other status badges
+  * E = a status badge for Travis CI builds is in the README and is in an appropriate location in relation to any other status badges
 * Add README badges that show project characteristics (e.g., coverage and
   language)
+   * N = no status badges were added besides one for the build status of Travis CI
+   * I = only some of the relevant status badges were added besides one for the build status of Travis CI
+   * A = all relevant status badges were added but are not in appropriate locations
+   * G = all relevant status badges were added and are in an appropriate location but not in relation to each other
+   * E = all relevant status badges were added and are in an appropriate location in relation to each other and a potentially present status badge for Travis CI builds
 
 ### Foundations of Software Engineering
 
