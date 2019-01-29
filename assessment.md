@@ -84,7 +84,6 @@
   of X.py is broken." or "created three new variables in the main method"
   * E = Excellent indicates a adequately detailed and clear commit message. "The main method isn't calling correctly" or "created three ints in the main method"
 
-
 ### Continuous Integration with Travis
 
 * Setup and configure Travis CI
