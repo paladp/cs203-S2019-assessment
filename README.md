@@ -29,12 +29,61 @@ professional skills will result in an overall assessment for a software project.
 Once you are finished with the assessment, please update the README as
 necessary.(Will delete this line after we finished updating)
 
-## How we design the Assessment Sheet
+## How we design Assessment Sheet
 
-(Explain each individual's work)
+We divided the whole group into some small teams. Each team is handling some specific
+topics. We created forks by teams based on this main repository. Team members of
+each team created pull requests to edit the part they were assigned to do. We
+then merged team forks to a main for to make sure we all have the same format.
+After that, we are safe tomerge everything into the main repository.
 
-## Challenges with the Assessment
+The Professional Skills part of the Assessment Sheet is done by Team Spencer:
 
-If you have any problems with this assessment sheet, then please create an
-issue in this repository using the "Issues" link at the top of this site.
-(We need to talk about challenges)
+```
+Lancasterwu - Interactions with the course instructor and Interactions with the
+Teaching assistant
+mmarconi - Attendance, Deadlines, Communication, Participation
+libailong - Conduct, Decisions, Postmortems, Conflicts, Infractions
+huangs1 - Interactions with the customer and interactions with the team leaders
+```
+
+This group of students finished Groups and Interactions of Professional Skills
+
+```
+everitt-andrew
+ALEXANDERB82
+leonardoz15
+reibelj - Understanding and adopting best practices, Assisting with Project management 
+with GitHub, specifically the Flow Model and Python Development
+```
+
+This group of students handled commits a little differently. They created a single
+fork for their row and everyone commited their work to said fork. Regarless of the
+differences, they were responsible for the Individual and Revision of Guides section of
+Professional Skills.
+
+The Foundations of Software Engineering Section was Completed by:
+
+```
+szklenskij (Jared Szlenski)
+thomad74 (Dillon Thoma)
+wattob (Benjamin Watto)
+```
+
+(We need other teams)
+
+## Challenges When Making Assessment Sheet
+
+When making the Assessment Sheet, we started out rather disorganized and in 
+a number of different groups all of whom were mostly communicating with just
+each other. As such, we encountered the issue of having differing style 
+guides and needed to coordinate over Slack and make some extra commits over
+GitHub in order to make a unified style and make sure that each of our 
+portions fit that style guide. 
+
+We also encountered a number of obstacles in applying the grading skill to 
+some technical and personal skills, chiefly that some of the levels didn't 
+seem to apply to all of the skills. "None" in particular was difficult at
+times to distinguish from "Inadequate" in some cases. But we managed
+to circumvent these issues with communication among personal teams and 
+the larger group.
