@@ -489,15 +489,15 @@
   * E = Communicated with the instructor excellently, followed
      all project and course requirements
 * Interaction with the teaching assistants
-  * N = Communicated with the TAs badly, hate speech, ignore
+  * N = Communicated with the technical leads badly, hate speech, ignore
      TAs when they are trying to help
-  * I = Communicated with the TAs poorly, did not use them well as your
+  * I = Communicated with the technical leads poorly, did not use them well as your
      resources, did not talk to them
-  * A = Communicated with the TAs well, but relied on them too much, asked
-     them to do most of the work
-  * G = Communicated with the TAs well, politely asked them questions and try
+  * A = Communicated with the technical leads well, but relied on them too much, asked
+     them to do too many work
+  * G = Communicated with the technical leads well, politely asked them questions and try
      to solve the problem with their help
-  * E = Communicated with the TAs excellently, politely sharing own
+  * E = Communicated with the technical leads excellently, politely sharing own
      opinions and work with them well
 
 ## Revision of Guides
