@@ -493,10 +493,10 @@
      TAs when they are trying to help
   * I = Communicated with the technical leads poorly, did not use them well as your
      resources, did not talk to them
-  * A = Communicated with the technical leads well, but relied on them too much, asked
-     them to do too many work
-  * G = Communicated with the technical leads well, politely asked them questions and try
-     to solve the problem with their help
+  * A = Communicated with the technical leads well, but relied on them too
+     much, asked them to do too many work
+  * G = Communicated with the technical leads well, politely asked them
+     questions and try to solve the problem with their help
   * E = Communicated with the technical leads excellently, politely sharing own
      opinions and work with them well
 
