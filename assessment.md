@@ -26,7 +26,7 @@ when creating python programs.
   * A = Basic development environment configured, including proper dependencies
   and development tools.
   * G = Additional development tools configured, in addition to minimum required
-  dependencies and developments
+  dependencies and tools
   * E = Additional development tools configured and able to provide assistance
   and troubleshooting to other students regarding their own development
   environment
@@ -294,13 +294,11 @@ when creating python programs.
   * E = Everything is exceedingly well organized, with no excess or lack of files,
   folders, branches, forks, etc.
 * Mitigating software risk
-  * N = No procedure is followed, the master branch is broken, or files are corrupted
-  * I = The engineer avoids causing damage to the work of others, but may not produce
-  any safely compatible source code
-  * A = Major issues are avoided and a few small complications may occur, none that
-  ruin the flow of work for the team
-  * G = Almost no problems occur while working with code or branches, does not slow
-  down productivity for self or others
+  * N = No risk identified, and high potential impact of risk
+  * I = Identifies minimal risks and does bare minimum to resolve them
+  * A = Identifies most of the risk and attempts to resolve them
+  but are unsuccessful. Gives up only after a few attempts.
+  * G = All risk is identified. The probability and likelihood of risk is minimal
   * E = All interactions with new and existing code are free from complications
   or other issues, everything works smoothly and completely free of errors
 
