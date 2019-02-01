@@ -125,40 +125,21 @@ when creating python programs.
 ### Project Management with GitHub
 
 * Using the issue tracker
-  * N = None would indicate that someone did not use the issue tracker.
-  * I = Inadequate would indicate that an issue is posted but it is either
-  redundant or incomprehensible. Ex. ``Ajssjdjssd``(incomprehensible) or posting
-  that a program's main method is broken when three other people have done the
-  same thing.
-  * A = Adequate would indicate that the issue posted is neither redundant nor
-  incomprehensible, but isn't descriptive or clear. Ex. ``Your program is
-  broken.``
-  * G = Good would indicate that the issue posted is neither redundant nor
-  incomprehensible, and is moderately descriptive and clear. Ex. ``Your math
-  function is broken.``
-  * E = Excellent would indicate that the issue posted is neither redundant nor
-  incomprehensible, and is detailed and easy to understand and follow. Ex.
-  ``Your math function is broken because you forgot a semi-colon.`` Error
-  messages from the terminal can also be incorporated. Ex ``Terminal said that
-  the function was given too many arguments.``
+  * N = Issue tracker unused
+  * I = Issue is raised but it is unclear or already exists
+  * A = Issue is unique and has description for when issue occurs
+  * G = Issue is unique, well described, and a possible reason for occurence is
+  mentioned
+  * E = Issue is unique, well described, and a possible reason for occurence
+  and solution is mentioned
 * Using the GitHub flow model
-  * N = None would indicate that someone pushed directly to the master branch
-  instead of pushing to one of the subbranches. Additionally, they had
-  nonsensical commit messages, and did not create or use repository branches or
-  forks correctly, and also performed incorrect merges and pull requests.
-  * I = Inadequate would indicate that forks, and repositories are made
-  correctly. Additionally, merges and pull requests are done correctly and the
-  commit messages can be understood, but the programmer pushed to the master
-  branch.
-  * G = Good would indicate that the issue posted is neither redundant nor
-  incomprehensible, and is moderately descriptive and clear.
-  * A = Adequate would indicate that the programmer correctly made subbranches
-  and did not push to the master branch. Merge and pull requests are done
-  correctly, commit messages can be understood. Additionally, all forks and
-  repositories were made correctly as well.
-  * E = An excellent branch would be a purposeful branch that has a descriptive
-  label. Had strong commit messages, in addition to using and creating
-  repository branches, forks, and pull request correctly.
+  * N = GitHub flow model unused or no commits
+  * I = Pushed to master or non-descriptive commits
+  * A = Pushed to correct repository with descriptive commits
+  * G = Use of a branch/fork demonstrated appropriately
+  (e.g having a feature branch) along with descriptive commits
+  * E = Use of multiple useful branches/forks demonstrated appropriately
+  containing multiple coherent and descriptive commits
 * Creating and using a repository branch
   * N = Did not create or utilize branches
   * I = Create unclear branches
@@ -341,8 +322,7 @@ when creating python programs.
         to each project
     * G = An above average amount of knowledge and contributions
         to each project
-    * E = Going above and beyond the expectations and contributions
-        of others
+    * E = Actively seeking to contribute and understand software development
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
         instances of overriding the master branch
