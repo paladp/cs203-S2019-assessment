@@ -333,8 +333,7 @@
         to each project
     * G = An above average amount of knowledge and contributions
         to each project
-    * E = Going above and beyond the expectations and contributions
-        of others
+    * E = Actively seeking to contribute and understand software development
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
         instances of overriding the master branch
