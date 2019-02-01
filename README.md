@@ -18,7 +18,7 @@ professional sections. The technical section contains these subsections:
 * Continuous Integration with Travis
 * Foundations of Software Engineering
 
-The prfessional skills section contains these subsections:
+The professional skills section contains these subsections:
 
 * Individual
 * Ground
