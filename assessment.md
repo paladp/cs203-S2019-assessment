@@ -163,7 +163,7 @@
 * Using appropriate commit messages
   * N = Commit message are nonsensical
   * I = Commit message are uninformative
-  * A = Commit message both made sense but not very descriptive
+  * A = Commit message both made sense but not descriptive
   * G = Commit message are both clear, and moderately descriptive
   * E = Commit message are clear, concise and descriptive
 
