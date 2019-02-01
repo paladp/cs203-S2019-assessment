@@ -9,7 +9,7 @@ the software engineering team is completing an assignment.
 
 This assessment sheet was created through the combined work of many students.
 The goal of this assessment sheet is to provide both the instructor and the
-class with a way to track progress with regard to skills related to
+class with a way to track the progress of skills related to
 software engineering. The Assessment Sheet is divided into technical and
 professional sections. The technical section contains these subsections:
 
