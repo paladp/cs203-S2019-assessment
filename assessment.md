@@ -270,8 +270,8 @@
 * Requirements engineering
   * N = No effort to document, define, or maintain requirements present
   * I = Brief or unspecific documentation, definition, and maintenance given
-  * A = Explains what requirements have been specified enough detail to convey the
-  most important information
+  * A = Explains what requirements have been specified in enough detail
+  to convey the most important information
   * G = Documentation and definitions are well written and gives other team members
   an informed idea of the process
   * E = The software engineer displayed highly detailed, elaborate, and complete
