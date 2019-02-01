@@ -190,7 +190,7 @@
   * E = Immaculately detailed code and communication with the team before
   merging receives an excellent grade
 * Creating and reviewing a pull request
-  * N = no PR was made
+  * N = No PR was made
   * I = A PR was made but does not tag the related issues it is trying to close,
   does not fully describe the proposed changes within the PR, and does not
   update documentation to reflect the changes within the PR
