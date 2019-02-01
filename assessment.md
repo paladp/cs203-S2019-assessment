@@ -152,9 +152,9 @@
   and did not push to the master branch. Merge and pull requests are done
   correctly, commit messages can be understood. Additionally, all forks and
   repositories were made correctly as well.
-   * G = Good would indicate that the subbranches were made correctly, the
-   master branch was not pushed to, merge and pull requests were done correctly. 
-   Additionally, commit messages are detailed.
+   * G = Good would indicate that the subbranches were made correctly, 
+  the master branch was not pushed to, merge and pull requests were done 
+  correctly. Additionally, commit messages are detailed.
   * E = An excellent branch would be a purposeful branch that has a descriptive
   label. Had strong and frequent commit messages, in addition to using and creating
   repository branches, forks, and pull request correctly. Also pull requests have
@@ -221,9 +221,9 @@
   ``created three new variables in the main method``. And commit messages
   are done relatively often.
   * E = Excellent indicates a adequately detailed and clear commit message.
-  Example:``created three ints in the main method``. Commit messages are 
-  also frequent. 
-
+  Example:``created three ints in the main method``. Commit messages are also
+  frequent.
+  
 ### Continuous Integration with Travis
 
 * Setup and configure Travis CI
