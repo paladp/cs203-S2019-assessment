@@ -12,14 +12,6 @@
 
 ### Software Development with Python
 
-This section of the document contains the assessment categories related to
-software development with Python. Every topic includes five levels of
-competency that will be used to assess students in this class. A wide
-variety of topics are included that all relate to software development
-using python. Among these topics are configuring a development environment,
-using python packages to aid in development, and applying best practices
-when creating python programs.
-
 * Configuring a development environment for Python
   * N = Unable to setup development environment
   * I = Minimal development environment for Python.
@@ -28,7 +20,7 @@ when creating python programs.
   * G = Additional development tools configured, in addition to minimum required
   dependencies and developments
   * E = Additional development tools configured and able to provide assistance
-  and trouble shooting to other students regarding their own development
+  and troubleshooting to other students regarding their own development
   environment
 * Running Python programs with `pyenv` and `pipenv`
   * N = `pyenv` and `pipenv` not installed or setup
@@ -38,7 +30,7 @@ when creating python programs.
   and flags as necessary
   * E = Able to run programs with `pyenv` and `pipenv` using additional commands
   and flags to streamline workflow, while being able to provide assistance and
-  trouble shooting to other students using `pyenv` and `pipenv`
+  troubleshooting to other students using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
   * N = `pylint` and `flake8` not installed or setup
   * I = Unable to run `pylint` and `flake8` to lint Python programs
@@ -53,10 +45,10 @@ when creating python programs.
   * N = `black` not installed or setup
   * I = Unable to run `black` to format Python programs
   * A = Able to run `black` to format Python programs
-  * G = Able to run `black` to format Python programs with
-  additional command line options if necessary
+  * G = Same requirements as level 'A' in addition to solving
+  any problems with the installation of `black`
   * E = Same requirements as level 'G' in addition to being able to help other
-  students with `black` if necessary
+  students troubleshoot
 * Basic testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
   * I = Found many errors that were not resolved in testing
@@ -82,33 +74,30 @@ when creating python programs.
   * G = Test suite has an acceptable percent of coverage (50 - 80)
   * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
-  * N = Student did not use docstrings
-  * I = Students incorrectly attempted docstrings unidentifiable to compiler
-  * A = Student added docstrings, but it does not fully prescribe the functions/
+  * N = Did not use docstrings
+  * I = Incorrectly attempted docstrings unidentifiable to compiler
+  * A = Added docstrings, but it does not fully prescribe the functions/
   methods effect as a command
-  * G = Student successfully added docstring with useful description, but is
+  * G = Successfully added docstring with useful description, but is
   lacking some proper syntax
-  * E = Student successfully added docstring with useful description and proper
+  * E = Successfully added docstring with useful description and proper
   syntax
 * Adopting and applying appropriate naming conventions
-  * N = Student used inappropriate naming styles that are neither prescriptive
-  or descriptive
-  * I = Student used inappropriate naming styles that are either not
-  prescriptive or descriptive
-  * A = Students used appropriate naming styles that are not entirely
+  * N = Used unconventional naming styles foreign to python's syntax
+  * I = Used appropriate naming styles that are not entirely
   conventional
-  * G = Student used appropriate naming styles, but is missing syntax used with
+  * A = Used inappropriate naming styles that are not
+  prescriptive or descriptive
+  * G = Used appropriate naming styles, but is missing syntax used with
   variables, function, and methods
-  * E = Student used appropriate naming styles with correct syntax used with
+  * E = Used appropriate naming styles with correct syntax used with
   variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * N = Student does use exception handling for the possibility of unexpected
-  user input
-  * I = Student introduces try and except statements but does not have any clause
-  * A = Student utilizes try and except statements or user defined exceptions,
-  however, clause does not function
-  * G = Student correctly codes exception handling, but clause doesn't fully execute
-  * E = Student correctly codes exception handling with clause being perfectly executed
+  * N = Code crashes because of no exception handling
+  * I = Code crashes because of incorrect exception handling
+  * A = Code does not handle few exceptions
+  * G = Code handles most of exceptions
+  * E = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
   * N = No refactoring done or changed functions completely
   * I = Lack of documentation and clearly identifiable functions/code
@@ -156,17 +145,15 @@ when creating python programs.
   correctly. Additionally, merges and pull requests are done correctly and the
   commit messages can be understood, but the programmer pushed to the master
   branch.
+  * G = Good would indicate that the issue posted is neither redundant nor
+  incomprehensible, and is moderately descriptive and clear.
   * A = Adequate would indicate that the programmer correctly made subbranches
   and did not push to the master branch. Merge and pull requests are done
   correctly, commit messages can be understood. Additionally, all forks and
   repositories were made correctly as well.
-  * G = Good would indicate that the subbranches were made correctly,
-  the master branch was not pushed to, merge and pull requests were done
-  correctly. Additionally, commit messages are detailed.
   * E = An excellent branch would be a purposeful branch that has a descriptive
-  label. Had strong and frequent commit messages, in addition to using and creating
-  repository branches, forks, and pull request correctly. Also pull requests have
-  descriptive labels and their descriptions are detailed.
+  label. Had strong commit messages, in addition to using and creating
+  repository branches, forks, and pull request correctly.
 * Creating and using a repository branch
   * N = Routinely committing edits to the master branch or not pushing to
   correct branches receives a none grade
@@ -200,18 +187,18 @@ when creating python programs.
   * E = Immaculately detailed code and communication with the team before
   merging receives an excellent grade
 * Creating and reviewing a pull request
-  * N = No PR was made
-  * I = Does not tag the related issues it is trying to close,
+  * N = no PR was made
+  * I = A PR was made but does not tag the related issues it is trying to close,
   does not fully describe the proposed changes within the PR, and does not
   update documentation to reflect the changes within the PR
-  * A = Tags any related issues it is trying to close, fully
+  * A = A PR was made that tags any related issues it is trying to close, fully
   describes all of the proposed changes within the PR with no review being made
   by a person
-  * G = Tags any related issues it is trying to close, fully
+  * G = A PR was made that tags any related issues it is trying to close, fully
   describes all of the proposed changes within the PR with a review of it that
   partially discusses the ramifications of the PR after successfully building
   with Travis CI
-  * E = Tags any related issues it is trying to close, fully
+  * E = A PR was made that tags any related issues it is trying to close, fully
   describes all of the proposed changes within the PR with a review of it that
   fully discusses the ramifications of the PR after successfully building with
   Travis CI
@@ -222,15 +209,14 @@ when creating python programs.
   yet it was still ultimately uninformative. An example of this would be
   ``I am so angry`` or ``Please work``.
   * A = Adequate would indicate that the commit message both made sense and was
-  descriptive, to an extent. An example of this would be ``I added lines
-  to the main method``
+  descriptive, to an extent. An example of this would be ``X.py is broken.`` or
+  ``I added lines to the main method``
   * G = Good would indicate that the commit message was both clear, and
-  moderately descriptive. An example of a good and clear commit would be
-  ``created three new variables in the main method``. And commit messages
-  are done relatively often.
+  moderately descriptive. ``The main method of X.py is broken.`` or ``created
+  three new variables in the main method``
   * E = Excellent indicates a adequately detailed and clear commit message.
-  Example:``created three ints in the main method``. Commit messages are also
-  frequent.
+  ``The main method isn't calling correctly`` or ``created three ints in the
+  main method``
 
 ### Continuous Integration with Travis
 
@@ -304,14 +290,14 @@ when creating python programs.
   elements in a complex and complete blueprint of the software system, and the
   master branch has no errors and contains completed code
 * Software design
-  * N = No attempt to create a design
+  * N = No problem solving steps taken
   * I = Initial steps are taken to conceptualize, frame, and implement systems
   * A = Some software design is visible to the point where a software solution looks
   to be developed soon
   * G = A software solution is created that includes both an algorithm design and
   a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
-  reusability, and scalability are included while a software solution is ultimately
+  reusability, and scalability are included    while a software solution is ultimately
   created that includes both an algorithm design and a high-level architecture design
 * Software documentation
   * N = No explanation or comments about how to use or how the software works
@@ -368,9 +354,9 @@ when creating python programs.
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
         instances of overriding the master branch
-    * I = Occasional disregard for the model including pushing to
+    * I = Occasional disregard for the model including overriding
         the master branch
-    * A = Almost always adhering to model, but never pushing to
+    * A = Almost always adhering to model, but never overriding
         the master branch
     * G = Making only minor mistakes while trying to follow the model
         and providing a positive influence on other aspects such as issues
@@ -393,14 +379,12 @@ when creating python programs.
     * G = Working well with a team most of the time with clear communication
     * E = Working well with a team all time with clear and constructive
       communication
-* Understanding and avoiding red flags as described in the "Philosophy of Software
- Design" textbook. These include but are not limited to shallow modules, information
- leakage, and conjoined methods.
-  * N = Ignoring all red flags in the code
-  * I = Identifying a red flags in the code, but not fixing them
-  * A = Identifying and fixing a red flag in the code
-  * G = Identifying, understanding and fixing a red flag to prevent future problems
-  * E = Identifying, understanding, and fixing all red flags in the code
+* Understanding and avoiding red flags
+  * N = Ignoring all red flags
+  * I = Would be identifying red flags, but not fixing them
+  * A = Identifying and fixing a red flag
+  * G = Identifying, understanding and fixing a red flag to prevent future bugs
+  * E = Identifying, understanding, and fixing all red flags
 * Understanding and adopting best practices
   * N = A severe lack of understanding and refusal to adopt best practices
   * I = Slight understanding and occasional use and identification of the
