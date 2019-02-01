@@ -148,15 +148,17 @@
   correctly. Additionally, merges and pull requests are done correctly and the
   commit messages can be understood, but the programmer pushed to the master
   branch.
-  * G = Good would indicate that the issue posted is neither redundant nor
-  incomprehensible, and is moderately descriptive and clear.
   * A = Adequate would indicate that the programmer correctly made subbranches
   and did not push to the master branch. Merge and pull requests are done
   correctly, commit messages can be understood. Additionally, all forks and
   repositories were made correctly as well.
+   * G = Good would indicate that the subbranches were made correctly, the 
+   master branch was not pushed to,  merge and pull requests were done correctly. 
+   Additionally, commit messages are detailed.
   * E = An excellent branch would be a purposeful branch that has a descriptive
-  label. Had strong commit messages, in addition to using and creating
-  repository branches, forks, and pull request correctly.
+  label. Had strong and frequent commit messages, in addition to using and creating
+  repository branches, forks, and pull request correctly. Also pull requests have 
+  descriptive labels and their descriptions are detailed. 
 * Creating and using a repository branch
   * N = Routinely committing edits to the master branch or not pushing to
   correct branches receives a none grade
@@ -212,14 +214,15 @@
   yet it was still ultimately uninformative. An example of this would be
   ``I am so angry`` or ``Please work``.
   * A = Adequate would indicate that the commit message both made sense and was
-  descriptive, to an extent. An example of this would be ``X.py is broken.`` or
-  ``I added lines to the main method``
+  descriptive, to an extent. An example of this would be ``I added lines
+  to the main method``
   * G = Good would indicate that the commit message was both clear, and
-  moderately descriptive. ``The main method of X.py is broken.`` or ``created
-  three new variables in the main method``
+  moderately descriptive. An example of a good and clear commit would be
+  ``created three new variables in the main method``. And commit messages
+  are done relatively often.
   * E = Excellent indicates a adequately detailed and clear commit message.
-  ``The main method isn't calling correctly`` or ``created three ints in the
-  main method``
+  Example: ``created three ints in the main method``. Commit messages are 
+  also frequent. 
 
 ### Continuous Integration with Travis
 
