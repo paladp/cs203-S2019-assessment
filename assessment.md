@@ -12,6 +12,14 @@
 
 ### Software Development with Python
 
+This section of the document contains the assessment categories related to
+software development with Python. Every topic includes five levels of
+competency that will be used to assess students in this class. A wide
+variety of topics are included that all relate to software development
+using python. Among these topics are configuring a development environment,
+using python packages to aid in development, and applying best practices
+when creating python programs.
+
 * Configuring a development environment for Python
   * N = Unable to setup development environment
   * I = Minimal development environment for Python.
@@ -20,7 +28,7 @@
   * G = Additional development tools configured, in addition to minimum required
   dependencies and developments
   * E = Additional development tools configured and able to provide assistance
-  and troubleshooting to other students regarding their own development
+  and trouble shooting to other students regarding their own development
   environment
 * Running Python programs with `pyenv` and `pipenv`
   * N = `pyenv` and `pipenv` not installed or setup
@@ -30,7 +38,7 @@
   and flags as necessary
   * E = Able to run programs with `pyenv` and `pipenv` using additional commands
   and flags to streamline workflow, while being able to provide assistance and
-  troubleshooting to other students using `pyenv` and `pipenv`
+  trouble shooting to other students using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
   * N = `pylint` and `flake8` not installed or setup
   * I = Unable to run `pylint` and `flake8` to lint Python programs
@@ -45,10 +53,10 @@
   * N = `black` not installed or setup
   * I = Unable to run `black` to format Python programs
   * A = Able to run `black` to format Python programs
-  * G = Same requirements as level 'A' in addition to solving
-  any problems with the installation of `black`
+  * G = Able to run `black` to format Python programs with
+  additional command line options if necessary
   * E = Same requirements as level 'G' in addition to being able to help other
-  students troubleshoot
+  students with `black` if necessary
 * Basic testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
   * I = Found many errors that were not resolved in testing
