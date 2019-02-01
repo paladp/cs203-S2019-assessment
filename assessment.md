@@ -40,23 +40,18 @@ when creating python programs.
   and flags to streamline workflow, while being able to provide assistance and
   troubleshooting to other students using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
-  * N = `pylint` and `flake8` not installed or setup
+  * N = `pylint` and `flake8` not installed,setup, or used
   * I = Unable to run `pylint` and `flake8` to lint Python programs
-  * A = Able to run `pylint` and `flake8` to lint Python programs and
-  successfully address output to ensure program passes `pylint` and `flake8`
-  * G = Same requirements as level 'A' in addition to understanding other
-  functionalities of `pylint` and `flake8` such as suppressing messages and
-  overrides
-  * E = Same requirements as level 'G' in addition to being able to help other
-  students troubleshoot `pylint` and `flake8`
+  * A = Able to run `pylint` and `flake8` to lint Python programs but encounter
+  linting errors
+  * G = Able to run `pylint` and `flake8` to lint Python programs and pass
+  at least one check
+  * E = Able to run `pylint` and `flake8` to lint Python programs and pass
+  both checks
 * Formatting Python programs with `black`
-  * N = `black` not installed or setup
-  * I = Unable to run `black` to format Python programs
-  * A = Able to run `black` to format Python programs
-  * G = Able to run `black` to format Python programs with
+  * N = `black` not installed, setup, or used
+  * E = Ran `black` successfully and file was formatted
   additional command line options if necessary
-  * E = Same requirements as level 'G' in addition to being able to help other
-  students with `black` if necessary
 * Testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
   * I = Created inadequate test cases
@@ -64,17 +59,12 @@ when creating python programs.
   * G = Created thorough test cases
   * E = Created thorough and documented test cases
 * Calculating code coverage of a `pytest` test suite
-  * N = Did not utilize `pytest` for code coverage
-  * I = Test suite has low percent of coverage (30 and Below)
-  * A = Test suite has moderate percent of coverage (30 - 50)
-  * G = Test suite has an acceptable percent of coverage (50 - 80)
-  * E = Test suite has a high percent of coverage (80 - 100)
+  * N = Did not check code coverage
+  * E = Checked code coverage with pytest
 * Reporting code coverage through an online provider
-  * N = Did not utilize online provider for code coverage
-  * I = Test suite has low percent of coverage (30 and Below)
-  * A = Test suite has moderate percent of coverage (30 - 50)
-  * G = Test suite has an acceptable percent of coverage (50 - 80)
-  * E = Test suite has a high percent of coverage (80 - 100)
+  * N = Did not check coverage
+  * A = Checked code coverage using an online provider
+  * E = Checked code coverage through an online provider and documentation provided
 * Using docstrings to document a Python program
   * N = Did not use docstrings
   * I = Incorrectly attempted docstrings unidentifiable to compiler
@@ -226,13 +216,13 @@ when creating python programs.
 * Requirements engineering
   * N = No effort to document, define, or maintain requirements present
   * I = Brief or unspecific documentation, definition, and maintenance given
-  * A = Explains what was done with enough detail to convey the most important information
-  * G = Documentation and definition are well written and gives other team members
-  an informed idea of the process
+  * A = Explains what requirements have been specified in enough detail 
+  to convey the most important information
+  * G = Documentation and definitions are well written and gives other team members
   * E = The software engineer displayed highly detailed, elaborate, and complete
   documentation, definition, and maintenance in the given design process
 * Software architecture
-  * N = There is no concrete structure and the master branch is broken
+  * N = There is no consideration to the structure or organization of the project
   * I = There are small amounts of structure to the code where it may or may not
   run correctly, and the master branch is broken
   * A = There is a blueprint for the software system that lacks completion, and the
@@ -256,10 +246,12 @@ when creating python programs.
   * N = No explanation or comments about how to use or how the software works
   * I = A few comments in the code that are not detailed
   * A = Documentation has a bit of detail for every main part of the program
+  and an overview of how to use the program
   * G = Documentation is detailed and visible for most of the software within the
-  source code
-  * E = Explains in great detail how to use and operate the computer software
-  within the source code
+  source code as well as possible constraints or additional details of the program
+  * E = Explains in great detail how to use and operate the computer software,
+  including reasoning and justification of why certain methods or approaches were
+ taken
 * Programming styles
   * N = Programming style is not set and always changing around during the program
   * I = Not a clear programming style but has some implementation of general styles
@@ -356,9 +348,8 @@ when creating python programs.
   * E = Missing one or less lab sessions
 * Deadlines
   * N = If an assignment is turned in 5 or more days past the deadline
-  * I = If an assignment is turned in 1-4 days past the deadline
-  * A = If an assignment is turned in on the day of, or before the deadline
-  * G = If an assignment is turned in on the day of, or before the deadline
+  * I = If an assignment is turned in 4 days past the deadline
+  * A = If an assignment is turned in 1-3 days past the deadline
   * E = If an assignment is turned in on the day of, or before the deadline
 * Communication
   * N = Never check appropriate slack channels and never communicate with
@@ -403,12 +394,6 @@ when creating python programs.
   * A = Sometimes handles differences with teammates in mature manner
   * G = Regularly handles differences with teammates in mature manner
   * E = Always handles differences with teammates in mature manner
-* Infractions
-  * N = Always breaks the team rules
-  * I = Regularly breaks the team rules
-  * A = Sometimes breaks the team rules
-  * G = Rarely breaks the team rules
-  * E = Never breaks the team rules
 
 ### Interactions
 
