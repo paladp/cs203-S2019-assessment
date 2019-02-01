@@ -192,18 +192,18 @@
   * E = Immaculately detailed code and communication with the team before
   merging receives an excellent grade
 * Creating and reviewing a pull request
-  * N = no PR was made
-  * I = A PR was made but does not tag the related issues it is trying to close,
+  * N = No PR was made
+  * I = Does not tag the related issues it is trying to close,
   does not fully describe the proposed changes within the PR, and does not
   update documentation to reflect the changes within the PR
-  * A = A PR was made that tags any related issues it is trying to close, fully
+  * A = Tags any related issues it is trying to close, fully
   describes all of the proposed changes within the PR with no review being made
   by a person
-  * G = A PR was made that tags any related issues it is trying to close, fully
+  * G = Tags any related issues it is trying to close, fully
   describes all of the proposed changes within the PR with a review of it that
   partially discusses the ramifications of the PR after successfully building
   with Travis CI
-  * E = A PR was made that tags any related issues it is trying to close, fully
+  * E = Tags any related issues it is trying to close, fully
   describes all of the proposed changes within the PR with a review of it that
   fully discusses the ramifications of the PR after successfully building with
   Travis CI
