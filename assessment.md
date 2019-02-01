@@ -328,13 +328,12 @@
   * E = Everything is exceedingly well organized, with no excess or lack of files,
   folders, branches, forks, etc.
 * Mitigating software risk
-  * N = No procedure is followed, the master branch is broken, or files are corrupted
+  * N = No risk identified, and high potential impact of risk
   * I = The engineer avoids causing damage to the work of others, but may not produce
   any safely compatible source code
-  * A = Major issues are avoided and a few small complications may occur, none that
-  ruin the flow of work for the team
-  * G = Almost no problems occur while working with code or branches, does not slow
-  down productivity for self or others
+  * A = Major issues are avoided and a few small complications may occur, but there
+  is not a high impact of risk
+  * G = All risk is identified and the probability and likelihood of risk is minimal
   * E = All interactions with new and existing code are free from complications
   or other issues, everything works smoothly and completely free of errors
 
