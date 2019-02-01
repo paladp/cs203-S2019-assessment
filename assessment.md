@@ -156,36 +156,20 @@ when creating python programs.
   * E = Merging branches with well-documented, detailed code and
     extensive communication
 * Creating and reviewing a pull request
-  * N = no PR was made
-  * I = A PR was made but does not tag the related issues it is trying to close,
-  does not fully describe the proposed changes within the PR, and does not
-  update documentation to reflect the changes within the PR
-  * A = A PR was made that tags any related issues it is trying to close, fully
-  describes all of the proposed changes within the PR with no review being made
-  by a person
-  * G = A PR was made that tags any related issues it is trying to close, fully
-  describes all of the proposed changes within the PR with a review of it that
-  partially discusses the ramifications of the PR after successfully building
-  with Travis CI
-  * E = A PR was made that tags any related issues it is trying to close, fully
-  describes all of the proposed changes within the PR with a review of it that
-  fully discusses the ramifications of the PR after successfully building with
-  Travis CI
+  * N = No PR made
+  * I = Does not tag the related issues it is trying to close with poor description
+  * A = Tags any related issues it is trying to close, describes
+    proposed changes by a person
+  * G = Tags any related issues it is trying to close, describes most proposed changes,
+    discusses results of PR with Travis CI
+  * E = Tags any related issues it is trying to close, fully describes all
+    proposed changes and passes Travis CI
 * Using appropriate commit messages
-  * N = None would indicate that the commit message was nonsensical. An example
-  of this would be random strings of letters 'sdhjhsdjsd'.
-  * I = Inadequate would indicate that the commit message wasn't nonsensical,
-  yet it was still ultimately uninformative. An example of this would be
-  ``I am so angry`` or ``Please work``.
-  * A = Adequate would indicate that the commit message both made sense and was
-  descriptive, to an extent. An example of this would be ``X.py is broken.`` or
-  ``I added lines to the main method``
-  * G = Good would indicate that the commit message was both clear, and
-  moderately descriptive. ``The main method of X.py is broken.`` or ``created
-  three new variables in the main method``
-  * E = Excellent indicates a adequately detailed and clear commit message.
-  ``The main method isn't calling correctly`` or ``created three ints in the
-  main method``
+  * N = Commit message are nonsensical
+  * I = Commit message are uninformative
+  * A = Commit message both made sense but not descriptive
+  * G = Commit message are both clear, and moderately descriptive
+  * E = Commit message are clear, concise and descriptive
 
 ### Continuous Integration with Travis
 
