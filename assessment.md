@@ -235,7 +235,7 @@ when creating python programs.
 ### Continuous Integration with Travis
 
 * Setup and configure Travis CI
-  * N = Fails to perform any setup and configuration of Travis CI
+  * N = Failed to perform any setup and configuration of Travis CI
   * I = Setting up and configuring Travis CI which performs no checks
   * A = Sets up and configures Travis CI without performing checks on all
   relevant project deliverables
