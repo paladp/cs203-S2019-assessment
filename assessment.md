@@ -18,7 +18,7 @@
   * A = Basic development environment configured, including proper dependencies
   and development tools.
   * G = Additional development tools configured, in addition to minimum required
-  dependencies and developments
+  dependencies and tools
   * E = Additional development tools configured and able to provide assistance
   and troubleshooting to other students regarding their own development
   environment
@@ -49,18 +49,12 @@
   any problems with the installation of `black`
   * E = Same requirements as level 'G' in addition to being able to help other
   students troubleshoot
-* Basic testing of Python programs with `pytest`
+* Testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
-  * I = Found many errors that were not resolved in testing
-  * A = Found errors that were not resolved
-  * G = Found few errors that were not resolved
-  * E = Found minimal errors and resolved most errors
-* Advanced testing of Python programs with `pytest`
-  * N = Did not utilize `pytest`
-  * I = Found many errors that were not resolved
-  * A = Found errors that were not resolved
-  * G = Found few errors that were not resolved
-  * E = Found minimal errors and resolved most errors
+  * I = Created inadequate test cases
+  * A = Created few test cases
+  * G = Created thorough test cases
+  * E = Created thorough and documented test cases
 * Calculating code coverage of a `pytest` test suite
   * N = Did not utilize `pytest` for code coverage
   * I = Test suite has low percent of coverage (30 and Below)
@@ -99,23 +93,23 @@
   * G = Code handles most of exceptions
   * E = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
-  * N = No refactoring done or changed functions completely
-  * I = Lack of documentation and clearly identifiable functions/code
-  * A = Some changes can be made but well documented
-  * G = Includes easy to understand functions and documentation
-  * E = Clean and efficient code that is well documented
+  * N = No refactoring done
+  * I = Little code refactored and no documentation
+  * A = Some code refactored and changes documented
+  * G = Refactored code contains easy to understand functions and documentation
+  * E = Refactored code is clean, efficient, and maintainable code that is well documented
 * Debugging Python programs using logging and other methods
-  * N = No debugging done
-  * I = Identified bugs in system but no fix
+  * N = No bugfixing or bugfinding done
+  * I = Identified bugs in code but no fix
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
-  * E = Fixed all or most bugs using multiple methods
+  * E = Fixed all bugs using logging/other methods and well documented
 * Adopting and using appropriate Python language constructs
   * N = No written code or monolithic code
-  * I = Language constructs used inappropriate way
+  * I = Language constructs used inappropriately
   * A = Some language constructs used appropriately
-  * G = Some or many language constructs used efficiently
-  * E = Several language constructs used efficiently and reason is documented
+  * G = Most language constructs used efficiently
+  * E = All language constructs used efficiently and reason is documented
 
 ### Project Management with GitHub
 
@@ -273,13 +267,14 @@
 * Requirements engineering
   * N = No effort to document, define, or maintain requirements present
   * I = Brief or unspecific documentation, definition, and maintenance given
-  * A = Explains what was done with enough detail to convey the most important information
-  * G = Documentation and definition are well written and gives other team members
+  * A = Explains what requirements have been specified in enough detail
+  to convey the most important information
+  * G = Documentation and definitions are well written and gives other team members
   an informed idea of the process
   * E = The software engineer displayed highly detailed, elaborate, and complete
   documentation, definition, and maintenance in the given design process
 * Software architecture
-  * N = There is no concrete structure and the master branch is broken
+  * N = There is no consideration to the structure or organization of the project
   * I = There are small amounts of structure to the code where it may or may not
   run correctly, and the master branch is broken
   * A = There is a blueprint for the software system that lacks completion, and the
@@ -303,10 +298,12 @@
   * N = No explanation or comments about how to use or how the software works
   * I = A few comments in the code that are not detailed
   * A = Documentation has a bit of detail for every main part of the program
+  and an overview of how to use the program
   * G = Documentation is detailed and visible for most of the software within the
-  source code
-  * E = Explains in great detail how to use and operate the computer software
-  within the source code
+  source code as well as possible constraints or additional details of the program
+  * E = Explains in great detail how to use and operate the computer software,
+  including reasoning and justification of why certain methods or approaches were
+  taken
 * Programming styles
   * N = Programming style is not set and always changing around during the program
   * I = Not a clear programming style but has some implementation of general styles
@@ -325,13 +322,11 @@
   * E = Everything is exceedingly well organized, with no excess or lack of files,
   folders, branches, forks, etc.
 * Mitigating software risk
-  * N = No procedure is followed, the master branch is broken, or files are corrupted
-  * I = The engineer avoids causing damage to the work of others, but may not produce
-  any safely compatible source code
-  * A = Major issues are avoided and a few small complications may occur, none that
-  ruin the flow of work for the team
-  * G = Almost no problems occur while working with code or branches, does not slow
-  down productivity for self or others
+  * N = No risk identified, and high potential impact of risk
+  * I = Identifies minimal risks and does bare minimum to resolve them
+  * A = Identifies most of the risk and attempts to resolve them
+  but are unsuccessful. Gives up only after a few attempts.
+  * G = All risk is identified. The probability and likelihood of risk is minimal
   * E = All interactions with new and existing code are free from complications
   or other issues, everything works smoothly and completely free of errors
 
@@ -406,9 +401,8 @@
   * E = Missing one or less lab sessions
 * Deadlines
   * N = If an assignment is turned in 5 or more days past the deadline
-  * I = If an assignment is turned in 1-4 days past the deadline
-  * A = If an assignment is turned in on the day of, or before the deadline
-  * G = If an assignment is turned in on the day of, or before the deadline
+  * I = If an assignment is turned in 4 days past the deadline
+  * A = If an assignment is turned in 1-3 days past the deadline
   * E = If an assignment is turned in on the day of, or before the deadline
 * Communication
   * N = Never check appropriate slack channels and never communicate with
@@ -425,8 +419,10 @@
   * N = Never participate in group conversation or activity
   * I = Rarely participate in group conversation or activity
   * A = Sometimes participate in group conversation or activity
-  * G = Regularly participate in group conversation or activity
-  * E = Always participate in group conversation or activity
+  * G = Responds within 1-2 days to questions/comments, and willing to meet outside
+    of class if necessary
+  * E = Respond regularly and quickly to questions/comments, and willing to meet
+    outside of class if necessary
 * Conduct
   * N = Disrespectful and excludes teammates
   * I = Rarely respectful and inclusive of teammates
@@ -451,12 +447,6 @@
   * A = Sometimes handles differences with teammates in mature manner
   * G = Regularly handles differences with teammates in mature manner
   * E = Always handles differences with teammates in mature manner
-* Infractions
-  * N = Always breaks the team rules
-  * I = Regularly breaks the team rules
-  * A = Sometimes breaks the team rules
-  * G = Rarely breaks the team rules
-  * E = Never breaks the team rules
 
 ### Interactions
 
