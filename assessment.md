@@ -216,7 +216,7 @@ when creating python programs.
 * Requirements engineering
   * N = No effort to document, define, or maintain requirements present
   * I = Brief or unspecific documentation, definition, and maintenance given
-  * A = Explains what requirements have been specified in enough detail 
+  * A = Explains what requirements have been specified in enough detail
   to convey the most important information
   * G = Documentation and definitions are well written and gives other team members
   * E = The software engineer displayed highly detailed, elaborate, and complete
