@@ -360,9 +360,9 @@
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
         instances of overriding the master branch
-    * I = Occasional disregard for the model including overriding
+    * I = Occasional disregard for the model including pushing to
         the master branch
-    * A = Almost always adhering to model, but never overriding
+    * A = Almost always adhering to model, but never pushing to
         the master branch
     * G = Making only minor mistakes while trying to follow the model
         and providing a positive influence on other aspects such as issues
@@ -385,12 +385,14 @@
     * G = Working well with a team most of the time with clear communication
     * E = Working well with a team all time with clear and constructive
       communication
-* Understanding and avoiding red flags
-  * N = Ignoring all red flags
-  * I = Would be identifying red flags, but not fixing them
-  * A = Identifying and fixing a red flag
-  * G = Identifying, understanding and fixing a red flag to prevent future bugs
-  * E = Identifying, understanding, and fixing all red flags
+* Understanding and avoiding red flags as described in the "Philosophy of Software
+ Design" textbook. These include but are not limited to shallow modules, information
+ leakage, and conjoined methods.
+  * N = Ignoring all red flags in the code
+  * I = Identifying a red flags in the code, but not fixing them
+  * A = Identifying and fixing a red flag in the code
+  * G = Identifying, understanding and fixing a red flag to prevent future problems
+  * E = Identifying, understanding, and fixing all red flags in the code
 * Understanding and adopting best practices
   * N = A severe lack of understanding and refusal to adopt best practices
   * I = Slight understanding and occasional use and identification of the
