@@ -152,21 +152,14 @@
   * E = Merging branches with well-documented, detailed code and
     extensive communication
 * Creating and reviewing a pull request
-  * N = no PR was made
-  * I = A PR was made but does not tag the related issues it is trying to close,
-  does not fully describe the proposed changes within the PR, and does not
-  update documentation to reflect the changes within the PR
-  * A = A PR was made that tags any related issues it is trying to close, fully
-  describes all of the proposed changes within the PR with no review being made
-  by a person
-  * G = A PR was made that tags any related issues it is trying to close, fully
-  describes all of the proposed changes within the PR with a review of it that
-  partially discusses the ramifications of the PR after successfully building
-  with Travis CI
-  * E = A PR was made that tags any related issues it is trying to close, fully
-  describes all of the proposed changes within the PR with a review of it that
-  fully discusses the ramifications of the PR after successfully building with
-  Travis CI
+  * N = No PR made
+  * I = Does not tag the related issues it is trying to close with poor description
+  * A = Tags any related issues it is trying to close, describes
+    proposed changes by a person
+  * G = Tags any related issues it is trying to close, describes most proposed changes,
+    discusses results of PR with Travis CI
+  * E = Tags any related issues it is trying to close, fully describes all
+    proposed changes and passes Travis CI
 * Using appropriate commit messages
   * N = None would indicate that the commit message was nonsensical. An example
   of this would be random strings of letters 'sdhjhsdjsd'.
