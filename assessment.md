@@ -225,7 +225,7 @@
 
 * Setup and configure Travis CI
   * N = Fails to perform any setup and configuration of Travis CI
-  * I = Setting up and configuring Travis CI which performs no checks
+  * I = Setting up and configuring Travis CI which performs no checks1:30pm - 2:20pm
   * A = Sets up and configures Travis CI without performing checks on all
   relevant project deliverables
   * G = Sets up and configures Travis CI to perform most relevant checks on
@@ -494,7 +494,7 @@
   * I = Communicated with the technical leads poorly, did not use them well as your
      resources, did not talk to them
   * A = Communicated with the technical leads well, but relied on them too
-     much, asked them to do too many works
+     much, asked them to do too much work
   * G = Communicated with the technical leads well, politely asked them
      questions and try to solve the problem with their help
   * E = Communicated with the technical leads excellently, politely sharing own
