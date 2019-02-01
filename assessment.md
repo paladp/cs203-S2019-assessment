@@ -293,14 +293,14 @@
   elements in a complex and complete blueprint of the software system, and the
   master branch has no errors and contains completed code
 * Software design
-  * N = No problem solving steps taken
+  * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
   * A = Some software design is visible to the point where a software solution looks
   to be developed soon
   * G = A software solution is created that includes both an algorithm design and
   a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
-  reusability, and scalability are included    while a software solution is ultimately
+  reusability, and scalability are included while a software solution is ultimately
   created that includes both an algorithm design and a high-level architecture design
 * Software documentation
   * N = No explanation or comments about how to use or how the software works
