@@ -100,23 +100,23 @@ when creating python programs.
   * G = Code handles most of exceptions
   * E = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
-  * N = No refactoring done or changed functions completely
-  * I = Lack of documentation and clearly identifiable functions/code
-  * A = Some changes can be made but well documented
-  * G = Includes easy to understand functions and documentation
-  * E = Clean and efficient code that is well documented
+  * N = No refactoring done
+  * I = Little code refactored and no documentation
+  * A = Some code refactored and changes documented
+  * G = Refactored code contains easy to understand functions and documentation
+  * E = Refactored code is clean, efficient, and maintainable code that is well documented
 * Debugging Python programs using logging and other methods
-  * N = No debugging done
-  * I = Identified bugs in system but no fix
+  * N = No bugfixing or bugfinding done
+  * I = Identified bugs in code but no fix
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
-  * E = Fixed all or most bugs using multiple methods
+  * E = Fixed all bugs using logging/other methods and well documented
 * Adopting and using appropriate Python language constructs
   * N = No written code or monolithic code
-  * I = Language constructs used inappropriate way
+  * I = Language constructs used inappropriately
   * A = Some language constructs used appropriately
-  * G = Some or many language constructs used efficiently
-  * E = Several language constructs used efficiently and reason is documented
+  * G = Most language constructs used efficiently
+  * E = All language constructs used efficiently and reason is documented
 
 ### Project Management with GitHub
 
