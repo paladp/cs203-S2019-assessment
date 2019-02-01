@@ -116,7 +116,7 @@ when creating python programs.
   * G = Refactored code contains easy to understand functions and documentation
   * E = Refactored code is clean, efficient, and maintainable code that is well documented
 * Debugging Python programs using logging and other methods
-  * N = No bigfixing or bugfinding done
+  * N = No bugfixing or bugfinding done
   * I = Identified bugs in code but no fix
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
