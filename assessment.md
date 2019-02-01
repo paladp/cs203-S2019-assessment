@@ -382,8 +382,9 @@
     * G = Working well with a team most of the time with clear communication
     * E = Working well with a team all time with clear and constructive
       communication
-* Understanding and avoiding red flags as described in the "Philosophy of Software Design" textbook. 
-  These include but are not limited to shallow modules, information leakage, and conjoined methods.
+* Understanding and avoiding red flags as described in the "Philosophy of Software
+ Design" textbook. These include but are not limited to shallow modules, information
+ leakage, and conjoined methods.
   * N = Ignoring all red flags in the code
   * I = Identifying a red flags in the code, but not fixing them
   * A = Identifying and fixing a red flag in the code
