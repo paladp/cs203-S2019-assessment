@@ -68,33 +68,30 @@
   * G = Test suite has an acceptable percent of coverage (50 - 80)
   * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
-  * N = Student did not use docstrings
-  * I = Students incorrectly attempted docstrings unidentifiable to compiler
-  * A = Student added docstrings, but it does not fully prescribe the functions/
+  * N = Did not use docstrings
+  * I = Incorrectly attempted docstrings unidentifiable to compiler
+  * A = Added docstrings, but it does not fully prescribe the functions/
   methods effect as a command
-  * G = Student successfully added docstring with useful description, but is
+  * G = Successfully added docstring with useful description, but is
   lacking some proper syntax
-  * E = Student successfully added docstring with useful description and proper
+  * E = Successfully added docstring with useful description and proper
   syntax
 * Adopting and applying appropriate naming conventions
-  * N = Student used inappropriate naming styles that are neither prescriptive
-  or descriptive
-  * I = Student used inappropriate naming styles that are either not
-  prescriptive or descriptive
-  * A = Students used appropriate naming styles that are not entirely
+  * N = Used unconventional naming styles foreign to python's syntax
+  * I = Used appropriate naming styles that are not entirely
   conventional
-  * G = Student used appropriate naming styles, but is missing syntax used with
+  * A = Used inappropriate naming styles that are not
+  prescriptive or descriptive
+  * G = Used appropriate naming styles, but is missing syntax used with
   variables, function, and methods
-  * E = Student used appropriate naming styles with correct syntax used with
+  * E = Used appropriate naming styles with correct syntax used with
   variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * N = Student does use exception handling for the possibility of unexpected
-  user input
-  * I = Student introduces try and except statements but does not have any clause
-  * A = Student utilizes try and except statements or user defined exceptions,
-  however, clause does not function
-  * G = Student correctly codes exception handling, but clause doesn't fully execute
-  * E = Student correctly codes exception handling with clause being perfectly executed
+  * N = Code crashes because of no exception handling
+  * I = Code crashes because of incorrect exception handling
+  * A = Code does not handle few exceptions
+  * G = Code handles most of exceptions
+  * E = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
   * N = No refactoring done
   * I = Little code refactored and no documentation
@@ -295,7 +292,7 @@
   * G = A software solution is created that includes both an algorithm design and
   a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
-  reusability, and scalability are included while a software solution is ultimately
+  reusability, and scalability are included    while a software solution is ultimately
   created that includes both an algorithm design and a high-level architecture design
 * Software documentation
   * N = No explanation or comments about how to use or how the software works
