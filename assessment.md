@@ -270,13 +270,14 @@
 * Requirements engineering
   * N = No effort to document, define, or maintain requirements present
   * I = Brief or unspecific documentation, definition, and maintenance given
-  * A = Explains what was done with enough detail to convey the most important information
-  * G = Documentation and definition are well written and gives other team members
+  * A = Explains what requirements have been specified enough detail to convey the
+  most important information
+  * G = Documentation and definitions are well written and gives other team members
   an informed idea of the process
   * E = The software engineer displayed highly detailed, elaborate, and complete
   documentation, definition, and maintenance in the given design process
 * Software architecture
-  * N = There is no concrete structure and the master branch is broken
+  * N = There is no consideration to the structure or organization of the project
   * I = There are small amounts of structure to the code where it may or may not
   run correctly, and the master branch is broken
   * A = There is a blueprint for the software system that lacks completion, and the
@@ -300,10 +301,12 @@
   * N = No explanation or comments about how to use or how the software works
   * I = A few comments in the code that are not detailed
   * A = Documentation has a bit of detail for every main part of the program
+  and an overview of how to use the program
   * G = Documentation is detailed and visible for most of the software within the
-  source code
-  * E = Explains in great detail how to use and operate the computer software
-  within the source code
+  source code as well as possible constraints or additional details of the program
+  * E = Explains in great detail how to use and operate the computer software,
+  including reasoning and justification of why certain methods or approaches were
+  taken
 * Programming styles
   * N = Programming style is not set and always changing around during the program
   * I = Not a clear programming style but has some implementation of general styles
