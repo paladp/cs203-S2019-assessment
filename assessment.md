@@ -329,11 +329,10 @@
   folders, branches, forks, etc.
 * Mitigating software risk
   * N = No risk identified, and high potential impact of risk
-  * I = The engineer avoids causing damage to the work of others, but may not produce
-  any safely compatible source code
-  * A = Major issues are avoided and a few small complications may occur, but there
-  is not a high impact of risk
-  * G = All risk is identified and the probability and likelihood of risk is minimal
+  * I = Identifies minimal risks and does bare minimum to resolve them
+  * A = Identifies most of the risk and attempts to resolve them
+  but are unsuccessful. Gives up only after a few attempts.
+  * G = All risk is identified. The probability and likelihood of risk is minimal
   * E = All interactions with new and existing code are free from complications
   or other issues, everything works smoothly and completely free of errors
 
