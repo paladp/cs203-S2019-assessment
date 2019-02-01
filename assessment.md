@@ -18,7 +18,7 @@
   * A = Basic development environment configured, including proper dependencies
   and development tools.
   * G = Additional development tools configured, in addition to minimum required
-  dependencies and tools
+  dependencies and developments
   * E = Additional development tools configured and able to provide assistance
   and troubleshooting to other students regarding their own development
   environment
@@ -68,48 +68,51 @@
   * G = Test suite has an acceptable percent of coverage (50 - 80)
   * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
-  * N = Did not use docstrings
-  * I = Incorrectly attempted docstrings unidentifiable to compiler
-  * A = Added docstrings, but it does not fully prescribe the functions/
+  * N = Student did not use docstrings
+  * I = Students incorrectly attempted docstrings unidentifiable to compiler
+  * A = Student added docstrings, but it does not fully prescribe the functions/
   methods effect as a command
-  * G = Successfully added docstring with useful description, but is
+  * G = Student successfully added docstring with useful description, but is
   lacking some proper syntax
-  * E = Successfully added docstring with useful description and proper
+  * E = Student successfully added docstring with useful description and proper
   syntax
 * Adopting and applying appropriate naming conventions
-  * N = Used unconventional naming styles foreign to python's syntax
-  * I = Used appropriate naming styles that are not entirely
-  conventional
-  * A = Used inappropriate naming styles that are not
+  * N = Student used inappropriate naming styles that are neither prescriptive
+  or descriptive
+  * I = Student used inappropriate naming styles that are either not
   prescriptive or descriptive
-  * G = Used appropriate naming styles, but is missing syntax used with
+  * A = Students used appropriate naming styles that are not entirely
+  conventional
+  * G = Student used appropriate naming styles, but is missing syntax used with
   variables, function, and methods
-  * E = Used appropriate naming styles with correct syntax used with
+  * E = Student used appropriate naming styles with correct syntax used with
   variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * N = Code crashes because of no exception handling
-  * I = Code crashes because of incorrect exception handling
-  * A = Code does not handle few exceptions
-  * G = Code handles most of exceptions
-  * E = Code handles all exceptions and documents causes
+  * N = Student does use exception handling for the possibility of unexpected
+  user input
+  * I = Student introduces try and except statements but does not have any clause
+  * A = Student utilizes try and except statements or user defined exceptions,
+  however, clause does not function
+  * G = Student correctly codes exception handling, but clause doesn't fully execute
+  * E = Student correctly codes exception handling with clause being perfectly executed
 * Refactoring a Python program to improve its characteristics
-  * N = No refactoring done
-  * I = Little code refactored and no documentation
-  * A = Some code refactored and changes documented
-  * G = Refactored code contains easy to understand functions and documentation
-  * E = Refactored code is clean, efficient, and maintainable code that is well documented
+  * N = No refactoring done or changed functions completely
+  * I = Lack of documentation and clearly identifiable functions/code
+  * A = Some changes can be made but well documented
+  * G = Includes easy to understand functions and documentation
+  * E = Clean and efficient code that is well documented
 * Debugging Python programs using logging and other methods
-  * N = No bugfixing or bugfinding done
-  * I = Identified bugs in code but no fix
+  * N = No debugging done
+  * I = Identified bugs in system but no fix
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
-  * E = Fixed all bugs using logging/other methods and well documented
+  * E = Fixed all or most bugs using multiple methods
 * Adopting and using appropriate Python language constructs
   * N = No written code or monolithic code
-  * I = Language constructs used inappropriately
+  * I = Language constructs used inappropriate way
   * A = Some language constructs used appropriately
-  * G = Most language constructs used efficiently
-  * E = All language constructs used efficiently and reason is documented
+  * G = Some or many language constructs used efficiently
+  * E = Several language constructs used efficiently and reason is documented
 
 ### Project Management with GitHub
 
@@ -149,37 +152,24 @@
   label. Had strong commit messages, in addition to using and creating
   repository branches, forks, and pull request correctly.
 * Creating and using a repository branch
-  * N = Routinely committing edits to the master branch or not pushing to
-  correct branches receives a none grade
-  * I = Creating branches with unclear names and no descriptions will receive an
-  inadequate grade
-  * A = Branches named sensibly with unique code and descriptions that
-  adequately describe the branch's purpose receive an adequate grade
-  * G = Well documented changes to correct well-named and necessary branches
-  will receive a good grade
-  * E = Immaculately documented changes on branches that serve extremely
-  important purposes will receive an excellent grade
+  * N = Did not create or utilize branches
+  * I = Create unclear branches
+  * A = Create too many poorly named branches
+  * G = Create useful adequately named branches
+  * E = Create useful and descriptive branches
 * Creating and using a repository fork
-  * N = Pushing to the wrong fork or making forks that serve no purpose will
-  receive a none grade
-  * I = Forks with unclear names and purposes will receive an inadequate grade
-  * A = Creating and pushing to forks that are necessary to our design that have
-  detailed annotations will receive an adequate grade
-  * G = Highly detailed forks with well-kept history and well-annotated code
-  will receive a good grade
-  * E = Immaculately detailed forks with an impeccably annotated history will
-  receive an excellent grade
+  * N = Did not create or utilize forks
+  * I = Create unclear forks
+  * A = Create too many poorly named forks
+  * G = Create useful adequately named forks
+  * E = Create useful and descriptive forks
 * Merging a branch or a fork to another branch or fork
-  * N = Not communicating changes before merging branches and forks receives a
-  none grade
-  * I = Merging with lackluster communication with the team or merging faulty
-  code receives an inadequate grade
-  * A = Communicating changes with the team and reconciling differences between
-  code receives and adequate grade
-  * G = Merging branches after extensive communication with the team receives a
-  good grade
-  * E = Immaculately detailed code and communication with the team before
-  merging receives an excellent grade
+  * N = Not communicating changes before merging branches and forks
+  * I = Merging with minimal communication or merging faulty code
+  * A = Communicating changes with the team and reconciling differences
+  * G = Merging branches after extensive communication
+  * E = Merging branches with well-documented, detailed code and
+    extensive communication
 * Creating and reviewing a pull request
   * N = no PR was made
   * I = A PR was made but does not tag the related issues it is trying to close,
@@ -267,14 +257,13 @@
 * Requirements engineering
   * N = No effort to document, define, or maintain requirements present
   * I = Brief or unspecific documentation, definition, and maintenance given
-  * A = Explains what requirements have been specified in enough detail
-  to convey the most important information
-  * G = Documentation and definitions are well written and gives other team members
+  * A = Explains what was done with enough detail to convey the most important information
+  * G = Documentation and definition are well written and gives other team members
   an informed idea of the process
   * E = The software engineer displayed highly detailed, elaborate, and complete
   documentation, definition, and maintenance in the given design process
 * Software architecture
-  * N = There is no consideration to the structure or organization of the project
+  * N = There is no concrete structure and the master branch is broken
   * I = There are small amounts of structure to the code where it may or may not
   run correctly, and the master branch is broken
   * A = There is a blueprint for the software system that lacks completion, and the
@@ -292,18 +281,16 @@
   * G = A software solution is created that includes both an algorithm design and
   a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
-  reusability, and scalability are included    while a software solution is ultimately
+  reusability, and scalability are included while a software solution is ultimately
   created that includes both an algorithm design and a high-level architecture design
 * Software documentation
   * N = No explanation or comments about how to use or how the software works
   * I = A few comments in the code that are not detailed
   * A = Documentation has a bit of detail for every main part of the program
-  and an overview of how to use the program
   * G = Documentation is detailed and visible for most of the software within the
-  source code as well as possible constraints or additional details of the program
-  * E = Explains in great detail how to use and operate the computer software,
-  including reasoning and justification of why certain methods or approaches were
-  taken
+  source code
+  * E = Explains in great detail how to use and operate the computer software
+  within the source code
 * Programming styles
   * N = Programming style is not set and always changing around during the program
   * I = Not a clear programming style but has some implementation of general styles
@@ -322,11 +309,13 @@
   * E = Everything is exceedingly well organized, with no excess or lack of files,
   folders, branches, forks, etc.
 * Mitigating software risk
-  * N = No risk identified, and high potential impact of risk
-  * I = Identifies minimal risks and does bare minimum to resolve them
-  * A = Identifies most of the risk and attempts to resolve them
-  but are unsuccessful. Gives up only after a few attempts.
-  * G = All risk is identified. The probability and likelihood of risk is minimal
+  * N = No procedure is followed, the master branch is broken, or files are corrupted
+  * I = The engineer avoids causing damage to the work of others, but may not produce
+  any safely compatible source code
+  * A = Major issues are avoided and a few small complications may occur, none that
+  ruin the flow of work for the team
+  * G = Almost no problems occur while working with code or branches, does not slow
+  down productivity for self or others
   * E = All interactions with new and existing code are free from complications
   or other issues, everything works smoothly and completely free of errors
 
@@ -401,8 +390,9 @@
   * E = Missing one or less lab sessions
 * Deadlines
   * N = If an assignment is turned in 5 or more days past the deadline
-  * I = If an assignment is turned in 4 days past the deadline
-  * A = If an assignment is turned in 1-3 days past the deadline
+  * I = If an assignment is turned in 1-4 days past the deadline
+  * A = If an assignment is turned in on the day of, or before the deadline
+  * G = If an assignment is turned in on the day of, or before the deadline
   * E = If an assignment is turned in on the day of, or before the deadline
 * Communication
   * N = Never check appropriate slack channels and never communicate with
@@ -447,6 +437,12 @@
   * A = Sometimes handles differences with teammates in mature manner
   * G = Regularly handles differences with teammates in mature manner
   * E = Always handles differences with teammates in mature manner
+* Infractions
+  * N = Always breaks the team rules
+  * I = Regularly breaks the team rules
+  * A = Sometimes breaks the team rules
+  * G = Rarely breaks the team rules
+  * E = Never breaks the team rules
 
 ### Interactions
 
