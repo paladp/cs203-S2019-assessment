@@ -306,8 +306,8 @@
 * Software documentation
   * N = No explanation or comments about how to use or how the software works
   * I = A few comments in the code that are not detailed
-  * A = Documentation has a bit of detail for every main part of the program and an
-  overview of how to use the program
+  * A = Documentation has a bit of detail for every main part of the program
+  and an overview of how to use the program
   * G = Documentation is detailed and visible for most of the software within the
   source code as well as possible constraints or additional details of the program
   * E = Explains in great detail how to use and operate the computer software,
