@@ -12,13 +12,21 @@
 
 ### Software Development with Python
 
+This section of the document contains the assessment categories related to
+software development with Python. Every topic includes five levels of
+competency that will be used to assess students in this class. A wide
+variety of topics are included that all relate to software development
+using python. Among these topics are configuring a development environment,
+using python packages to aid in development, and applying best practices
+when creating python programs.
+
 * Configuring a development environment for Python
   * N = Unable to setup development environment
   * I = Minimal development environment for Python.
   * A = Basic development environment configured, including proper dependencies
   and development tools.
   * G = Additional development tools configured, in addition to minimum required
-  dependencies and developments
+  dependencies and tools
   * E = Additional development tools configured and able to provide assistance
   and troubleshooting to other students regarding their own development
   environment
@@ -40,15 +48,15 @@
   functionalities of `pylint` and `flake8` such as suppressing messages and
   overrides
   * E = Same requirements as level 'G' in addition to being able to help other
-  students trouble shoot `pylint` and `flake8`
+  students troubleshoot `pylint` and `flake8`
 * Formatting Python programs with `black`
   * N = `black` not installed or setup
   * I = Unable to run `black` to format Python programs
   * A = Able to run `black` to format Python programs
-  * G = Same requirements as level 'A' in addition to solving
-  any problems with the installation of `black`
+  * G = Able to run `black` to format Python programs with
+  additional command line options if necessary
   * E = Same requirements as level 'G' in addition to being able to help other
-  students troubleshoot
+  students with `black` if necessary
 * Testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
   * I = Created inadequate test cases
@@ -68,51 +76,47 @@
   * G = Test suite has an acceptable percent of coverage (50 - 80)
   * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
-  * N = Student did not use docstrings
-  * I = Students incorrectly attempted docstrings unidentifiable to compiler
-  * A = Student added docstrings, but it does not fully prescribe the functions/
+  * N = Did not use docstrings
+  * I = Incorrectly attempted docstrings unidentifiable to compiler
+  * A = Added docstrings, but it does not fully prescribe the functions/
   methods effect as a command
-  * G = Student successfully added docstring with useful description, but is
+  * G = Successfully added docstring with useful description, but is
   lacking some proper syntax
-  * E = Student successfully added docstring with useful description and proper
+  * E = Successfully added docstring with useful description and proper
   syntax
 * Adopting and applying appropriate naming conventions
-  * N = Student used inappropriate naming styles that are neither prescriptive
-  or descriptive
-  * I = Student used inappropriate naming styles that are either not
+  * N = Used unconventional naming styles foreign to python's syntax
+  * I = Used appropriate naming styles that are not entirely conventional
+  * A = Used inappropriate naming styles that are not
   prescriptive or descriptive
-  * A = Students used appropriate naming styles that are not entirely
-  conventional
-  * G = Student used appropriate naming styles, but is missing syntax used with
+  * G = Used appropriate naming styles, but is missing syntax used with
   variables, function, and methods
-  * E = Student used appropriate naming styles with correct syntax used with
+  * E = Used appropriate naming styles with correct syntax used with
   variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * N = Student does use exception handling for the possibility of unexpected
-  user input
-  * I = Student introduces try and except statements but does not have any clause
-  * A = Student utilizes try and except statements or user defined exceptions,
-  however, clause does not function
-  * G = Student correctly codes exception handling, but clause doesn't fully execute
-  * E = Student correctly codes exception handling with clause being perfectly executed
+  * N = Code crashes because of no exception handling
+  * I = Code crashes because of incorrect exception handling
+  * A = Code does not handle few exceptions
+  * G = Code handles most of exceptions
+  * E = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
-  * N = No refactoring done or changed functions completely
-  * I = Lack of documentation and clearly identifiable functions/code
-  * A = Some changes can be made but well documented
-  * G = Includes easy to understand functions and documentation
-  * E = Clean and efficient code that is well documented
+  * N = No refactoring done
+  * I = Little code refactored and no documentation
+  * A = Some code refactored and changes documented
+  * G = Refactored code contains easy to understand functions and documentation
+  * E = Refactored code is clean, efficient, and maintainable code that is well documented
 * Debugging Python programs using logging and other methods
-  * N = No debugging done
-  * I = Identified bugs in system but no fix
+  * N = No bugfixing or bugfinding done
+  * I = Identified bugs in code but no fix
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
-  * E = Fixed all or most bugs using multiple methods
+  * E = Fixed all bugs using logging/other methods and well documented
 * Adopting and using appropriate Python language constructs
   * N = No written code or monolithic code
-  * I = Language constructs used inappropriate way
+  * I = Language constructs used inappropriately
   * A = Some language constructs used appropriately
-  * G = Some or many language constructs used efficiently
-  * E = Several language constructs used efficiently and reason is documented
+  * G = Most language constructs used efficiently
+  * E = All language constructs used efficiently and reason is documented
 
 ### Project Management with GitHub
 
@@ -239,7 +243,7 @@
   elements in a complex and complete blueprint of the software system, and the
   master branch has no errors and contains completed code
 * Software design
-  * N = No problem solving steps taken
+  * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
   * A = Some software design is visible to the point where a software solution looks
   to be developed soon
@@ -274,13 +278,11 @@
   * E = Everything is exceedingly well organized, with no excess or lack of files,
   folders, branches, forks, etc.
 * Mitigating software risk
-  * N = No procedure is followed, the master branch is broken, or files are corrupted
-  * I = The engineer avoids causing damage to the work of others, but may not produce
-  any safely compatible source code
-  * A = Major issues are avoided and a few small complications may occur, none that
-  ruin the flow of work for the team
-  * G = Almost no problems occur while working with code or branches, does not slow
-  down productivity for self or others
+  * N = No risk identified, and high potential impact of risk
+  * I = Identifies minimal risks and does bare minimum to resolve them
+  * A = Identifies most of the risk and attempts to resolve them
+  but are unsuccessful. Gives up only after a few attempts.
+  * G = All risk is identified. The probability and likelihood of risk is minimal
   * E = All interactions with new and existing code are free from complications
   or other issues, everything works smoothly and completely free of errors
 
@@ -301,10 +303,10 @@
     * E = Actively seeking to contribute and understand software development
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
-        instances of overriding the master branch
-    * I = Occasional disregard for the model including overriding
+        instances of pushing to the master branch
+    * I = Occasional disregard for the model including pushing to
         the master branch
-    * A = Almost always adhering to model, but never overriding
+    * A = Almost always adhering to model, but never pushing to
         the master branch
     * G = Making only minor mistakes while trying to follow the model
         and providing a positive influence on other aspects such as issues
@@ -328,11 +330,11 @@
     * E = Working well with a team all time with clear and constructive
       communication
 * Understanding and avoiding red flags
-  * N = Ignoring all red flags
-  * I = Would be identifying red flags, but not fixing them
-  * A = Identifying and fixing a red flag
-  * G = Identifying, understanding and fixing a red flag to prevent future bugs
-  * E = Identifying, understanding, and fixing all red flags
+  * N = Ignoring all red flags in the code
+  * I = Identifying a red flags in the code, but not fixing them
+  * A = Identifying and fixing a red flag in the code
+  * G = Identifying, understanding and fixing a red flag to prevent future problems
+  * E = Identifying, understanding, and fixing all red flags in the code
 * Understanding and adopting best practices
   * N = A severe lack of understanding and refusal to adopt best practices
   * I = Slight understanding and occasional use and identification of the
