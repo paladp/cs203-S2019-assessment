@@ -12,6 +12,14 @@
 
 ### Software Development with Python
 
+This section of the document contains the assessment categories related to
+software development with Python. Every topic includes five levels of
+competency that will be used to assess students in this class. A wide
+variety of topics are included that all relate to software development
+using python. Among these topics are configuring a development environment,
+using python packages to aid in development, and applying best practices
+when creating python programs.
+
 * Configuring a development environment for Python
   * N = Unable to setup development environment
   * I = Minimal development environment for Python.
@@ -45,10 +53,10 @@
   * N = `black` not installed or setup
   * I = Unable to run `black` to format Python programs
   * A = Able to run `black` to format Python programs
-  * G = Same requirements as level 'A' in addition to solving
-  any problems with the installation of `black`
+  * G = Able to run `black` to format Python programs with
+  additional command line options if necessary
   * E = Same requirements as level 'G' in addition to being able to help other
-  students troubleshoot
+  students with `black` if necessary
 * Testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
   * I = Created inadequate test cases
