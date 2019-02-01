@@ -55,7 +55,7 @@ when creating python programs.
   * A = Able to run `black` to format Python programs
   * G = Able to run `black` to format Python programs with
   additional command line options if necessary
-  * E = Same requirements as level 'G' in addition to being able to help other 
+  * E = Same requirements as level 'G' in addition to being able to help other
   students with `black` if necessary
 * Basic testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
