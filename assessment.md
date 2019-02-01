@@ -26,7 +26,7 @@ when creating python programs.
   * A = Basic development environment configured, including proper dependencies
   and development tools.
   * G = Additional development tools configured, in addition to minimum required
-  dependencies and developments
+  dependencies and tools
   * E = Additional development tools configured and able to provide assistance
   and trouble shooting to other students regarding their own development
   environment
