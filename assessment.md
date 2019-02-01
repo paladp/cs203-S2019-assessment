@@ -152,8 +152,8 @@
   and did not push to the master branch. Merge and pull requests are done
   correctly, commit messages can be understood. Additionally, all forks and
   repositories were made correctly as well.
-   * G = Good would indicate that the subbranches were made correctly, the master 
-   branch was not pushed to, merge and pull requests were done correctly. 
+   * G = Good would indicate that the subbranches were made correctly, the
+   master branch was not pushed to, merge and pull requests were done correctly. 
    Additionally, commit messages are detailed.
   * E = An excellent branch would be a purposeful branch that has a descriptive
   label. Had strong and frequent commit messages, in addition to using and creating
