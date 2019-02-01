@@ -225,7 +225,7 @@
 
 * Setup and configure Travis CI
   * N = Fails to perform any setup and configuration of Travis CI
-  * I = Setting up and configuring Travis CI which performs no checks1:30pm - 2:20pm
+  * I = Setting up and configuring Travis CI which performs no checks
   * A = Sets up and configures Travis CI without performing checks on all
   relevant project deliverables
   * G = Sets up and configures Travis CI to perform most relevant checks on
