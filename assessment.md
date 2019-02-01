@@ -114,17 +114,21 @@
 ### Project Management with GitHub
 
 * Using the issue tracker
-  * N = Issue tracker unused 
+  * N = Issue tracker unused
   * I = Issue is raised but it is unclear or already exists
   * A = Issue is unique and has description for when issue occurs
-  * G = Issue is unique, well described, and a possible reason for occurence is mentioned
-  * E = Issue is unique, well described, and a possible reason for occurence and solution is mentioned
+  * G = Issue is unique, well described, and a possible reason for occurence is 
+  mentioned
+  * E = Issue is unique, well described, and a possible reason for occurence and 
+  solution is mentioned
 * Using the GitHub flow model
   * N = GitHub flow model unused or no commits
-  * I = Pushed to master or non-descriptive commits 
+  * I = Pushed to master or non-descriptive commits
   * A = Pushed to correct repository with descriptive commits
-  * G = Use of a branch/fork demonstrated appropriately (e.g having a feature branch) along with descriptive commits
-  * E = Use of multiple useful branches/forks demonstrated appropriately containing multiple coherent and descriptive commits
+  * G = Use of a branch/fork demonstrated appropriately 
+  (e.g having a feature branch) along with descriptive commits
+  * E = Use of multiple useful branches/forks demonstrated appropriately 
+  containing multiple coherent and descriptive commits
 * Creating and using a repository branch
   * N = Routinely committing edits to the master branch or not pushing to
   correct branches receives a none grade
