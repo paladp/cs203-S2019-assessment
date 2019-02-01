@@ -311,7 +311,7 @@
   * G = Documentation is detailed and visible for most of the software within the
   source code as well as possible constraints or additional details of the program
   * E = Explains in great detail how to use and operate the computer software,
-  including reasoning and justification of why certain methods or approaches were 
+  including reasoning and justification of why certain methods or approaches were
   taken
 * Programming styles
   * N = Programming style is not set and always changing around during the program
