@@ -48,7 +48,7 @@ when creating python programs.
   functionalities of `pylint` and `flake8` such as suppressing messages and
   overrides
   * E = Same requirements as level 'G' in addition to being able to help other
-  students trouble shoot `pylint` and `flake8`
+  students troubleshoot `pylint` and `flake8`
 * Formatting Python programs with `black`
   * N = `black` not installed or setup
   * I = Unable to run `black` to format Python programs
@@ -76,33 +76,29 @@ when creating python programs.
   * G = Test suite has an acceptable percent of coverage (50 - 80)
   * E = Test suite has a high percent of coverage (80 - 100)
 * Using docstrings to document a Python program
-  * N = Student did not use docstrings
-  * I = Students incorrectly attempted docstrings unidentifiable to compiler
-  * A = Student added docstrings, but it does not fully prescribe the functions/
+  * N = Did not use docstrings
+  * I = Incorrectly attempted docstrings unidentifiable to compiler
+  * A = Added docstrings, but it does not fully prescribe the functions/
   methods effect as a command
-  * G = Student successfully added docstring with useful description, but is
+  * G = Successfully added docstring with useful description, but is
   lacking some proper syntax
-  * E = Student successfully added docstring with useful description and proper
+  * E = Successfully added docstring with useful description and proper
   syntax
 * Adopting and applying appropriate naming conventions
-  * N = Student used inappropriate naming styles that are neither prescriptive
-  or descriptive
-  * I = Student used inappropriate naming styles that are either not
+  * N = Used unconventional naming styles foreign to python's syntax
+  * I = Used appropriate naming styles that are not entirely conventional
+  * A = Used inappropriate naming styles that are not
   prescriptive or descriptive
-  * A = Students used appropriate naming styles that are not entirely
-  conventional
-  * G = Student used appropriate naming styles, but is missing syntax used with
+  * G = Used appropriate naming styles, but is missing syntax used with
   variables, function, and methods
-  * E = Student used appropriate naming styles with correct syntax used with
+  * E = Used appropriate naming styles with correct syntax used with
   variables, functions, and methods
 * Using exception handling to create a robust Python program
-  * N = Student does use exception handling for the possibility of unexpected
-  user input
-  * I = Student introduces try and except statements but does not have any clause
-  * A = Student utilizes try and except statements or user defined exceptions,
-  however, clause does not function
-  * G = Student correctly codes exception handling, but clause doesn't fully execute
-  * E = Student correctly codes exception handling with clause being perfectly executed
+  * N = Code crashes because of no exception handling
+  * I = Code crashes because of incorrect exception handling
+  * A = Code does not handle few exceptions
+  * G = Code handles most of exceptions
+  * E = Code handles all exceptions and documents causes
 * Refactoring a Python program to improve its characteristics
   * N = No refactoring done or changed functions completely
   * I = Lack of documentation and clearly identifiable functions/code
@@ -263,7 +259,7 @@ when creating python programs.
   elements in a complex and complete blueprint of the software system, and the
   master branch has no errors and contains completed code
 * Software design
-  * N = No problem solving steps taken
+  * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
   * A = Some software design is visible to the point where a software solution looks
   to be developed soon
@@ -325,10 +321,10 @@ when creating python programs.
     * E = Actively seeking to contribute and understand software development
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
-        instances of overriding the master branch
-    * I = Occasional disregard for the model including overriding
+        instances of pushing to the master branch
+    * I = Occasional disregard for the model including pushing to
         the master branch
-    * A = Almost always adhering to model, but never overriding
+    * A = Almost always adhering to model, but never pushing to
         the master branch
     * G = Making only minor mistakes while trying to follow the model
         and providing a positive influence on other aspects such as issues
@@ -352,11 +348,11 @@ when creating python programs.
     * E = Working well with a team all time with clear and constructive
       communication
 * Understanding and avoiding red flags
-  * N = Ignoring all red flags
-  * I = Would be identifying red flags, but not fixing them
-  * A = Identifying and fixing a red flag
-  * G = Identifying, understanding and fixing a red flag to prevent future bugs
-  * E = Identifying, understanding, and fixing all red flags
+  * N = Ignoring all red flags in the code
+  * I = Identifying a red flags in the code, but not fixing them
+  * A = Identifying and fixing a red flag in the code
+  * G = Identifying, understanding and fixing a red flag to prevent future problems
+  * E = Identifying, understanding, and fixing all red flags in the code
 * Understanding and adopting best practices
   * N = A severe lack of understanding and refusal to adopt best practices
   * I = Slight understanding and occasional use and identification of the
