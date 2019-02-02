@@ -423,16 +423,16 @@ when creating python programs.
   * E = Communicated with the instructor excellently, followed
      all project and course requirements
 * Interaction with the technical leads
-  * N = Communicated with the technical leads badly, hate speech, ignore
+  * N = Communicated with the technical leads badly, used hate speech, ignored
      technical leads when they are trying to help
   * I = Communicated with the technical leads poorly, did not use them well as your
      resources, did not talk to them
   * A = Communicated with the technical leads well, but relied on them too
      much, asked them to do too much work
   * G = Communicated with the technical leads well, politely asked them
-     questions and try to solve the problem with their help
-  * E = Communicated with the technical leads excellently, politely sharing own
-     opinions and work with them well
+     questions and tried to solve the problem with their help
+  * E = Communicated with the technical leads excellently, politely shared own
+     opinions and worked with them well
 
 ## Revision of Guides
 
