@@ -321,12 +321,12 @@ when creating python programs.
     * G = Working well with a team most of the time with clear communication
     * E = Working well with a team all time with clear and constructive
       communication
-* Understanding and avoiding red flags
+* Understanding and avoiding red flags like shallow modules, information leakage, and conjoined methods
   * N = Ignoring all red flags in the code
-  * I = Identifying a red flags in the code, but not fixing them
-  * A = Identifying and fixing a red flag in the code
-  * G = Identifying, understanding and fixing a red flag to prevent future problems
-  * E = Identifying, understanding, and fixing all red flags in the code
+  * I = Identifying red flags in the code, but not fixing them
+  * A = Identifying and fixing some red flags
+  * G = Identifying, understanding and fixing most red flags
+  * E = Identifying, understanding, and fixing all red flags with good documentation
 * Understanding and adopting best practices
   * N = A severe lack of understanding and refusal to adopt best practices
   * I = Slight understanding and occasional use and identification of the
