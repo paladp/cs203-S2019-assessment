@@ -40,7 +40,7 @@ when creating python programs.
   and flags to streamline workflow, while being able to provide assistance and
   troubleshooting to other students using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
-  * N = `pylint` and `flake8` not installed,setup, or used
+  * N = `pylint` and `flake8` not installed, setup, or used
   * I = Unable to run `pylint` and `flake8` to lint Python programs
   * A = Able to run `pylint` and `flake8` to lint Python programs but encounter
   linting errors
@@ -405,10 +405,12 @@ when creating python programs.
      able to clearly present your system to them
 * Interaction with the team leaders
   * N = Impolite and impatient
-  * I = Polite but impatient
-  * A = Polite and patient but does not have clear requests
-  * G = Polite and patient but does not respond to team leaders
-  * E = Polite and patient
+  * I = Polite, impatient, and does not respond to team leaders
+  * A = Polite, patient, responsive to team leaders but does not have clear
+  requests
+  * G = Polite, patient, responsive to team leaders and clear requests
+  * E = Polite, patient, responsive to team leaders, clear requests,
+  and provides progress updates
 * Interaction with the course instructor
   * N = Communicated with the instructor badly, did not follow
      the project and course requirements
