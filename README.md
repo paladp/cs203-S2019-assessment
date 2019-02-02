@@ -29,6 +29,6 @@ The specifics of each subsection can be found in the `assessment.md` document
 
 ## Problems with the Assessment Sheet
 
-If you have any problems with this Conduct Guide, then please create an issue
+If you have any problems with this Assessment Sheet, then please create an issue
 in this repository using the "Issues" link at the top of this site.
 
