@@ -40,7 +40,7 @@ when creating python programs.
   and flags to streamline workflow, while being able to provide assistance and
   troubleshooting to other students using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
-  * N = `pylint` and `flake8` not installed,setup, or used
+  * N = `pylint` and `flake8` not installed, setup, or used
   * I = Unable to run `pylint` and `flake8` to lint Python programs
   * A = Able to run `pylint` and `flake8` to lint Python programs but encounter
   linting errors
@@ -155,11 +155,11 @@ when creating python programs.
   * E = Tags any related issues it is trying to close, fully describes all
     proposed changes and passes Travis CI
 * Using appropriate commit messages
-  * N = Commit message are nonsensical
-  * I = Commit message are uninformative
-  * A = Commit message both made sense but not descriptive
-  * G = Commit message are both clear, and moderately descriptive
-  * E = Commit message are clear, concise and descriptive
+  * N = Commit messages are nonsensical
+  * I = Commit messages are uninformative
+  * A = Commit messages are sensible but not descriptive
+  * G = Commit messages are both clear, and moderately descriptive
+  * E = Commit messages are clear, concise and descriptive
 
 ### Continuous Integration with Travis
 
@@ -219,19 +219,16 @@ when creating python programs.
   * A = Explains what requirements have been specified in enough detail
   to convey the most important information
   * G = Documentation and definitions are well written and gives other team members
+  an informed idea of the process
   * E = The software engineer displayed highly detailed, elaborate, and complete
   documentation, definition, and maintenance in the given design process
 * Software architecture
   * N = There is no consideration to the structure or organization of the project
-  * I = There are small amounts of structure to the code where it may or may not
-  run correctly, and the master branch is broken
-  * A = There is a blueprint for the software system that lacks completion, and the
-  master branch is not broken
-  * G = There is a completed blueprint for the software system and a working master
-  branch
-  * E = The software system contains high-level structures that contain software
-  elements in a complex and complete blueprint of the software system, and the
-  master branch has no errors and contains completed code
+  * I = There are small amounts of structure to the system
+  * A = There is a blueprint for the software system that lacks completion
+  * G = There is a completed blueprint for the software system
+  * E = There is a completed detailed blueprint for all elements of the software
+  system including detailed documentation
 * Software design
   * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
@@ -321,12 +318,13 @@ when creating python programs.
     * G = Working well with a team most of the time with clear communication
     * E = Working well with a team all time with clear and constructive
       communication
-* Understanding and avoiding red flags
+  * Understanding and avoiding red flags like shallow modules,
+  information leakage, and conjoined methods
   * N = Ignoring all red flags in the code
-  * I = Identifying a red flags in the code, but not fixing them
-  * A = Identifying and fixing a red flag in the code
-  * G = Identifying, understanding and fixing a red flag to prevent future problems
-  * E = Identifying, understanding, and fixing all red flags in the code
+  * I = Identifying red flags in the code, but not fixing them
+  * A = Identifying and fixing some red flags
+  * G = Identifying, understanding and fixing most red flags
+  * E = Identifying, understanding, and fixing all red flags with good documentation
 * Understanding and adopting best practices
   * N = A severe lack of understanding and refusal to adopt best practices
   * I = Slight understanding and occasional use and identification of the
@@ -407,10 +405,12 @@ when creating python programs.
      able to clearly present your system to them
 * Interaction with the team leaders
   * N = Impolite and impatient
-  * I = Polite but impatient
-  * A = Polite and patient but does not have clear requests
-  * G = Polite and patient but does not respond to team leaders
-  * E = Polite and patient
+  * I = Polite, impatient, and does not respond to team leaders
+  * A = Polite, patient, responsive to team leaders but does not have clear
+  requests
+  * G = Polite, patient, responsive to team leaders and clear requests
+  * E = Polite, patient, responsive to team leaders, clear requests,
+  and provides progress updates
 * Interaction with the course instructor
   * N = Communicated with the instructor badly, did not follow
      the project and course requirements
@@ -422,9 +422,9 @@ when creating python programs.
      project and course requirements
   * E = Communicated with the instructor excellently, followed
      all project and course requirements
-* Interaction with the teaching assistants
+* Interaction with the technical leads
   * N = Communicated with the technical leads badly, hate speech, ignore
-     TAs when they are trying to help
+     technical leads when they are trying to help
   * I = Communicated with the technical leads poorly, did not use them well as your
      resources, did not talk to them
   * A = Communicated with the technical leads well, but relied on them too
