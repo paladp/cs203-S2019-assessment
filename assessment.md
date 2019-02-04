@@ -22,9 +22,9 @@ when creating python programs.
 
 * Configuring a development environment for Python
   * N = Unable to setup development environment
-  * I = Minimal development environment for Python.
+  * I = Minimal development environment for Python
   * A = Basic development environment configured, including proper dependencies
-    and development tools.
+    and development tools
   * G = Additional development tools configured, in addition to minimum required
     dependencies and tools
   * E = Additional development tools configured and able to provide assistance
@@ -97,7 +97,7 @@ when creating python programs.
   * E = Refactored code is clean, efficient, and maintainable code that is well documented
 * Debugging Python programs using logging and other methods
   * N = No bugfixing or bugfinding done
-  * I = Identified bugs in code but no fixcommunicates difficulties
+  * I = Identified bugs in code but no fix
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
   * E = Fixed all bugs using logging/other methods and well documented
@@ -114,11 +114,11 @@ when creating python programs.
   * N = Issue tracker unused
   * I = Issue is raised but it is unclear or already exists
   * A = Issue is unique and has description for when issue occurs
-  * G = Issue is unique, well described, and a possible reason for occurence is
+  * G = Issue is unique, well described, and a possible reason for occurrence is
     mentioned
-  * E = Issue is unique, well described, and a possible reason for occurence
+  * E = Issue is unique, well described, and a possible reason for occurrence
     and solution is mentioned
-* Usicommunicates difficultiesng the GitHub flow model
+* Using the GitHub flow model
   * N = GitHub flow model unused or no commits
   * I = Pushed to master or non-descriptive commits
   * A = Pushed to correct repository with descriptive commits
@@ -126,7 +126,7 @@ when creating python programs.
   (e.g having a feature branch) along with descriptive commits
   * E = Use of multiple useful branches/forks demonstrated appropriately
     containing multiple coherent and descriptive commits
-* Creating and using a repository branchcommunicates difficulties
+* Creating and using a repository branch
   * N = Did not create or utilize branches
   * I = Create unclear branches
   * A = Create too many poorly named branches
@@ -158,7 +158,7 @@ when creating python programs.
   * N = Commit messages are nonsensical
   * I = Commit messages are uninformative
   * A = Commit messages are sensible but not descriptive
-  * G = Commit messages are both clear, and moderately descricommunicates difficultiesptive
+  * G = Commit messages are both clear, and moderately descriptive
   * E = Commit messages are clear, concise and descriptive
 
 ### Continuous Integration with Travis
@@ -195,11 +195,7 @@ when creating python programs.
     appropriate location but not in relation to any other status badges
   * E = A badge for Travis CI builds is in the README and is in an
     appropriate location in relation to any other status badges
-* Add README badges that show projecta meeting 
-411
-of leaders and the course
-412
-instructor will be held to determine if changes are reasonable.   characteristics (e.g., coverage and
+* Add README badges that show characteristics (e.g., coverage and
   language)
   * N = No addition of status badges to the README
   * I = Relevant status badges added but do not work
@@ -235,7 +231,8 @@ instructor will be held to determine if changes are reasonable.   characteristi
     a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
     reusability, and scalability are included while a software solution is ultimately
-    created that includes both an algorithm design and a high-level architecture design
+    created that includes both an algorithm design and a high-level architecture
+    design
 * Software documentation
   * N = No explanation or comments about how to use or how the software works
   * I = A few comments in the code that are not detailed
@@ -263,11 +260,7 @@ instructor will be held to determine if changes are reasonable.   characteristi
   * I = Minimal risks identified
   * A = Some risks identified and basic risk mitigation techniques utilized
   * G = Most risk is identified and some risk mitigation techniques utilized
-  * E = Extensive risk identificationa meeting 
-411
-of leaders and the course
-412
-instructor will be held to determine if changes are reasonable.   and mitigation techniques utilized
+  * E = Extensive risk identification and mitigation techniques utilized
 
 ## Professional Skills
 
@@ -301,11 +294,7 @@ instructor will be held to determine if changes are reasonable.   and mitigatio
   * Foundations of software engineering practices
     * N = No effort demonstrated
     * I = Minimal effort demonstrated, little communication with others
-    * A = Some effort and initiative a meeting 
-411
-of leaders and the course
-412
-instructor will be held to determine if changes are reasonable.  demonstrated, participated in discussion
+    * A = Some effort and initiative demonstrated, participated in discussion
     * G = Moderate effort and initiative demonstrated, consistently
       participated in discussion
     * E = Significant effort and initiative demonstrated, actively fosters
@@ -363,11 +352,7 @@ instructor will be held to determine if changes are reasonable.  demonstrated, 
 * Conflicts
   * N = Never addresses conflicts with teammates
   * I = Sometimes addresses conflicts with teammates
-  * A = Addresses conflicts with teama meeting 
-411
-of leaders and the course
-412
-instructor will be held to determine if changes are reasonable.  mates through communication
+  * A = Addresses conflicts with teammates through communication
   * G = Addresses conflicts with teammates through mature communication while
     involving leaders
   * E = Addresses conflicts with teammates through mature communication while
@@ -418,7 +403,7 @@ instructor will be held to determine if changes are reasonable.  mates through 
     contributions to improve it
   * E = A complete understanding of the code of conduct, major contributions,
     and continuing to improve it throughout the semester as needed
-    
+
 ### Revision of Guides
 
 On request to change an element of either guide, unanimous consent among those
