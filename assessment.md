@@ -22,36 +22,36 @@ when creating python programs.
 
 * Configuring a development environment for Python
   * N = Unable to setup development environment
-  * I = Minimal development environment for Python.
+  * I = Minimal development environment for Python
   * A = Basic development environment configured, including proper dependencies
-  and development tools.
+    and development tools
   * G = Additional development tools configured, in addition to minimum required
-  dependencies and tools
+    dependencies and tools
   * E = Additional development tools configured and able to provide assistance
-  and troubleshooting to other students regarding their own development
-  environment
+    and troubleshooting to other students regarding their own development
+    environment
 * Running Python programs with `pyenv` and `pipenv`
   * N = `pyenv` and `pipenv` not installed or setup
   * I = Unable to run programs with `pyenv` and `pipenv`
   * A = Able to run programs with `pyenv` and `pipenv`
   * G = Able to run programs with `pyenv` and `pipenv` using additional commands
-  and flags as necessary
+    and flags as necessary
   * E = Able to run programs with `pyenv` and `pipenv` using additional commands
-  and flags to streamline workflow, while being able to provide assistance and
-  troubleshooting to other students using `pyenv` and `pipenv`
+    and flags to streamline workflow, while being able to provide assistance and
+    troubleshooting to other students using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
   * N = `pylint` and `flake8` not installed, setup, or used
   * I = Unable to run `pylint` and `flake8` to lint Python programs
   * A = Able to run `pylint` and `flake8` to lint Python programs but encounter
-  linting errors
+    linting errors
   * G = Able to run `pylint` and `flake8` to lint Python programs and pass
-  at least one check
+    at least one check
   * E = Able to run `pylint` and `flake8` to lint Python programs and pass
-  both checks
+    both checks
 * Formatting Python programs with `black`
   * N = `black` not installed, setup, or used
   * E = Ran `black` successfully and file was formatted
-  additional command line options if necessary
+    additional command line options if necessary
 * Testing of Python programs with `pytest`
   * N = Did not utilize `pytest`
   * I = Created inadequate test cases
@@ -68,21 +68,21 @@ when creating python programs.
 * Using docstrings to document a Python program
   * N = Did not use docstrings
   * I = Incorrectly attempted docstrings unidentifiable to compiler
-  * A = Added docstrings, but it does not fully prescribe the functions/
-  methods effect as a command
+  * A = Added docstrings, but it does not fully describe the functions'/methods'
+    effect as a command
   * G = Successfully added docstring with useful description, but is
-  lacking some proper syntax
+    lacking some proper syntax
   * E = Successfully added docstring with useful description and proper
-  syntax
+    syntax
 * Adopting and applying appropriate naming conventions
   * N = Used unconventional naming styles foreign to python's syntax
   * I = Used appropriate naming styles that are not entirely conventional
   * A = Used inappropriate naming styles that are not
-  prescriptive or descriptive
+    prescriptive or descriptive
   * G = Used appropriate naming styles, but is missing syntax used with
-  variables, function, and methods
+    variables, function, and methods
   * E = Used appropriate naming styles with correct syntax used with
-  variables, functions, and methods
+    variables, functions, and methods
 * Using exception handling to create a robust Python program
   * N = Code crashes because of no exception handling
   * I = Code crashes because of incorrect exception handling
@@ -114,10 +114,10 @@ when creating python programs.
   * N = Issue tracker unused
   * I = Issue is raised but it is unclear or already exists
   * A = Issue is unique and has description for when issue occurs
-  * G = Issue is unique, well described, and a possible reason for occurence is
-  mentioned
-  * E = Issue is unique, well described, and a possible reason for occurence
-  and solution is mentioned
+  * G = Issue is unique, well described, and a possible reason for occurrence is
+    mentioned
+  * E = Issue is unique, well described, and a possible reason for occurrence
+    and solution is mentioned
 * Using the GitHub flow model
   * N = GitHub flow model unused or no commits
   * I = Pushed to master or non-descriptive commits
@@ -125,7 +125,7 @@ when creating python programs.
   * G = Use of a branch/fork demonstrated appropriately
   (e.g having a feature branch) along with descriptive commits
   * E = Use of multiple useful branches/forks demonstrated appropriately
-  containing multiple coherent and descriptive commits
+    containing multiple coherent and descriptive commits
 * Creating and using a repository branch
   * N = Did not create or utilize branches
   * I = Create unclear branches
@@ -165,51 +165,44 @@ when creating python programs.
 
 * Setup and configure Travis CI
   * N = Fails to perform any setup and configuration of Travis CI
-  * I = Setting up and configuring Travis CI which performs no checks
-  * A = Sets up and configures Travis CI without performing checks on all
-  relevant project deliverables
-  * G = Sets up and configures Travis CI to perform most relevant checks on
-  project deliverables
-  * E = Correctly sets up and configures Travis CI to perform all relevant
-  checks for project deliverables
+  * I = Sets up and configures Travis CI which performs no checks
+  * A = Sets up and configures Travis CI without performing checks on less
+    relevant project deliverables
+  * G = Sets up and configures Travis CI to perform checks on most relevant
+    project deliverables
+  * E = Correctly sets up and configures Travis CI to perform relevant
+    checks for all project deliverables
 * Perform secure releases of project deliverables
   * N = Does not utilize Travis CI when releasing project deliverables
   * I = Performs a release through Travis CI which is not secured
-  * A = Performs a release through Travis CI which is mostly secured
-  * G = Performs a secure release through Travis CI while failing to sign
-  commits
-  * E = Utilizes a fully encrypted Travis CI to perform a secure release
+  * A = Performs a secure release through Travis CI while failing to sign
+    commits
+  * G = Performs a release through Travis CI with signed commits
+  * E = Performs a release through Travis CI with signed commits
+    and signed deliverables (e.g md5 hash)
 * Create third-party integrations with Travis CI (e.g., codecov.io)
-  * N = No attempt to incorporate a third party integration
-  * I = Third party integrations were implemented but unsuccessful
-  * A = A minority of third party integrations were implemented with many errors
-  * G = A majority of the third party integrations  are successfully implemented
-  with little to no error
-  * E = All necessary third party integrations are successfully created without
-  error
+  * N = No incorporation of third party integrations
+  * I = Third party integrations were only partially implemented
+  * A = A few third party integrations were implemented
+  * G = Most third party integrations were implemented
+  * E = Many useful and relevant third party integrations were implemented
 * Add README badges that show status of Travis CI builds
-  * N = Nothing related to badges was added to the README
-  * I = An attempt was made to add a status badge for Travis CI builds but does
-  not work or show up
-  * A = A status badge for Travis CI builds is in the README but is not in an
-  appropriate location
-  * G = A status badge for Travis CI builds is in the README and is in an
-  appropriate location but not in relation to any other status badges
-  * E = A status badge for Travis CI builds is in the README and is in an
-  appropriate location in relation to any other status badges
-* Add README badges that show project characteristics (e.g., coverage and
+  * N = No addition of badges to the README
+  * I = Badge added for Travis CI builds but does not work
+  * A = A badge for Travis CI builds is in the README but is not in an
+    appropriate location
+  * G = A badge for Travis CI builds is in the README and is in an
+    appropriate location but not in relation to any other status badges
+  * E = A badge for Travis CI builds is in the README and is in an
+    appropriate location in relation to any other status badges
+* Add README badges that show characteristics (e.g., coverage and
   language)
-  * N = No status badges were added besides one for the build status of Travis
-  CI
-  * I = Only some of the relevant status badges were added besides one for the
-  build status of Travis CI
-  * A = All relevant status badges were added but are not in appropriate
-  locations
-  * G = All relevant status badges were added and are in an appropriate location
-  but not in relation to each other
-  * E = All relevant status badges were added and are in an appropriate location
-  in relation to each other and a potentially present status badge for Travis CI
-  builds
+  * N = No addition of status badges to the README
+  * I = Relevant status badges added but do not work
+  * A = A few status badges are in the README but are not in an
+    appropriate location
+  * G = Most relevant status badges are in the README and well located
+  * E = All relevant and many useful status badges are in the README and well located
 
 ### Foundations of Software Engineering
 
@@ -217,63 +210,57 @@ when creating python programs.
   * N = No effort to document, define, or maintain requirements present
   * I = Brief or unspecific documentation, definition, and maintenance given
   * A = Explains what requirements have been specified in enough detail
-  to convey the most important information
+    to convey the most important information
   * G = Documentation and definitions are well written and gives other team members
-  an informed idea of the process
+    an informed idea of the process
   * E = The software engineer displayed highly detailed, elaborate, and complete
-  documentation, definition, and maintenance in the given design process
+    documentation, definition, and maintenance in the given design process
 * Software architecture
   * N = There is no consideration to the structure or organization of the project
   * I = There are small amounts of structure to the system
   * A = There is a blueprint for the software system that lacks completion
   * G = There is a completed blueprint for the software system
   * E = There is a completed detailed blueprint for all elements of the software
-  system including detailed documentation
+    system including detailed documentation
 * Software design
   * N = No attempt to create a design
   * I = Initial steps are taken to conceptualize, frame, and implement systems
   * A = Some software design is visible to the point where a software solution looks
-  to be developed soon
+    to be developed soon
   * G = A software solution is created that includes both an algorithm design and
-  a high-level architecture design
+    a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
-  reusability, and scalability are included while a software solution is ultimately
-  created that includes both an algorithm design and a high-level architecture design
+    reusability, and scalability are included while a software solution is ultimately
+    created that includes both an algorithm design and a high-level architecture
+    design
 * Software documentation
   * N = No explanation or comments about how to use or how the software works
   * I = A few comments in the code that are not detailed
   * A = Documentation has a bit of detail for every main part of the program
-  and an overview of how to use the program
+    and an overview of how to use the program
   * G = Documentation is detailed and visible for most of the software within the
-  source code as well as possible constraints or additional details of the program
+    source code as well as possible constraints or additional details of the program
   * E = Explains in great detail how to use and operate the computer software,
-  including reasoning and justification of why certain methods or approaches were
- taken
+    including reasoning and justification of why certain methods or approaches were
+    taken
 * Programming styles
-  * N = Programming style is not set and always changing around during the program
-  * I = Not a clear programming style but has some implementation of general styles
-  * A = Some clarity of a programming style with multiple styles implemented
-  * G = Programming style is implemented well with a few variances throughout
-  * E = One distinct style of programming that is clear and easy to understand
+  * N = Programming style is not set
+  * I = No clear programming style but has some structured style
+  * A = At least one programming style utilized clearly
+  * G = Most code conforms to predefined styles
+  * E = All code conforms to predefined styles and well documented
 * Managing software complexity
-  * N = The code does not run properly, files are not in the right place, or some
-  other part of the project has been completely broken
-  * I = Little effort is put forth to keep code clean or organized, some code may
-  not work properly
-  * A = Basic organization is achieved, no major parts of the projects are
-  affected by any lax in management
-  * G = The project is logically and effectively organized with no issues in the
-  code resulting from poor organization
-  * E = Everything is exceedingly well organized, with no excess or lack of files,
-  folders, branches, forks, etc.
+  * N = No complexity management techniques utilized
+  * I = Code is non-obvious and complex
+  * A = Basic code management is utilized, such as code simplification or encapsulation
+  * G = Most code is well managed using code complexity management techniques
+  * E = All code utilizes many complexity reduction techniques, such as modular design
 * Mitigating software risk
-  * N = No risk identified, and high potential impact of risk
-  * I = Identifies minimal risks and does bare minimum to resolve them
-  * A = Identifies most of the risk and attempts to resolve them
-  but are unsuccessful. Gives up only after a few attempts.
-  * G = All risk is identified. The probability and likelihood of risk is minimal
-  * E = All interactions with new and existing code are free from complications
-  or other issues, everything works smoothly and completely free of errors
+  * N = No risk identified
+  * I = Minimal risks identified
+  * A = Some risks identified and basic risk mitigation techniques utilized
+  * G = Most risk is identified and some risk mitigation techniques utilized
+  * E = Extensive risk identification and mitigation techniques utilized
 
 ## Professional Skills
 
@@ -282,43 +269,37 @@ when creating python programs.
 * Continuous learning about
   * Python software development
     * N = A lack of new knowledge and/or contributions
-        to any project
+      to any project
     * I = Incomplete knowledge or minuscule contributions
-        to projects
+      to projects
     * A = An average amount of knowledge and contributions
-        to each project
+      to each project
     * G = An above average amount of knowledge and contributions
-        to each project
+      to each project
     * E = Actively seeking to contribute and understand software development
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
-        instances of pushing to the master branch
+      instances of pushing to the master branch
     * I = Occasional disregard for the model including pushing to
-        the master branch
-    * A = Almost always adhering to model, but never pushing to
-        the master branch
+      the master branch
+    * A = Almost always adhering to model and never pushing to
+      the master branch
     * G = Making only minor mistakes while trying to follow the model
-        and providing a positive influence on other aspects such as issues
-        and communication
-    * E = A lack of mistakes in addition to emerging as a leader who
-      provides support to others who may be struggling with project
-      management
-  * Continuous integration with Travis
-    * N = Failing to enable Travis at all or not passing any requirements
-      on any assignment
-    * I = Enabling Travis, but failing the majority of checks
-    * A = Enabling Travis, and passing a majority of Travis checks
-    * G = Enabling Travis, and passing all of the Travis checks
-    * E = Enabling Travis, passing all checks, and assisting others who are
-      struggling or improving issues with Travis if found
+    * E = In addition to emerging as a leader who provides support to
+      others who may be struggling with project management
+  * Continuous integration with Travis CI
+    * N = Travis CI not integrated
+    * I = Integrated, but failing the majority of checks
+    * E = Integrated, passing all checks
   * Foundations of software engineering practices
-    * N = Working separate from a team with no communication
-    * I = Working with a team a small amount of the time with no communication
-    * A = Working well with a team half of the time with little communication
-    * G = Working well with a team most of the time with clear communication
-    * E = Working well with a team all time with clear and constructive
-      communication
-  * Understanding and avoiding red flags like shallow modules,
+    * N = No effort demonstrated
+    * I = Minimal effort demonstrated, little communication with others
+    * A = Some effort and initiative demonstrated, participated in discussion
+    * G = Moderate effort and initiative demonstrated, consistently
+      participated in discussion
+    * E = Significant effort and initiative demonstrated, actively fosters
+      useful discussion
+* Understanding and avoiding red flags like shallow modules,
   information leakage, and conjoined methods
   * N = Ignoring all red flags in the code
   * I = Identifying red flags in the code, but not fixing them
@@ -330,7 +311,7 @@ when creating python programs.
   * I = Slight understanding and occasional use and identification of the
     best practices
   * A = An average amount of understanding and general identification and use of
-      best practices
+    best practices
   * G = Above average demonstrations of understanding and the ability to find and
     utilize best practices
   * E = Full understanding of concepts, would also include the ability to determine
@@ -338,105 +319,71 @@ when creating python programs.
 
 ### Group
 
-* Attendance
-  * N = Missing five or more lab sessions
-  * I = Missing four lab sessions
-  * A = Missing three lab sessions
-  * G = Missing two lab sessions
-  * E = Missing one or less lab sessions
-* Deadlines
-  * N = If an assignment is turned in 5 or more days past the deadline
-  * I = If an assignment is turned in 4 days past the deadline
-  * A = If an assignment is turned in 1-3 days past the deadline
-  * E = If an assignment is turned in on the day of, or before the deadline
 * Communication
-  * N = Never check appropriate slack channels and never communicate with
-   teammates
-  * I = Rarely check appropriate slack channels and rarely communicate with
+  * N = Never checks appropriate slack channels and never communicates with
     teammates
-  * A = Sometimes check appropriate slack channels and sometimes communicate
+  * I = Rarely checks appropriate slack channels and rarely communicates with
+    teammates
+  * A = Sometimes checks appropriate slack channels and sometimes communicates
     with teammates
-  * G = Regularly check appropriate slack channels and regularly communicate
+  * G = Regularly checks appropriate slack channels and regularly communicates
     with teammates
-  * E = Always check appropriate slack channels and always communicate
+  * E = Always checks appropriate slack channels and always communicates
     effectively with teammates
 * Participation
-  * N = Never participate in group conversation or activity
-  * I = Rarely participate in group conversation or activity
-  * A = Sometimes participate in group conversation or activity
-  * G = Responds within 1-2 days to questions/comments, and willing to meet outside
-    of class if necessary
+  * N = Never participates in group conversation or activity
+  * I = Rarely participates in group conversation or activity
+  * A = Responds within 1-2 days to questions/comments
+  * G = Responds within a day to questions/comments
   * E = Respond regularly and quickly to questions/comments, and willing to meet
     outside of class if necessary
-* Conduct
-  * N = Disrespectful and excludes teammates
-  * I = Rarely respectful and inclusive of teammates
-  * A = Sometimes respectful and inclusive of teammates
-  * G = Regularly respectful and inclusive of teammates
-  * E = Always respectful and inclusive of teammates
 * Decisions
-  * N = Never participate in the decision making process and share your opinion.
-  * I = Rarely participate in the decision making process and share your opinion
-  * A = Sometimes participate in the decision making process and share your opinion
-  * G = Regularly participate in the decision making process and share your opinion
-  * E = Always participate in the decision making process and share your opinion.
+  * N = Never participates in the decision making process
+  * I = Rarely participates in the decision making process
+  * A = Sometimes participates in the decision making process
+  * G = Regularly participates in the decision making process
+  * E = Always participates in the decision making process
 * Postmortems
-  * N = Never participate the analysis or discussion after the work is done
-  * I = Rarely participate the analysis or discussion after the work is done
-  * A = Sometimes participate the analysis or discussion after the work is done
-  * G = Regularly participate the analysis or discussion after the work is done
-  * E = Always participate the analysis or discussion after the work is done
+  * N = Never participates in postmortem discussions
+  * I = Rarely participates in postmortem discussions
+  * A = Sometimes participates in postmortem discussions
+  * G = Regularly participates in postmortem discussions
+  * E = Always participates in postmortem discussions
 * Conflicts
-  * N = Never handles differences with teammates in mature manner
-  * I = Rarely handles differences with teammates in mature manner
-  * A = Sometimes handles differences with teammates in mature manner
-  * G = Regularly handles differences with teammates in mature manner
-  * E = Always handles differences with teammates in mature manner
+  * N = Never addresses conflicts with teammates
+  * I = Sometimes addresses conflicts with teammates
+  * A = Addresses conflicts with teammates through communication
+  * G = Addresses conflicts with teammates through mature communication while
+    involving leaders
+  * E = Addresses conflicts with teammates through mature communication while
+    involving leaders and referencing conduct guide
 
 ### Interactions
 
 * Interaction with the customer
-  * N = Does not respect the customer and rejects all their ideas
-  * I = Respect customer but rejects most of their ideas
-  * A = Respect customer but fails to build a system around their needs
-  * G = Respect customer and builds a system around their needs but fails
-     to clearly present your system to your customer
-  * E = Respect customer and builds a system around their needs while being
-     able to clearly present your system to them
+  * N = Disrespects the customer and fails to consider any of their ideas
+  * I = Respects customer but fails to value their needs
+  * A = Respects customer and takes their needs into consideration
+  * G = Respects customer, incorporates many of their ideas, and communicates
+    difficulties
+  * E = Respects customer, improves on their ideas, and engages in reasoned
+    dialogue for further improvements
 * Interaction with the team leaders
   * N = Impolite and impatient
   * I = Polite, impatient, and does not respond to team leaders
-  * A = Polite, patient, responsive to team leaders but does not have clear
-  requests
-  * G = Polite, patient, responsive to team leaders and clear requests
-  * E = Polite, patient, responsive to team leaders, clear requests,
-  and provides progress updates
-* Interaction with the course instructor
-  * N = Communicated with the instructor badly, did not follow
-     the project and course requirements
-  * I = Communicated with the instructor poorly, followed part
-     of the project and course requirements
-  * A = Communicated with the instructor well, followed most
-     of the project and course requirements
-  * G = Communicated with the instructor well, followed all
-     project and course requirements
-  * E = Communicated with the instructor excellently, followed
-     all project and course requirements
+  * A = Polite, patient, responsive to team leaders but does not clearly
+    communicates
+  * G = Polite, patient, responsive to team leaders and clearly communicates
+  * E = Polite, patient, responsive to team leaders, clearly communicates,
+    and provides progress updates
 * Interaction with the technical leads
-  * N = Communicated with the technical leads badly, used hate speech, ignored
-     technical leads when they are trying to help
-  * I = Communicated with the technical leads poorly, did not use them well as your
-     resources, did not talk to them
-  * A = Communicated with the technical leads well, but relied on them too
-     much, asked them to do too much work
-  * G = Communicated with the technical leads well, politely asked them
-     questions and tried to solve the problem with their help
-  * E = Communicated with the technical leads excellently, politely shared own
-     opinions and worked with them well
+  * N = Did not communicate with the technical leads
+  * I = Communicated with the technical leads poorly or did not talk to them if needed
+  * E = Communicated with the technical leads well
 
-## Revision of Guides
+## Assessment and Conduct Guide
 
-* Revising the assessment form: [Assessment Sheet](https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-assessment)
+* Understanding the assessment form: [Assessment Sheet](https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-assessment)
   * N = Not reading the assessment form nor making contributions to it
   * I = Not reading the assessment form in its final state, but making minor
     contributions thus improving the initial state
@@ -446,7 +393,7 @@ when creating python programs.
     to improve it
   * E = A complete understanding of the assessment form, major contributions, and
     continuing to improve it throughout the semester as needed
-* Revising the code of conduct: [Conduct Guide](https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-conduct)
+* Understanding the code of conduct: [Conduct Guide](https://github.com/Allegheny-Computer-Science-203-S2019/cs203-S2019-conduct)
   * N = Not reading the code of conduct nor making contributions to it
   * I = Not reading the code of conduct in its final state, but making minor
     contributions thus improving the initial state
@@ -456,3 +403,8 @@ when creating python programs.
     contributions to improve it
   * E = A complete understanding of the code of conduct, major contributions,
     and continuing to improve it throughout the semester as needed
+
+### Revision of Guides
+
+On request to change an element of either guide, unanimous consent among those
+who abide by the guide is needed.
