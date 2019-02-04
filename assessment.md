@@ -165,13 +165,13 @@ when creating python programs.
 
 * Setup and configure Travis CI
   * N = Fails to perform any setup and configuration of Travis CI
-  * I = Setting up and configuring Travis CI which performs no checks
-  * A = Sets up and configures Travis CI without performing checks on all
+  * I = Sets up and configures Travis CI which performs no checks
+  * A = Sets up and configures Travis CI without performing checks on less
   relevant project deliverables
-  * G = Sets up and configures Travis CI to perform most relevant checks on
+  * G = Sets up and configures Travis CI to perform checks on most relevant
   project deliverables
-  * E = Correctly sets up and configures Travis CI to perform all relevant
-  checks for project deliverables
+  * E = Correctly sets up and configures Travis CI to perform relevant
+  checks for all project deliverables
 * Perform secure releases of project deliverables
   * N = Does not utilize Travis CI when releasing project deliverables
   * I = Performs a release through Travis CI which is not secured
@@ -188,9 +188,8 @@ when creating python programs.
   * E = All necessary third party integrations are successfully created without
   error
 * Add README badges that show status of Travis CI builds
-  * N = Nothing related to badges was added to the README
-  * I = An attempt was made to add a status badge for Travis CI builds but does
-  not work or show up
+  * N = No addition of badges to the README
+  * I = Badge added for Travis CI builds but does not work or show up
   * A = A status badge for Travis CI builds is in the README but is not in an
   appropriate location
   * G = A status badge for Travis CI builds is in the README and is in an
@@ -250,8 +249,8 @@ when creating python programs.
   including reasoning and justification of why certain methods or approaches were
  taken
 * Programming styles
-  * N = Programming style is not set and always changing around during the program
-  * I = Not a clear programming style but has some implementation of general styles
+  * N = Programming style is not set
+  * I = No clear programming style but has some implementation of general styles
   * A = Some clarity of a programming style with multiple styles implemented
   * G = Programming style is implemented well with a few variances throughout
   * E = One distinct style of programming that is clear and easy to understand
@@ -295,22 +294,16 @@ when creating python programs.
         instances of pushing to the master branch
     * I = Occasional disregard for the model including pushing to
         the master branch
-    * A = Almost always adhering to model, but never pushing to
+    * A = Almost always adhering to model and never pushing to
         the master branch
     * G = Making only minor mistakes while trying to follow the model
-        and providing a positive influence on other aspects such as issues
-        and communication
-    * E = A lack of mistakes in addition to emerging as a leader who
-      provides support to others who may be struggling with project
-      management
+    * E = In addition to emerging as a leader who provides support to
+      others who may be struggling with project management
   * Continuous integration with Travis
     * N = Failing to enable Travis at all or not passing any requirements
       on any assignment
     * I = Enabling Travis, but failing the majority of checks
-    * A = Enabling Travis, and passing a majority of Travis checks
-    * G = Enabling Travis, and passing all of the Travis checks
-    * E = Enabling Travis, passing all checks, and assisting others who are
-      struggling or improving issues with Travis if found
+    * E = Enabling Travis, passing all checks
   * Foundations of software engineering practices
     * N = Working separate from a team with no communication
     * I = Working with a team a small amount of the time with no communication
@@ -318,8 +311,8 @@ when creating python programs.
     * G = Working well with a team most of the time with clear communication
     * E = Working well with a team all time with clear and constructive
       communication
-  * Understanding and avoiding red flags like shallow modules,
-  information leakage, and conjoined methods
+* Understanding and avoiding red flags like shallow modules,
+information leakage, and conjoined methods
   * N = Ignoring all red flags in the code
   * I = Identifying red flags in the code, but not fixing them
   * A = Identifying and fixing some red flags
@@ -343,29 +336,28 @@ when creating python programs.
   * I = Missing four lab sessions
   * A = Missing three lab sessions
   * G = Missing two lab sessions
-  * E = Missing one or less lab sessions
+  * E = Missing one or no lab sessions
 * Deadlines
   * N = If an assignment is turned in 5 or more days past the deadline
   * I = If an assignment is turned in 4 days past the deadline
   * A = If an assignment is turned in 1-3 days past the deadline
   * E = If an assignment is turned in on the day of, or before the deadline
 * Communication
-  * N = Never check appropriate slack channels and never communicate with
+  * N = Never checks appropriate slack channels and never communicates with
    teammates
-  * I = Rarely check appropriate slack channels and rarely communicate with
+  * I = Rarely checks appropriate slack channels and rarely communicates with
     teammates
-  * A = Sometimes check appropriate slack channels and sometimes communicate
+  * A = Sometimes checks appropriate slack channels and sometimes communicates
     with teammates
-  * G = Regularly check appropriate slack channels and regularly communicate
+  * G = Regularly checks appropriate slack channels and regularly communicates
     with teammates
-  * E = Always check appropriate slack channels and always communicate
+  * E = Always checks appropriate slack channels and always communicates
     effectively with teammates
 * Participation
-  * N = Never participate in group conversation or activity
-  * I = Rarely participate in group conversation or activity
-  * A = Sometimes participate in group conversation or activity
-  * G = Responds within 1-2 days to questions/comments, and willing to meet outside
-    of class if necessary
+  * N = Never participates in group conversation or activity
+  * I = Rarely participates in group conversation or activity
+  * A = Responds within 1-2 days to questions/comments
+  * G = Responds within a day to questions/comments
   * E = Respond regularly and quickly to questions/comments, and willing to meet
     outside of class if necessary
 * Conduct
@@ -375,44 +367,42 @@ when creating python programs.
   * G = Regularly respectful and inclusive of teammates
   * E = Always respectful and inclusive of teammates
 * Decisions
-  * N = Never participate in the decision making process and share your opinion.
-  * I = Rarely participate in the decision making process and share your opinion
-  * A = Sometimes participate in the decision making process and share your opinion
-  * G = Regularly participate in the decision making process and share your opinion
-  * E = Always participate in the decision making process and share your opinion.
+  * N = Never participates in the decision making process and share their opinion.
+  * I = Rarely participates in the decision making process and share their opinion
+  * A = Sometimes participates in the decision making process and share their opinion
+  * G = Regularly participates in the decision making process and share their opinion
+  * E = Always participates in the decision making process and share their opinion.
 * Postmortems
-  * N = Never participate the analysis or discussion after the work is done
-  * I = Rarely participate the analysis or discussion after the work is done
-  * A = Sometimes participate the analysis or discussion after the work is done
-  * G = Regularly participate the analysis or discussion after the work is done
-  * E = Always participate the analysis or discussion after the work is done
+  * N = Never participates in the analysis or discussion after the work is done
+  * I = Rarely participates in the analysis or discussion after the work is done
+  * A = Sometimes participates in the analysis or discussion after the work is done
+  * G = Regularly participates in the analysis or discussion after the work is done
+  * E = Always participates in the analysis or discussion after the work is done
 * Conflicts
-  * N = Never handles differences with teammates in mature manner
-  * I = Rarely handles differences with teammates in mature manner
-  * A = Sometimes handles differences with teammates in mature manner
-  * G = Regularly handles differences with teammates in mature manner
-  * E = Always handles differences with teammates in mature manner
+  * N = Never handles conflicts with teammates
+  * I = Rarely handles conflicts with teammates
+  * A = Sometimes handles conflicts with teammates
+  * G = Regularly handles conflicts with teammates
+  * E = Always handles conflicts with teammates
 
 ### Interactions
 
 * Interaction with the customer
-  * N = Does not respect the customer and rejects all their ideas
-  * I = Respect customer but rejects most of their ideas
-  * A = Respect customer but fails to build a system around their needs
-  * G = Respect customer and builds a system around their needs but fails
-     to clearly present your system to your customer
-  * E = Respect customer and builds a system around their needs while being
-     able to clearly present your system to them
+  * N = Disrespects the customer and rejects all their ideas
+  * I = Respects customer but fails to build a system for their needs
+  * A = Respects customer and proposes a system around some of their needs
+  * G = Respects customer and builds a system around some of their needs
+  * E = Respect customer and builds a system around most of their needs
 * Interaction with the team leaders
   * N = Impolite and impatient
   * I = Polite, impatient, and does not respond to team leaders
   * A = Polite, patient, responsive to team leaders but does not have clear
-  requests
-  * G = Polite, patient, responsive to team leaders and clear requests
-  * E = Polite, patient, responsive to team leaders, clear requests,
+  communication
+  * G = Polite, patient, responsive to team leaders and clear communication
+  * E = Polite, patient, responsive to team leaders, clear communication,
   and provides progress updates
 * Interaction with the course instructor
-  * N = Communicated with the instructor badly, did not follow
+  * N = Did not communicate with instructor, did not follow
      the project and course requirements
   * I = Communicated with the instructor poorly, followed part
      of the project and course requirements
