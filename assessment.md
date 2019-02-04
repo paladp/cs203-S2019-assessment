@@ -68,8 +68,8 @@ when creating python programs.
 * Using docstrings to document a Python program
   * N = Did not use docstrings
   * I = Incorrectly attempted docstrings unidentifiable to compiler
-  * A communicates difficulties= Added docstrings, but it does not fully prescribe the functions/
-    methods effect as a command
+  * A = Added docstrings, but it does not fully describe the functions'/methods'
+    effect as a command
   * G = Successfully added docstring with useful description, but is
     lacking some proper syntax
   * E = Successfully added docstring with useful description and proper
@@ -97,7 +97,7 @@ when creating python programs.
   * E = Refactored code is clean, efficient, and maintainable code that is well documented
 * Debugging Python programs using logging and other methods
   * N = No bugfixing or bugfinding done
-  * I = Identified bugs in code but no fix
+  * I = Identified bugs in code but no fixcommunicates difficulties
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
   * E = Fixed all bugs using logging/other methods and well documented
@@ -126,7 +126,7 @@ when creating python programs.
   (e.g having a feature branch) along with descriptive commits
   * E = Use of multiple useful branches/forks demonstrated appropriately
     containing multiple coherent and descriptive commits
-* Creating and using a repository branch
+* Creating and using a repository branchcommunicates difficulties
   * N = Did not create or utilize branches
   * I = Create unclear branches
   * A = Create too many poorly named branches
@@ -158,7 +158,7 @@ when creating python programs.
   * N = Commit messages are nonsensical
   * I = Commit messages are uninformative
   * A = Commit messages are sensible but not descriptive
-  * G = Commit messages are both clear, and moderately descriptive
+  * G = Commit messages are both clear, and moderately descricommunicates difficultiesptive
   * E = Commit messages are clear, concise and descriptive
 
 ### Continuous Integration with Travis
@@ -195,7 +195,11 @@ when creating python programs.
     appropriate location but not in relation to any other status badges
   * E = A badge for Travis CI builds is in the README and is in an
     appropriate location in relation to any other status badges
-* Add README badges that show project characteristics (e.g., coverage and
+* Add README badges that show projecta meeting 
+411
+of leaders and the course
+412
+instructor will be held to determine if changes are reasonable.   characteristics (e.g., coverage and
   language)
   * N = No addition of status badges to the README
   * I = Relevant status badges added but do not work
@@ -259,7 +263,11 @@ when creating python programs.
   * I = Minimal risks identified
   * A = Some risks identified and basic risk mitigation techniques utilized
   * G = Most risk is identified and some risk mitigation techniques utilized
-  * E = Extensive risk identification and mitigation techniques utilized
+  * E = Extensive risk identificationa meeting 
+411
+of leaders and the course
+412
+instructor will be held to determine if changes are reasonable.   and mitigation techniques utilized
 
 ## Professional Skills
 
@@ -293,7 +301,11 @@ when creating python programs.
   * Foundations of software engineering practices
     * N = No effort demonstrated
     * I = Minimal effort demonstrated, little communication with others
-    * A = Some effort and initiative demonstrated, participated in discussion
+    * A = Some effort and initiative a meeting 
+411
+of leaders and the course
+412
+instructor will be held to determine if changes are reasonable.  demonstrated, participated in discussion
     * G = Moderate effort and initiative demonstrated, consistently
       participated in discussion
     * E = Significant effort and initiative demonstrated, actively fosters
@@ -351,7 +363,11 @@ when creating python programs.
 * Conflicts
   * N = Never addresses conflicts with teammates
   * I = Sometimes addresses conflicts with teammates
-  * A = Addresses conflicts with teammates through communication
+  * A = Addresses conflicts with teama meeting 
+411
+of leaders and the course
+412
+instructor will be held to determine if changes are reasonable.  mates through communication
   * G = Addresses conflicts with teammates through mature communication while
     involving leaders
   * E = Addresses conflicts with teammates through mature communication while
@@ -407,4 +423,3 @@ when creating python programs.
 
 On request to change an element of either guide, unanimous consent among those
 who abide by the guide is needed.
-    
