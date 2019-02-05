@@ -2,32 +2,33 @@
 
 This repository contains the assessment sheet for [Computer Science 203 Spring
 2019](https://www.gregorykapfhammer.com/teaching/cs203S2019/). The instructor
-will add this assessment sheet to a new GitHub Classroom repository each when
-the software engineering team is completing an assignment. The instructor
-invites each student in the course to master the technical and professional
-skills listed on this assignment sheet.
+will add this assessment sheet to a new GitHub Classroom repository when
+the software engineering team is completing an assignment.
 
-## Improving the Assessment
+## The Assessment Sheet
 
-Please use the [GitHub flow
-model](https://help.github.com/articles/github-flow/) to collaboratively improve
-the assessment sheet. First, you should finalize the list of technical and
-professional skills on which you want to be assessed during the Spring 2019
-semester. Then, you should describe the student behaviors that would lead to an
-assessment at one of the following levels:
+This assessment sheet was created through the combined work of many students.
+The goal of this assessment sheet is to provide both the instructor and the
+class with a way to track the progress of skills related to
+software engineering. The Assessment Sheet is divided into technical and
+professional sections. The technical section contains these subsections:
 
-* N = None
-* I = Inadequate
-* A = Adequate
-* G = Good
-* E = Excellent
+* Software Development with Python
+* Project Management with GitHub
+* Continuous Integration with Travis
+* Foundations of Software Engineering
 
-Finally, you should explain how the assessment for each of the technical and
-professional skills will result in an overall assessment for a software project.
-Once you are finished with the assessment, please update the README as
-necessary.
+The professional skills section contains these subsections:
 
-## Problems with the Assessment
+* Individual
+* Ground
+* Interactions
 
-If you have any problems with this assessment sheet, then please create an
-issue in this repository using the "Issues" link at the top of this site.
+The specifics of each subsection can be found in the `assessment.md` document
+[here](assessment.md).
+
+## Problems with the Assessment Sheet
+
+If you have any problems with this Assessment Sheet, then please create an issue
+in this repository using the "Issues" link at the top of this site.
+
