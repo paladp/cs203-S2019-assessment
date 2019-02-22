@@ -14,11 +14,11 @@
 
 This section of the document contains the assessment categories related to
 software development with Python. Every topic includes five levels of
-competency that will be used to assess students in this class. A wide
+competency that will be used to assess individuals in this class. A wide
 variety of topics are included that all relate to software development
-using python. Among these topics are configuring a development environment,
-using python packages to aid in development, and applying best practices
-when creating python programs.
+using Python. Among these topics are configuring a development environment,
+using Python packages to aid in development, and applying best practices
+when creating ython programs.
 
 * Configuring a development environment for Python
   * N = Unable to setup development environment
@@ -27,23 +27,23 @@ when creating python programs.
     and development tools
   * G = Additional development tools configured, in addition to minimum required
     dependencies and tools
-  * E = Additional development tools configured and able to provide assistance
-    and troubleshooting to other students regarding their own development
+  * E = Additional development tools configured and ability to provide assistance
+    and troubleshooting to other individuals regarding their own development
     environment
 * Running Python programs with `pyenv` and `pipenv`
-  * N = `pyenv` and `pipenv` not installed or setup
+  * N = `pyenv` and `pipenv` not installed
   * I = Unable to run programs with `pyenv` and `pipenv`
   * A = Able to run programs with `pyenv` and `pipenv`
   * G = Able to run programs with `pyenv` and `pipenv` using additional commands
     and flags as necessary
   * E = Able to run programs with `pyenv` and `pipenv` using additional commands
     and flags to streamline workflow, while being able to provide assistance and
-    troubleshooting to other students using `pyenv` and `pipenv`
+    troubleshooting to other individuals using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
   * N = `pylint` and `flake8` not installed, setup, or used
   * I = Unable to run `pylint` and `flake8` to lint Python programs
   * A = Able to run `pylint` and `flake8` to lint Python programs but encounter
-    linting errors
+    some linting errors
   * G = Able to run `pylint` and `flake8` to lint Python programs and pass
     at least one check
   * E = Able to run `pylint` and `flake8` to lint Python programs and pass
@@ -53,25 +53,25 @@ when creating python programs.
   * E = Ran `black` successfully and file was formatted
     additional command line options if necessary
 * Testing of Python programs with `pytest`
-  * N = Did not utilize `pytest`
+  * N = Did not use `pytest`
   * I = Created inadequate test cases
   * A = Created few test cases
   * G = Created thorough test cases
   * E = Created thorough and documented test cases
 * Calculating code coverage of a `pytest` test suite
   * N = Did not check code coverage
-  * E = Checked code coverage with pytest
+  * E = Checked code coverage with `pytest`
 * Reporting code coverage through an online provider
   * N = Did not check coverage
   * A = Checked code coverage using an online provider
   * E = Checked code coverage through an online provider and documentation provided
 * Using docstrings to document a Python program
   * N = Did not use docstrings
-  * I = Incorrectly attempted docstrings unidentifiable to compiler
-  * A = Added docstrings, but it does not fully describe the functions'/methods'
+  * I = Incorrectly attempted docstrings unidentifiable to the compiler
+  * A = Added docstrings, but they do not fully describe the functions'/methods'
     effect as a command
-  * G = Successfully added docstring with useful description, but is
-    lacking some proper syntax
+  * G = Successfully added docstrings with useful description, but they 
+    lack some proper syntax
   * E = Successfully added docstring with useful description and proper
     syntax
 * Adopting and applying appropriate naming conventions
@@ -94,10 +94,10 @@ when creating python programs.
   * I = Little code refactored and no documentation
   * A = Some code refactored and changes documented
   * G = Refactored code contains easy to understand functions and documentation
-  * E = Refactored code is clean, efficient, and maintainable code that is well documented
+  * E = Refactored code is clean, efficient, well documented, and maintainable
 * Debugging Python programs using logging and other methods
   * N = No bugfixing or bugfinding done
-  * I = Identified bugs in code but no fix
+  * I = Identified bugs in code but did not provide any fixes
   * A = Fixed some identified bugs using logging/other methods
   * G = Fixed most identified bugs using logging/other methods
   * E = Fixed all bugs using logging/other methods and well documented
