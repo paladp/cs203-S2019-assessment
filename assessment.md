@@ -224,9 +224,9 @@ when creating python programs.
     system including detailed documentation
 * Software design
   * N = No attempt to create a design
-  * I = Initial steps are taken to conceptualize, frame, and implement systems
+  * I = Initial steps are taken to conceptualize, frame, and design systems
   * A = Some software design is visible to the point where a software solution looks
-    to be developed soon
+    feasible
   * G = A software solution is created that includes both an algorithm design and
     a high-level architecture design
   * E = All goals and expectations of the design are met and compatibility, reliability,
@@ -244,17 +244,19 @@ when creating python programs.
     including reasoning and justification of why certain methods or approaches were
     taken
 * Programming styles
-  * N = Programming style is not set
+  * N = Programming style is not specified
   * I = No clear programming style but has some structured style
-  * A = At least one programming style utilized clearly
+  * A = At least one programming style used clearly
   * G = Most code conforms to predefined styles
   * E = All code conforms to predefined styles and well documented
 * Managing software complexity
   * N = No complexity management techniques utilized
-  * I = Code is non-obvious and complex
-  * A = Basic code management is utilized, such as code simplification or encapsulation
-  * G = Most code is well managed using code complexity management techniques
-  * E = All code utilizes many complexity reduction techniques, such as modular design
+  * I = Code is frequently non-obvious and complex
+  * A = Basic code management is used, such as code simplification or encapsulation
+  * G = Most code is managed using code complexity management techniques such as
+    continous process
+  * E = All code effecitively utilizes many complexity reduction techniques such
+    as modular design
 * Mitigating software risk
   * N = No risk identified
   * I = Minimal risks identified
@@ -270,18 +272,19 @@ when creating python programs.
   * Python software development
     * N = A lack of new knowledge and/or contributions
       to any project
-    * I = Incomplete knowledge or minuscule contributions
+    * I = Incomplete knowledge or minimal contributions
       to projects
     * A = An average amount of knowledge and contributions
       to each project
     * G = An above average amount of knowledge and contributions
       to each project
-    * E = Actively seeking to contribute and understand software development
+    * E = Actively seeking to contribute and understand software development for
+      each project
   * Project management with GitHub, specifically the Flow Model
     * N = A complete disregard for the model, especially multiple
       instances of pushing to the master branch
-    * I = Occasional disregard for the model including pushing to
-      the master branch
+    * I = Occasional disregard for the model including at least one instance of
+      pushing to the master branch
     * A = Almost always adhering to model and never pushing to
       the master branch
     * G = Making only minor mistakes while trying to follow the model
