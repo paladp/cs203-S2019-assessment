@@ -70,7 +70,7 @@ when creating Python programs.
   * I = Incorrectly attempted docstrings unidentifiable to the compiler
   * A = Added docstrings, but they do not fully describe the functions'/methods'
     effect as a command
-  * G = Successfully added docstrings with useful description, but they 
+  * G = Successfully added docstrings with useful description, but they
     lack some proper syntax
   * E = Successfully added docstring with useful description and proper
     syntax
