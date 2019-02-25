@@ -254,8 +254,8 @@ when creating python programs.
   * I = Code is frequently non-obvious and complex
   * A = Basic code management is used, such as code simplification or encapsulation
   * G = Most code is managed using code complexity management techniques such as
-    continous process
-  * E = All code effecitively utilizes many complexity reduction techniques such
+    continuous process
+  * E = All code effectively utilizes many complexity reduction techniques such
     as modular design
 * Mitigating software risk
   * N = No risk identified
