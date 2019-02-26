@@ -27,9 +27,8 @@ when creating Python programs.
     and development tools
   * G = Additional development tools configured, in addition to minimum required
     dependencies and tools
-  * E = Additional development tools configured and ability to provide assistance
-    and troubleshooting to other individuals regarding their own development
-    environment
+  * E = Additional development tools configured and is capable of assisting
+    and troubleshooting other individuals development environment
 * Running Python programs with `pyenv` and `pipenv`
   * N = `pyenv` and `pipenv` not installed
   * I = Unable to run programs with `pyenv` and `pipenv`
@@ -37,7 +36,7 @@ when creating Python programs.
   * G = Able to run programs with `pyenv` and `pipenv` using additional commands
     and flags as necessary
   * E = Able to run programs with `pyenv` and `pipenv` using additional commands
-    and flags to streamline workflow, while being able to provide assistance and
+    and flags to streamline workflow, while providing assistance and
     troubleshooting to other individuals using `pyenv` and `pipenv`
 * Linting Python programs with `pylint` and `flake8`
   * N = `pylint` and `flake8` not installed, setup, or used
@@ -67,7 +66,7 @@ when creating Python programs.
   * E = Checked code coverage through an online provider and documentation provided
 * Using docstrings to document a Python program
   * N = Did not use docstrings
-  * I = Incorrectly attempted docstrings unidentifiable to the compiler
+  * I = Incorrectly use of docstrings which are unidentifiable to the compiler
   * A = Added docstrings, but they do not fully describe the functions'/methods'
     effect as a command
   * G = Successfully added docstrings with useful description, but they
